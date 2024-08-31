@@ -30,7 +30,6 @@ jobs:
           php toSingbox.php
           php toClashSurfboard.php
           php hiddifyWarp.php
-          git pull
           git config --global user.email "KoshulaDora@gmail.com"
           git config --global user.name "KoshulaDora"
           git config credential.helper store
@@ -59,7 +58,6 @@ jobs:
           php sort.php
           php toSingbox.php
           php toClashSurfboard.php
-          git pull
           git config --global user.email "KoshulaDora@gmail.com"
           git config --global user.name "KoshulaDora"
           git config credential.helper store

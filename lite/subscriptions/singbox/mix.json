@@ -139,8 +139,7 @@
                 "🇨🇦CA | 🟢 | vless | @V2rayCollector | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
-                "❔XX | 🔴 | vless | @ProxyForOpeta | 12",
-                "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 13",
+                "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 11",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 4",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 16",
@@ -154,9 +153,9 @@
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 13",
                 "❔XX | 🔴 | vless | @customv2ray | 14",
                 "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 10",
-                "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 11",
-                "🇨🇦CA | 🔴 | vless | @vmessorg | 15",
-                "🇨🇦CA | 🔴 | vless | @vmessorg | 16",
+                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 11",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 15",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 16",
                 "🇸🇪SE | 🔴 | vless | @ShadowProxy66 | 12",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 13",
                 "❔XX | 🔴 | vless | @ServerNett | 14",
@@ -259,8 +258,7 @@
                 "🇨🇦CA | 🟢 | vless | @V2rayCollector | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
-                "❔XX | 🔴 | vless | @ProxyForOpeta | 12",
-                "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 13",
+                "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 11",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 4",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 16",
@@ -274,9 +272,9 @@
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 13",
                 "❔XX | 🔴 | vless | @customv2ray | 14",
                 "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 10",
-                "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 11",
-                "🇨🇦CA | 🔴 | vless | @vmessorg | 15",
-                "🇨🇦CA | 🔴 | vless | @vmessorg | 16",
+                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 11",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 15",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 16",
                 "🇸🇪SE | 🔴 | vless | @ShadowProxy66 | 12",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 13",
                 "❔XX | 🔴 | vless | @ServerNett | 14",
@@ -1076,47 +1074,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ProxyForOpeta | 12",
+            "tag": "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 11",
             "type": "vless",
-            "server": "[2a0d:5940:48:11::]",
-            "server_port": 25366,
-            "uuid": "9e02fb6b-1921-4b71-a5ef-8384aaddae94",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "eset.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MqirmBTKlMGvuYTPQYWfpo3E5cvigHyqxWITLXbZpQ4",
-                    "short_id": "7ba909bf"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 13",
-            "type": "vless",
-            "server": "185.146.173.32",
-            "server_port": 80,
-            "uuid": "03d25a8c-2d35-5e37-b689-95cc627ef40f",
+            "server": "104.16.60.8",
+            "server_port": 2086,
+            "uuid": "962a733d-2614-0b9b-7ffe-9ac92ffea8eb",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1126,9 +1088,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/JoinTelegram-@ELiV2ry-@ELiV2ry-",
+                "path": "\/ahmedquran19.xyz:443\/current_time",
                 "headers": {
-                    "Host": "185.146.173.32"
+                    "Host": "104.16.60.8"
                 }
             }
         },
@@ -1421,7 +1383,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 11",
             "type": "vless",
             "server": "unlimiteddev-vpn.sabadyt.ir",
             "server_port": 8880,
@@ -1435,7 +1397,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @vmessorg | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 15",
             "type": "vless",
             "server": "www.parsvds.ir",
             "server_port": 8080,
@@ -1449,7 +1411,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @vmessorg | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 16",
             "type": "vless",
             "server": "parsvds.com",
             "server_port": 80,

@@ -236,7 +236,6 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @V2rayNGn | 2","type":"vless","server":"www.speedtest.net","port":8080,"udp":false,"uuid":"f7d05b6e-c42b-4a19-8f3b-f104866eb15d","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @V2rayNGn | 4","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"fda2e376-4a54-406b-9795-0bdfa7dbeebb","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=8880","headers":{"host":"www.speedtest.net.B.lightning-6.LiVE."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @V2rayNGn | 5","type":"vless","server":"www.speedtest.net","port":8080,"udp":false,"uuid":"529d564d-f53b-4f9e-bc7b-42db32b8a019","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @V2rayNGn | 6","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"b14da791-0efc-431e-8dae-e6562c1f39fe","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=8880","headers":{"host":"www.speedtest.net.B.lightning-6.LiVE."}}}
   - {"name":"🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 0","type":"trojan","server":"46.137.117.142","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 1","type":"trojan","server":"18.203.97.93","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 2","type":"trojan","server":"18.133.95.141","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
@@ -689,7 +688,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @V2rayNGn | 2'
       - '🇺🇸US | 🔴 | vless | @V2rayNGn | 4'
       - '🇺🇸US | 🔴 | vless | @V2rayNGn | 5'
-      - '🇺🇸US | 🔴 | vless | @V2rayNGn | 6'
       - '🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 0'
       - '🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 1'
       - '🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 2'
@@ -1142,7 +1140,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @V2rayNGn | 2'
       - '🇺🇸US | 🔴 | vless | @V2rayNGn | 4'
       - '🇺🇸US | 🔴 | vless | @V2rayNGn | 5'
-      - '🇺🇸US | 🔴 | vless | @V2rayNGn | 6'
       - '🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 0'
       - '🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 1'
       - '🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 2'
@@ -1594,7 +1591,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @V2rayNGn | 2'
       - '🇺🇸US | 🔴 | vless | @V2rayNGn | 4'
       - '🇺🇸US | 🔴 | vless | @V2rayNGn | 5'
-      - '🇺🇸US | 🔴 | vless | @V2rayNGn | 6'
       - '🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 0'
       - '🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 1'
       - '🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 2'

@@ -281,7 +281,7 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 7",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 8",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
-                "❔XX | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @V2rayCollector | 0",
                 "🇺🇸US | 🟢 | vless | @V2rayCollector | 1",
                 "🇺🇸US | 🟢 | vless | @V2rayCollector | 2",
@@ -308,7 +308,6 @@
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 2",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 4",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 5",
-                "🇺🇸US | 🔴 | vless | @V2rayNGn | 6",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 0",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 1",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 2",
@@ -369,7 +368,7 @@
                 "🚩CF | 🔴 | vless | @customv2ray | 3",
                 "❔XX | 🔴 | vless | @customv2ray | 6",
                 "🚩CF | 🔴 | vless | @customv2ray | 7",
-                "🇨🇿CZ | 🔴 | vless | @customv2ray | 9",
+                "🇨🇾CY | 🔴 | vless | @customv2ray | 9",
                 "❔XX | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 13",
@@ -882,7 +881,7 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 7",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 8",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
-                "❔XX | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @V2rayCollector | 0",
                 "🇺🇸US | 🟢 | vless | @V2rayCollector | 1",
                 "🇺🇸US | 🟢 | vless | @V2rayCollector | 2",
@@ -909,7 +908,6 @@
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 2",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 4",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 5",
-                "🇺🇸US | 🔴 | vless | @V2rayNGn | 6",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 0",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 1",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 2",
@@ -970,7 +968,7 @@
                 "🚩CF | 🔴 | vless | @customv2ray | 3",
                 "❔XX | 🔴 | vless | @customv2ray | 6",
                 "🚩CF | 🔴 | vless | @customv2ray | 7",
-                "🇨🇿CZ | 🔴 | vless | @customv2ray | 9",
+                "🇨🇾CY | 🔴 | vless | @customv2ray | 9",
                 "❔XX | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 13",
@@ -5443,7 +5441,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2logy | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 10",
             "type": "vless",
             "server": "ArV2ray.mAshtimji.IR",
             "server_port": 443,
@@ -6156,27 +6154,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @V2rayNGn | 6",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8880,
-            "uuid": "b14da791-0efc-431e-8dae-e6562c1f39fe",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=8880",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
             }
         },
         {
@@ -7552,7 +7529,7 @@
             }
         },
         {
-            "tag": "🇨🇿CZ | 🔴 | vless | @customv2ray | 9",
+            "tag": "🇨🇾CY | 🔴 | vless | @customv2ray | 9",
             "type": "vless",
             "server": "Love.salarvand.org",
             "server_port": 2082,

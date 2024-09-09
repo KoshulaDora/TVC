@@ -179,7 +179,7 @@
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
                 "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 11",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 6",
@@ -291,7 +291,7 @@
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
                 "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 11",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 6",
@@ -1976,11 +1976,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "accaabb-acba-bcaa-cadb-babbcaaccacb",
+            "server": "104.21.83.115",
+            "server_port": 443,
+            "uuid": "6c168fcc-2231-4f3b-8c1e-f6391692df4a",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1990,6 +1990,23 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hms02.fxiaomi.sbs",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/link",
+                "headers": {
+                    "Host": "hms02.fxiaomi.sbs"
+                }
             }
         },
         {
@@ -1997,7 +2014,7 @@
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 1080,
-            "uuid": "acbcbaa-aabc-acab-cdab-baccaabbcabc",
+            "uuid": "accaabb-acba-bcaa-cadb-babbcaaccacb",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,

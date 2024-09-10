@@ -159,8 +159,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 11",
                 "❔XX | 🔴 | vless | @ServerNett | 17",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 18",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 14",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 15",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 14",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 15",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 14",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 3",
@@ -198,8 +198,8 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
                 "❔XX | 🟢 | vless | @iP_CF | 2",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 3",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 10",
                 "❔XX | 🔴 | vless | @kiava | 7",
                 "❔XX | 🔴 | vless | @kiava | 8",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 13",
@@ -273,8 +273,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 11",
                 "❔XX | 🔴 | vless | @ServerNett | 17",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 18",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 14",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 15",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 14",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 15",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 14",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 3",
@@ -312,8 +312,8 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
                 "❔XX | 🟢 | vless | @iP_CF | 2",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 3",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 10",
                 "❔XX | 🔴 | vless | @kiava | 7",
                 "❔XX | 🔴 | vless | @kiava | 8",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 13",
@@ -815,7 +815,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "b5197253-90cf-45e7-bdb4-59a28e3b675e",
+            "uuid": "13ee9ac4-6b8d-42d5-90c5-7dc777fb5278",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -836,7 +836,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "b5197253-90cf-45e7-bdb4-59a28e3b675e",
+            "uuid": "13ee9ac4-6b8d-42d5-90c5-7dc777fb5278",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1531,7 +1531,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 14",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1545,7 +1545,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 15",
             "type": "vless",
             "server": "www.parsvds.ir",
             "server_port": 2095,
@@ -2417,7 +2417,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
@@ -2438,7 +2438,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 10",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,

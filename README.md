@@ -11,7 +11,7 @@
   <b>This project is intended for educational purposes only. Any other use of it, including commercial, personal, or non-educational use, is not accepted!</b>
 </p>
 
-<p align="center">This is a PHP script that collects V2Ray Configs from various Channels and saves them to different Subscription files based on their protocol type (SHADOWSOCKS, VLESS, VMESS, TROJAN, TUIC and HYSTERIA2).</p>
+<p align="center">The other [one](https://github.com/KoshulaDora/TelegramV2rayCollector/tree/main)</p>
 
 ## Instructions & Usage
 

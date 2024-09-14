@@ -149,8 +149,8 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 19",
+                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 7",
-                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 8",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 14",
                 "🇨🇦CA | 🟢 | vmess | @customv2ray | 15",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 8",
@@ -168,8 +168,8 @@
                 "🇺🇸US | 🔴 | vless | @MTConfig | 9",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 10",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 11",
+                "🇺🇸US | 🔴 | vless | @V2RayTz | 17",
                 "🇺🇸US | 🔴 | vless | @V2RayTz | 18",
-                "🇺🇸US | 🔴 | vless | @V2RayTz | 19",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 327",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 328",
                 "🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 35",
@@ -254,8 +254,8 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 19",
+                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 7",
-                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 8",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 14",
                 "🇨🇦CA | 🟢 | vmess | @customv2ray | 15",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 8",
@@ -273,8 +273,8 @@
                 "🇺🇸US | 🔴 | vless | @MTConfig | 9",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 10",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 11",
+                "🇺🇸US | 🔴 | vless | @V2RayTz | 17",
                 "🇺🇸US | 🔴 | vless | @V2RayTz | 18",
-                "🇺🇸US | 🔴 | vless | @V2RayTz | 19",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 327",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 328",
                 "🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 35",
@@ -1360,6 +1360,30 @@
             }
         },
         {
+            "tag": "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 6",
+            "type": "vmess",
+            "server": "104.26.15.148",
+            "server_port": 80,
+            "uuid": "2c4d6f66-2966-49c1-93aa-a7192ba8f8fc",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
             "tag": "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 7",
             "type": "vmess",
             "server": "104.21.95.165",
@@ -1390,30 +1414,6 @@
                 "path": "\/linkvws",
                 "headers": {
                     "Host": "sareikela.com"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 8",
-            "type": "vmess",
-            "server": "www.visa.com.sg",
-            "server_port": 8880,
-            "uuid": "07c9b664-2b37-4e4f-b9e8-db884c98ae10",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
                 }
             }
         },
@@ -1820,6 +1820,37 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @V2RayTz | 17",
+            "type": "vless",
+            "server": "151.101.66.219",
+            "server_port": 443,
+            "uuid": "7a9b2684-a0a9-47ff-b6ab-7c0732e93182",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "speedtest.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
+                "headers": {
+                    "Host": "speedtest.net"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @V2RayTz | 18",
             "type": "vless",
             "server": "104.17.147.22",
@@ -1835,27 +1866,6 @@
             "transport": {
                 "type": "ws",
                 "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2560",
-                "headers": {
-                    "Host": "104.17.147.22"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @V2RayTz | 19",
-            "type": "vless",
-            "server": "104.17.147.22",
-            "server_port": 8880,
-            "uuid": "b49f0bde-caa4-4127-8ea0-6094f1a65235",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=8880",
                 "headers": {
                     "Host": "104.17.147.22"
                 }

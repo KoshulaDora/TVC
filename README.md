@@ -11,7 +11,7 @@
   <b>This project is intended for educational purposes only. Any other use of it, including commercial, personal, or non-educational use, is not accepted!</b>
 </p>
 
-<p align="center">The other [one](https://github.com/KoshulaDora/TelegramV2rayCollector/tree/main)</p>
+<p align="center">The other <a href="https://github.com/KoshulaDora/TelegramV2rayCollector/tree/main">one</a> </p>
 
 ## Instructions & Usage
 

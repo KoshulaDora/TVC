@@ -110,8 +110,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 42",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 12",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 16",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 14",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 15",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 13",
@@ -147,8 +147,8 @@
                 "❔XX | 🔴 | vless | @ServerNett | 15",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 16",
                 "🇸🇪SE | 🔴 | vless | @v2ray_swhil | 18",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 19",
-                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 9",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 19",
+                "🇺🇸US | 🔴 | vless | @proxyymeliii | 9",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
                 "🇺🇸US | 🔴 | vless | @MTConfig | 8",
@@ -189,8 +189,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 42",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 12",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 16",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 14",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 15",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 13",
@@ -226,8 +226,8 @@
                 "❔XX | 🔴 | vless | @ServerNett | 15",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 16",
                 "🇸🇪SE | 🔴 | vless | @v2ray_swhil | 18",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 19",
-                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 9",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 19",
+                "🇺🇸US | 🔴 | vless | @proxyymeliii | 9",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
                 "🇺🇸US | 🔴 | vless | @MTConfig | 8",
@@ -370,9 +370,9 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "15.156.219.36",
+            "server": "13.39.187.210",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -401,9 +401,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "54.235.76.168",
+            "server": "15.156.144.249",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -679,7 +679,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "6e1e9f5b-0606-46fd-a8d5-93857b23e8ef",
+            "uuid": "aa43a070-e690-4b6f-8960-eb779c067704",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -700,7 +700,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "6e1e9f5b-0606-46fd-a8d5-93857b23e8ef",
+            "uuid": "aa43a070-e690-4b6f-8960-eb779c067704",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1332,7 +1332,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 19",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -1353,7 +1353,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxyymeliii | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @proxyymeliii | 9",
             "type": "vless",
             "server": "unpkg.com",
             "server_port": 8880,

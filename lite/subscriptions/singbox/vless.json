@@ -127,8 +127,8 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 16",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 17",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 7",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 8",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 6",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇨🇦CA | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🟢 | vless | @V2rayCollector | 2",
@@ -146,8 +146,8 @@
                 "❔XX | 🔴 | vless | @ServerNett | 15",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 16",
                 "🇸🇪SE | 🔴 | vless | @v2ray_swhil | 19",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 20",
-                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 9",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 20",
+                "🇺🇸US | 🔴 | vless | @proxyymeliii | 9",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇸🇬SG | 🔴 | vless | @v2ray1_ng | 4",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
@@ -207,8 +207,8 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 16",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 17",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 7",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 8",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 6",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇨🇦CA | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🟢 | vless | @V2rayCollector | 2",
@@ -226,8 +226,8 @@
                 "❔XX | 🔴 | vless | @ServerNett | 15",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 16",
                 "🇸🇪SE | 🔴 | vless | @v2ray_swhil | 19",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 20",
-                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 9",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 20",
+                "🇺🇸US | 🔴 | vless | @proxyymeliii | 9",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇸🇬SG | 🔴 | vless | @v2ray1_ng | 4",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
@@ -766,7 +766,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -797,7 +797,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 6",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -1291,7 +1291,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 20",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 20",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -1312,7 +1312,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxyymeliii | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @proxyymeliii | 9",
             "type": "vless",
             "server": "unpkg.com",
             "server_port": 8880,

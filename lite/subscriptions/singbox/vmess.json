@@ -109,9 +109,9 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇨🇦CA | 🟢 | vmess | @V2rayng_Fast | 3",
-                "🇺🇸US | 🟢 | vmess | @proxystore11 | 0",
+                "🇨🇦CA | 🟢 | vmess | @proxystore11 | 0",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "❔XX | 🟢 | vmess | @Hope_Net | 7"
             ]
@@ -123,9 +123,9 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇨🇦CA | 🟢 | vmess | @V2rayng_Fast | 3",
-                "🇺🇸US | 🟢 | vmess | @proxystore11 | 0",
+                "🇨🇦CA | 🟢 | vmess | @proxystore11 | 0",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "❔XX | 🟢 | vmess | @Hope_Net | 7"
             ],
@@ -153,7 +153,7 @@
             "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
             "type": "vmess",
             "server": "183.236.51.23",
-            "server_port": 45020,
+            "server_port": 54104,
             "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
             "security": "auto",
             "alter_id": 64,
@@ -169,8 +169,8 @@
         {
             "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
             "type": "vmess",
-            "server": "183.238.90.3",
-            "server_port": 40890,
+            "server": "183.236.51.23",
+            "server_port": 45020,
             "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
             "security": "auto",
             "alter_id": 64,
@@ -218,7 +218,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @proxystore11 | 0",
+            "tag": "🇨🇦CA | 🟢 | vmess | @proxystore11 | 0",
             "type": "vmess",
             "server": "172.67.71.160",
             "server_port": 443,
@@ -276,7 +276,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,

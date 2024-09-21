@@ -156,7 +156,7 @@
                 "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 20",
                 "🇸🇪SE | 🔴 | vless | @v2ray_swhil | 21",
                 "❔XX | 🔴 | vless | @proxyymeliii | 7",
-                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 8",
+                "🇺🇸US | 🔴 | vless | @proxyymeliii | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 10",
@@ -249,7 +249,7 @@
                 "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 20",
                 "🇸🇪SE | 🔴 | vless | @v2ray_swhil | 21",
                 "❔XX | 🔴 | vless | @proxyymeliii | 7",
-                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 8",
+                "🇺🇸US | 🔴 | vless | @proxyymeliii | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 10",
@@ -1514,7 +1514,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxyymeliii | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @proxyymeliii | 8",
             "type": "vless",
             "server": "discord.gg",
             "server_port": 2087,
@@ -2240,8 +2240,8 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 15",
             "type": "vless",
-            "server": "104.24.38.200",
-            "server_port": 8080,
+            "server": "Speedtest.net",
+            "server_port": 443,
             "uuid": "TELEGRAM-NUFiLTER",
             "flow": "",
             "packet_encoding": "xudp",
@@ -2249,6 +2249,23 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "speedtest.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+                "headers": {
+                    "Host": "speedtest.net"
+                }
             }
         },
         {

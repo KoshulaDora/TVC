@@ -161,8 +161,8 @@
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 10",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 11",
                 "🇸🇬SG | 🔴 | vless | @VmessProtocol | 12",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 269",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 270",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 269",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 270",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 20",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 21",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 0",
@@ -171,7 +171,7 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "❔XX | 🟢 | vmess | @Hope_Net | 7",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 5",
+                "🇺🇸US | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 4",
@@ -252,8 +252,8 @@
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 10",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 11",
                 "🇸🇬SG | 🔴 | vless | @VmessProtocol | 12",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 269",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 270",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 269",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 270",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 20",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 21",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 0",
@@ -262,7 +262,7 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "❔XX | 🟢 | vmess | @Hope_Net | 7",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 5",
+                "🇺🇸US | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 4",
@@ -1652,28 +1652,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 269",
-            "type": "vless",
-            "server": "SpeedTest.net",
-            "server_port": 80,
-            "uuid": "2415aa3c-f129-4c10-a007-3054bd21bcef",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "SpeedTest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 270",
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 269",
             "type": "vless",
             "server": "SpeedTest.net",
             "server_port": 443,
@@ -1700,6 +1679,27 @@
                 "path": "\/",
                 "headers": {
                     "Host": "speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 270",
+            "type": "vless",
+            "server": "SpeedTest.net",
+            "server_port": 80,
+            "uuid": "2415aa3c-f129-4c10-a007-3054bd21bcef",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "SpeedTest.net"
                 }
             }
         },
@@ -1913,11 +1913,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "9f127d3d-1300-4319-bd35-7b217e69155f",
+            "uuid": "66eb3e3f-5d0e-4372-b0e0-91971ae06a1b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {

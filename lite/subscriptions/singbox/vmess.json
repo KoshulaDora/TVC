@@ -108,12 +108,13 @@
                 "URL-TEST",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇦CA | 🟢 | vmess | @mftizi | 18",
-                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 21",
+                "❔XX | 🟢 | vmess | @ShadowProxy66 | 21",
                 "❔XX | 🟢 | vmess | @proxystore11 | 5",
-                "🇨🇦CA | 🟢 | vmess | @proxystore11 | 6",
-                "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
-                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0"
+                "❔XX | 🟢 | vmess | @proxystore11 | 6",
+                "❔XX | 🟢 | vmess | @yaney_01 | 4",
+                "❔XX | 🟢 | vmess | @yaney_01 | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 2",
+                "❔XX | 🟢 | vmess | @Hope_Net | 3"
             ]
         },
         {
@@ -122,12 +123,13 @@
             "outbounds": [
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇦CA | 🟢 | vmess | @mftizi | 18",
-                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 21",
+                "❔XX | 🟢 | vmess | @ShadowProxy66 | 21",
                 "❔XX | 🟢 | vmess | @proxystore11 | 5",
-                "🇨🇦CA | 🟢 | vmess | @proxystore11 | 6",
-                "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
-                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0"
+                "❔XX | 🟢 | vmess | @proxystore11 | 6",
+                "❔XX | 🟢 | vmess | @yaney_01 | 4",
+                "❔XX | 🟢 | vmess | @yaney_01 | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 2",
+                "❔XX | 🟢 | vmess | @Hope_Net | 3"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -191,7 +193,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 21",
+            "tag": "❔XX | 🟢 | vmess | @ShadowProxy66 | 21",
             "type": "vmess",
             "server": "162.251.62.115",
             "server_port": 22324,
@@ -225,7 +227,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @proxystore11 | 6",
+            "tag": "❔XX | 🟢 | vmess | @proxystore11 | 6",
             "type": "vmess",
             "server": "172.67.71.160",
             "server_port": 443,
@@ -259,7 +261,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
+            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 4",
             "type": "vmess",
             "server": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
             "server_port": 80,
@@ -283,7 +285,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -317,7 +319,41 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 2",
+            "type": "vmess",
+            "server": "qiqis.cf",
+            "server_port": 443,
+            "uuid": "4e6d153c-e5b2-4911-bc72-e11c64f3ce93",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "qiqis.cf",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/b356a4\/",
+                "headers": {
+                    "Host": "qiqis.cf"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
             "server": "172.64.175.213",
             "server_port": 2086,

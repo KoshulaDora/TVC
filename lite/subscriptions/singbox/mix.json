@@ -109,8 +109,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 15",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 15",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 10",
                 "🇨🇦CA | 🔴 | vless | @frev2ray | 0",
@@ -133,10 +133,10 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 11",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 12",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 17",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 15",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 16",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
@@ -201,8 +201,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 15",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 15",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 10",
                 "🇨🇦CA | 🔴 | vless | @frev2ray | 0",
@@ -225,10 +225,10 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 11",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 12",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 17",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 15",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 16",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
@@ -365,7 +365,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
             "server": "16.16.154.77",
             "server_port": 22222,
@@ -396,7 +396,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
             "server": "51.20.57.177",
             "server_port": 22222,
@@ -969,7 +969,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15",
+            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 16",
             "type": "trojan",
             "server": "51.21.88.148",
             "server_port": 22222,
@@ -991,7 +991,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 16",
+            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 17",
             "type": "trojan",
             "server": "16.171.183.173",
             "server_port": 22222,
@@ -1013,9 +1013,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
+            "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 15",
             "type": "trojan",
-            "server": "13.60.160.94",
+            "server": "3.78.23.212",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -1035,9 +1035,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
+            "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 16",
             "type": "trojan",
-            "server": "16.16.30.24",
+            "server": "3.64.17.216",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {

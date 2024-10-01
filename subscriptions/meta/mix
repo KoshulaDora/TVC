@@ -456,7 +456,6 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | @Hope_Net | 3","type":"vmess","server":"210.75.24.222","port":"443","cipher":"auto","uuid":"1bbf1ef7-3056-4160-9cab-491e024de705","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/123","headers":{"host":"sgamd.ptuu.ga"}}}
   - {"name":"🇺🇸US | 🟢 | vmess | @Hope_Net | 4","type":"vmess","server":"japan.com","port":"2086","cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"ip1.1789034.xyz"}}}
   - {"name":"🇺🇸US | 🟢 | vmess | @Hope_Net | 6","type":"vmess","server":"cfcdn1.sanfencdn9.com","port":"2052","cipher":"auto","uuid":"af0bfcce-8730-4133-bdaa-f6b1da70fc1c","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/video/yGbumWFW/","headers":{"host":"us2htbepeox.inivtrak.xyz"}}}
-  - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 7","type":"vmess","server":"104.19.47.36","port":2086,"cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"ip14.freegradely.xyz"}}}
   - {"name":"🚩CF | 🔴 | vless | @Outlinev2rayNG | 1","type":"vless","server":"104.18.218.118","port":443,"udp":false,"uuid":"a94edb46-0734-4593-a8b5-9cd11ddc57f6","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"5c53ca21.vpn-aryoo.pages.dev","ws-opts":{"path":"/Telegram-MARAMBASHI/?ed=2560","headers":{"host":"5c53ca21.vpn-aryoo.pages.dev"}}}
   - {"name":"🚩CF | 🔴 | vless | @Outlinev2rayNG | 2","type":"vless","server":"172.66.44.57","port":443,"udp":false,"uuid":"2d01b0eb-91fd-4eae-9fb0-50c08856181d","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"e420ceed.aryoo-vpn-friends.pages.dev","ws-opts":{"path":"/?ed=2560","headers":{"host":"e420ceed.aryoo-vpn-friends.pages.dev"}}}
   - {"name":"🚩CF | 🔴 | vless | @Outlinev2rayNG | 3","type":"vless","server":"172.66.45.7","port":443,"udp":false,"uuid":"a94edb46-0734-4593-a8b5-9cd11ddc57f6","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"5c53ca21.vpn-aryoo.pages.dev","ws-opts":{"path":"/?ed=2560","headers":{"host":"5c53ca21.vpn-aryoo.pages.dev"}}}
@@ -892,7 +891,6 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 3'
       - '🇺🇸US | 🟢 | vmess | @Hope_Net | 4'
       - '🇺🇸US | 🟢 | vmess | @Hope_Net | 6'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 7'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 1'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 2'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 3'
@@ -1328,7 +1326,6 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 3'
       - '🇺🇸US | 🟢 | vmess | @Hope_Net | 4'
       - '🇺🇸US | 🟢 | vmess | @Hope_Net | 6'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 7'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 1'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 2'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 3'
@@ -1763,7 +1760,6 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @Hope_Net | 3'
       - '🇺🇸US | 🟢 | vmess | @Hope_Net | 4'
       - '🇺🇸US | 🟢 | vmess | @Hope_Net | 6'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 7'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 1'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 2'
       - '🚩CF | 🔴 | vless | @Outlinev2rayNG | 3'

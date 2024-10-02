@@ -158,7 +158,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @MTConfig | 14","type":"vless","server":"all.vipxali.cfd","port":2083,"udp":false,"uuid":"d113cd5c-80c9-43e2-a567-107819004a12","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"dm.xsv2ray.cfd"}
   - {"name":"🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 6","type":"vless","server":"172.67.139.111","port":443,"udp":false,"uuid":"7a5a4624-df8d-4955-bccc-b3fa6161411f","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"Pages.dev","ws-opts":{"path":"/Telegram-XV2ry2?ed=512","headers":{"host":"telegrm432XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 7","type":"vless","server":"104.16.16.16","port":443,"udp":false,"uuid":"7a5a4624-df8d-4955-bccc-b3fa6161411f","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"Pages.dev","ws-opts":{"path":"/Telegram-XV2ry2?ed=512","headers":{"host":"telegrm432XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @VmessProtocol | 15","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"4f34a8ec-0859-4aa7-aaf8-45a1e2a0081a","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol","headers":{"host":"www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @VmessProtocol | 16","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"4f34a8ec-0859-4aa7-aaf8-45a1e2a0081a","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol","headers":{"host":"www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net"}}}
   - {"name":"🇺🇸US | 🟢 | vless | @DailyV2RY | 321","type":"vless","server":"SpeedTest.net","port":443,"udp":false,"uuid":"23845d7f-95a8-463d-b0b3-0726b73eaa60","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"speedtest.net","ws-opts":{"path":"","headers":{"host":"wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.drlimit.net"}}}
   - {"name":"🇺🇸US | 🟢 | vless | @DailyV2RY | 322","type":"vless","server":"SpeedTest.net","port":443,"udp":false,"uuid":"23845d7f-95a8-463d-b0b3-0726b73eaa60","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"speedtest.net","ws-opts":{"path":"","headers":{"host":"wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.drlimit.net"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @lrnbymaa | 11","type":"vless","server":"www.speedtest.net","port":8443,"udp":false,"uuid":"4c74edf8-69ae-40f3-bc13-a22e9b31b751","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com","ws-opts":{"path":"/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2480","headers":{"host":"Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com"}}}
@@ -231,7 +231,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @MTConfig | 14'
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 6'
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 7'
-      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 15'
+      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 16'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 321'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 322'
       - '🇺🇸US | 🔴 | vless | @lrnbymaa | 11'
@@ -304,7 +304,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @MTConfig | 14'
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 6'
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 7'
-      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 15'
+      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 16'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 321'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 322'
       - '🇺🇸US | 🔴 | vless | @lrnbymaa | 11'
@@ -376,7 +376,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @MTConfig | 14'
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 6'
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 7'
-      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 15'
+      - '🇺🇸US | 🔴 | vless | @VmessProtocol | 16'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 321'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 322'
       - '🇺🇸US | 🔴 | vless | @lrnbymaa | 11'

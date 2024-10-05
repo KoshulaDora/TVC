@@ -338,6 +338,7 @@
                 "🚩CF | 🔴 | vless | @proxyymeliii | 14",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 0",
                 "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 2",
+                "🚩CF | 🔴 | vless | @v2ray1_ng | 4",
                 "🚩CF | 🔴 | vless | @MTConfig | 0",
                 "🇸🇪SE | 🔴 | vless | @MTConfig | 1",
                 "🇺🇸US | 🔴 | vless | @MTConfig | 2",
@@ -415,7 +416,7 @@
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 6",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
+                "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
@@ -433,7 +434,7 @@
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 13",
                 "🚩CF | 🔴 | vless | @Capital_NET | 14",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 16",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 17",
+                "🇺🇸US | 🔴 | vless | @Capital_NET | 17",
                 "🇳🇱NL | 🟢 | vless | @Capital_NET | 18",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 19",
                 "🇳🇱NL | 🟢 | vless | @Capital_NET | 20",
@@ -755,6 +756,7 @@
                 "🚩CF | 🔴 | vless | @proxyymeliii | 14",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 0",
                 "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 2",
+                "🚩CF | 🔴 | vless | @v2ray1_ng | 4",
                 "🚩CF | 🔴 | vless | @MTConfig | 0",
                 "🇸🇪SE | 🔴 | vless | @MTConfig | 1",
                 "🇺🇸US | 🔴 | vless | @MTConfig | 2",
@@ -832,7 +834,7 @@
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 6",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
+                "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
@@ -850,7 +852,7 @@
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 13",
                 "🚩CF | 🔴 | vless | @Capital_NET | 14",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 16",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 17",
+                "🇺🇸US | 🔴 | vless | @Capital_NET | 17",
                 "🇳🇱NL | 🟢 | vless | @Capital_NET | 18",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 19",
                 "🇳🇱NL | 🟢 | vless | @Capital_NET | 20",
@@ -6680,6 +6682,20 @@
             }
         },
         {
+            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 4",
+            "type": "vless",
+            "server": "104.17.147.22",
+            "server_port": 80,
+            "uuid": "7c0b8e40-312d-4afb-8622-ae76a990523a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🚩CF | 🔴 | vless | @MTConfig | 0",
             "type": "vless",
             "server": "172.66.44.135",
@@ -8696,7 +8712,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
+            "tag": "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 2",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -9177,7 +9193,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @Capital_NET | 17",
             "type": "vless",
             "server": "104.31.16.133",
             "server_port": 2096,

@@ -235,6 +235,7 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
+                "🚩CF | 🔴 | vless | @proxy_kafee | 0",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 3",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 6",
@@ -259,7 +260,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 2",
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 15",
-                "🇮🇷IR | 🔴 | trojan | @V2rayCollectorDonate | 17",
+                "❔XX | 🔴 | trojan | @V2rayCollectorDonate | 17",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 0",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 1",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 2",
@@ -529,7 +530,6 @@
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 1",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 2",
@@ -764,6 +764,7 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
+                "🚩CF | 🔴 | vless | @proxy_kafee | 0",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 3",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 6",
@@ -788,7 +789,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 2",
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 15",
-                "🇮🇷IR | 🔴 | trojan | @V2rayCollectorDonate | 17",
+                "❔XX | 🔴 | trojan | @V2rayCollectorDonate | 17",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 0",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 1",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 2",
@@ -1058,7 +1059,6 @@
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 1",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 2",
@@ -4272,6 +4272,37 @@
             }
         },
         {
+            "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "104.17.148.22",
+            "server_port": 443,
+            "uuid": "e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "119f3a0b.chikiy123w.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "119f3a0b.chikiy123w.pages.dev"
+                }
+            }
+        },
+        {
             "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 3",
             "type": "vless",
             "server": "172.66.44.56",
@@ -4922,7 +4953,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | trojan | @V2rayCollectorDonate | 17",
+            "tag": "❔XX | 🔴 | trojan | @V2rayCollectorDonate | 17",
             "type": "trojan",
             "server": "server2.cactusrobot.ir",
             "server_port": 8608,
@@ -11773,37 +11804,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
-            "type": "vless",
-            "server": "172.66.46.249",
-            "server_port": 443,
-            "uuid": "90cd4a77-141a-43c9-991b-08263cfe9c10",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "79193c43.aryoovpn-5fr.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "79193c43.aryoovpn-5fr.pages.dev"
-                }
             }
         },
         {

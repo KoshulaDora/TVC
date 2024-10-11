@@ -283,8 +283,6 @@
                 "🇺🇸US | 🟢 | vless | @vmessorg | 7",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 8",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 9",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 10",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 11",
                 "🇧🇬BG | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇲🇩MD | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇦🇹AT | 🔴 | vless | @ShadowProxy66 | 2",
@@ -705,8 +703,6 @@
                 "🇺🇸US | 🟢 | vless | @vmessorg | 7",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 8",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 9",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 10",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 11",
                 "🇧🇬BG | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇲🇩MD | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇦🇹AT | 🔴 | vless | @ShadowProxy66 | 2",
@@ -5368,68 +5364,6 @@
             "server": "speedtest.net",
             "server_port": 443,
             "uuid": "0ebea64e-e1f6-461e-a2c7-d78a0569f595",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080",
-                "headers": {
-                    "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 10",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 443,
-            "uuid": "fa7f1734-b1b1-4b5f-a556-48f635a9fec5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080",
-                "headers": {
-                    "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 11",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 443,
-            "uuid": "71f254f6-88dd-4a89-bcd7-8d4dd5885cd3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {

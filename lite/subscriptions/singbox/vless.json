@@ -129,6 +129,7 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 14",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 15",
+                "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 0",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 10",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
@@ -206,6 +207,7 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 14",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 15",
+                "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 0",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 10",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
@@ -832,6 +834,20 @@
             }
         },
         {
+            "tag": "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 0",
+            "type": "vless",
+            "server": "ir2.ordeloil.com",
+            "server_port": 2069,
+            "uuid": "89924dcb-c2b2-4eb0-a046-7ea17cf60479",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 10",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -1023,7 +1039,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "81ea08b9-a83a-49f0-a4cf-8f0c8bd8e32a",
+            "uuid": "cd26b083-52a2-494b-927a-5811b15697dc",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1054,7 +1070,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "0ebea64e-e1f6-461e-a2c7-d78a0569f595",
+            "uuid": "81ea08b9-a83a-49f0-a4cf-8f0c8bd8e32a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {

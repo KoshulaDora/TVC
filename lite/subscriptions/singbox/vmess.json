@@ -107,13 +107,13 @@
             "outbounds": [
                 "URL-TEST",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
+                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 17",
                 "🇺🇸US | 🟢 | vmess | @V2rayng_Fast | 0",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 12",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 13"
+                "🇯🇵JP | 🟢 | vmess | @Hope_Net | 10",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 11"
             ]
         },
         {
@@ -121,13 +121,13 @@
             "type": "urltest",
             "outbounds": [
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
+                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 17",
                 "🇺🇸US | 🟢 | vmess | @V2rayng_Fast | 0",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 12",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 13"
+                "🇯🇵JP | 🟢 | vmess | @Hope_Net | 10",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 11"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -167,11 +167,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
+            "tag": "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 17",
             "type": "vmess",
-            "server": "jahfkjha.cfd",
-            "server_port": 443,
-            "uuid": "950db6aa-4926-4616-816e-ec0312dcb87b",
+            "server": "104.16.67.38",
+            "server_port": 2087,
+            "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -184,7 +184,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "jahfkjha.cfd",
+                "server_name": "worker-bitter-math-2af8.waxoha3621.workers.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -194,9 +194,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/linkws",
+                "path": "\/afrhms16v.bestxray.buzz\/linkws",
                 "headers": {
-                    "Host": "jahfkjha.cfd"
+                    "Host": "worker-bitter-math-2af8.waxoha3621.workers.dev"
                 }
             }
         },
@@ -310,11 +310,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 12",
+            "tag": "🇯🇵JP | 🟢 | vmess | @Hope_Net | 10",
             "type": "vmess",
-            "server": "amdjp.fineyoo.ml",
+            "server": "172.105.238.164",
             "server_port": 443,
-            "uuid": "ce48596c-f159-498b-a333-a0b8683cba7f",
+            "uuid": "3706161f-3ee3-48e5-bfcf-0d856cc6f0ab",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -327,7 +327,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "amdjp.fineyoo.ml",
+                "server_name": "172.105.238.164",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -337,18 +337,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/ray",
+                "path": "\/down",
                 "headers": {
-                    "Host": "amdjp.fineyoo.ml"
+                    "Host": "172.105.238.164"
                 }
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 13",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
             "type": "vmess",
-            "server": "pro01.my1188.org",
-            "server_port": 3213,
-            "uuid": "ec908e55-25f5-3da5-9d0b-3e4d20fa1a3b",
+            "server": "ah.yd01.paopaocloud.cyou",
+            "server_port": 10014,
+            "uuid": "d8c5b486-84bb-3887-a1d9-07455ea608f2",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -361,7 +361,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "pro01.my1188.org",
+                "server_name": "ah.yd01.paopaocloud.cyou",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -371,9 +371,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/v2ray",
                 "headers": {
-                    "Host": "pro01.my1188.org"
+                    "Host": "ah.yd01.paopaocloud.cyou"
                 }
             }
         }

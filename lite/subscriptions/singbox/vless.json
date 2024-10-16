@@ -133,7 +133,7 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 2",
-                "🇺🇸US | 🔴 | vless | @azadi_az_inja_migzare | 0",
+                "🇨🇦CA | 🔴 | vless | @azadi_az_inja_migzare | 0",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
                 "❔XX | 🔴 | vless | @customv2ray | 9",
@@ -153,8 +153,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 10",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 11",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
+                "🇺🇸US | 🔴 | vless | @VmessProtocol | 13",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 306",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 18",
@@ -211,7 +210,7 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 2",
-                "🇺🇸US | 🔴 | vless | @azadi_az_inja_migzare | 0",
+                "🇨🇦CA | 🔴 | vless | @azadi_az_inja_migzare | 0",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
                 "❔XX | 🔴 | vless | @customv2ray | 9",
@@ -231,8 +230,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 10",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 11",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
+                "🇺🇸US | 🔴 | vless | @VmessProtocol | 13",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 306",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 18",
@@ -701,7 +699,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "c1e4c285-0239-479d-a726-da593b9fa67f",
+            "uuid": "d2f54859-4732-4e31-aff9-df1d7868726e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -722,7 +720,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "c1e4c285-0239-479d-a726-da593b9fa67f",
+            "uuid": "d2f54859-4732-4e31-aff9-df1d7868726e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -941,7 +939,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @azadi_az_inja_migzare | 0",
+            "tag": "🇨🇦CA | 🔴 | vless | @azadi_az_inja_migzare | 0",
             "type": "vless",
             "server": "162.159.138.178",
             "server_port": 8080,
@@ -1410,7 +1408,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @VmessProtocol | 13",
             "type": "vless",
             "server": "188.114.97.3",
             "server_port": 8443,
@@ -1437,27 +1435,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "MishkAmOs.o3cO.ir."
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "7bbfc3a7-2b01-48bb-a3e1-ff396cbed56c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol-@VmessProtocol",
-                "headers": {
-                    "Host": "www.speedtest.net"
                 }
             }
         },

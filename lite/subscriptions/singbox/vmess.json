@@ -113,8 +113,8 @@
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7"
+                "🇫🇷FR | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 6"
             ]
         },
         {
@@ -128,8 +128,8 @@
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7"
+                "🇫🇷FR | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 6"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -336,11 +336,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "🇫🇷FR | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 8080,
-            "uuid": "baccbaa-caab-caba-dcba-cbbbbaacccaa",
+            "server": "193.160.130.245",
+            "server_port": 443,
+            "uuid": "9b456c2a-f2c1-45e1-87a9-b7628b04bb24",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -350,14 +350,31 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "beyonddsz.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkws",
+                "headers": {
+                    "Host": "beyonddsz.cfd"
+                }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 7",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 8080,
-            "uuid": "bcacaab-baca-acab-dbca-caacaabcbcbb",
+            "uuid": "baccbaa-caab-caba-dcba-cbbbbaacccaa",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,

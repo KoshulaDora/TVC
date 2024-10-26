@@ -157,7 +157,7 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 341",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 342",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 342",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 5",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -234,7 +234,7 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 341",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 342",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 342",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 5",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -1568,7 +1568,7 @@
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,
-            "uuid": "2e3e0e35-3fd0-4f1b-8cce-4781575da1f5",
+            "uuid": "5d0ba2f0-be35-403d-8cb5-460b38b3384f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1585,17 +1585,27 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 342",
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 342",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "2e3e0e35-3fd0-4f1b-8cce-4781575da1f5",
+            "server_port": 443,
+            "uuid": "5d0ba2f0-be35-403d-8cb5-460b38b3384f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hajlab.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             },
             "transport": {
                 "type": "ws",

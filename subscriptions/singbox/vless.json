@@ -155,7 +155,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVCpovdetwihi",
+                "TVCqyvktloxtg",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -368,7 +368,6 @@
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 6",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 9",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 12",
                 "🚩CF | 🔴 | vless | @MTConfig | 0",
                 "🇸🇪SE | 🔴 | vless | @MTConfig | 1",
                 "❔XX | 🔴 | vless | @MTConfig | 2",
@@ -432,6 +431,7 @@
                 "🚩CF | 🔴 | vless | @lrnbymaa | 6",
                 "🚩CF | 🔴 | vless | @lrnbymaa | 7",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 8",
+                "🚩CF | 🔴 | vless | @free1_vpn | 0",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
                 "🚩CF | 🔴 | vless | @fnet00 | 8",
@@ -570,7 +570,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
-                "TVCpovdetwihi",
+                "TVCqyvktloxtg",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -783,7 +783,6 @@
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 6",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 9",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 12",
                 "🚩CF | 🔴 | vless | @MTConfig | 0",
                 "🇸🇪SE | 🔴 | vless | @MTConfig | 1",
                 "❔XX | 🔴 | vless | @MTConfig | 2",
@@ -847,6 +846,7 @@
                 "🚩CF | 🔴 | vless | @lrnbymaa | 6",
                 "🚩CF | 🔴 | vless | @lrnbymaa | 7",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 8",
+                "🚩CF | 🔴 | vless | @free1_vpn | 0",
                 "🚩CF | 🔴 | vless | @fnet00 | 1",
                 "🚩CF | 🔴 | vless | @fnet00 | 3",
                 "🚩CF | 🔴 | vless | @fnet00 | 8",
@@ -2111,7 +2111,7 @@
             }
         },
         {
-            "tag": "TVCpovdetwihi",
+            "tag": "TVCqyvktloxtg",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -7645,37 +7645,6 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 12",
-            "type": "vless",
-            "server": "188.114.99.91",
-            "server_port": 443,
-            "uuid": "4f9219f6-ba56-4e5a-a676-0978d8b613e4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Noshteri.hooplnqpb.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "Noshteri.hooplnqpb.ir"
-                }
-            }
-        },
-        {
             "tag": "🚩CF | 🔴 | vless | @MTConfig | 0",
             "type": "vless",
             "server": "172.66.44.135",
@@ -9341,6 +9310,37 @@
                 "path": "\/Telegram,VPNCUSTOMIZE?ed=2480",
                 "headers": {
                     "Host": "join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @free1_vpn | 0",
+            "type": "vless",
+            "server": "188.114.99.91",
+            "server_port": 443,
+            "uuid": "4f9219f6-ba56-4e5a-a676-0978d8b613e4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "Noshteri.hooplnqpb.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "Noshteri.hooplnqpb.ir"
                 }
             }
         },

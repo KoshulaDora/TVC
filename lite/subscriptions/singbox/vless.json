@@ -158,10 +158,10 @@
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 3",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
-                "❔XX | 🔴 | vless | @iP_CF | 4",
+                "❔XX | 🔴 | vless | @iP_CF | 5",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
-                "🇮🇷IR | 🔴 | vless | @nofiltering2 | 16",
+                "🇮🇷IR | 🔴 | vless | @nofiltering2 | 17",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 22",
@@ -226,10 +226,10 @@
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 3",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
-                "❔XX | 🔴 | vless | @iP_CF | 4",
+                "❔XX | 🔴 | vless | @iP_CF | 5",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
-                "🇮🇷IR | 🔴 | vless | @nofiltering2 | 16",
+                "🇮🇷IR | 🔴 | vless | @nofiltering2 | 17",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 22",
@@ -594,7 +594,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "40180183-b63a-4853-9d73-c484a17c4d1c",
+            "uuid": "cc13986c-f967-4fcb-9e30-528e27a8e040",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -615,7 +615,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "40180183-b63a-4853-9d73-c484a17c4d1c",
+            "uuid": "cc13986c-f967-4fcb-9e30-528e27a8e040",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1537,7 +1537,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @iP_CF | 4",
+            "tag": "❔XX | 🔴 | vless | @iP_CF | 5",
             "type": "vless",
             "server": "IP_CF",
             "server_port": 0,
@@ -1613,7 +1613,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @nofiltering2 | 16",
+            "tag": "🇮🇷IR | 🔴 | vless | @nofiltering2 | 17",
             "type": "vless",
             "server": "llil4.flaptop.sbs",
             "server_port": 1487,

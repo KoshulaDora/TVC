@@ -106,22 +106,26 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | ss | @DeamNet_Proxy | 0",
-                "❔XX | 🟢 | ss | @DeamNet_Proxy | 5",
-                "❔XX | 🟢 | ss | @kingofilter | 4",
-                "❔XX | 🟢 | ss | @kingofilter | 5",
-                "❔XX | 🟢 | ss | @kingofilter | 19"
+                "🇦🇪AE | 🟢 | ss | @DeamNet_Proxy | 3",
+                "🇧🇭BH | 🟢 | ss | @DeamNet_Proxy | 4",
+                "🇪🇸ES | 🟢 | ss | @DeamNet_Proxy | 7",
+                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 10",
+                "🇦🇪AE | 🟢 | ss | @DeamNet_Proxy | 18",
+                "🇦🇪AE | 🟢 | ss | @kingofilter | 5",
+                "🇧🇭BH | 🟢 | ss | @kingofilter | 19"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | ss | @DeamNet_Proxy | 0",
-                "❔XX | 🟢 | ss | @DeamNet_Proxy | 5",
-                "❔XX | 🟢 | ss | @kingofilter | 4",
-                "❔XX | 🟢 | ss | @kingofilter | 5",
-                "❔XX | 🟢 | ss | @kingofilter | 19"
+                "🇦🇪AE | 🟢 | ss | @DeamNet_Proxy | 3",
+                "🇧🇭BH | 🟢 | ss | @DeamNet_Proxy | 4",
+                "🇪🇸ES | 🟢 | ss | @DeamNet_Proxy | 7",
+                "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 10",
+                "🇦🇪AE | 🟢 | ss | @DeamNet_Proxy | 18",
+                "🇦🇪AE | 🟢 | ss | @kingofilter | 5",
+                "🇧🇭BH | 🟢 | ss | @kingofilter | 19"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -144,17 +148,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | ss | @DeamNet_Proxy | 0",
-            "type": "shadowsocks",
-            "server": "series-a1.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "W74XFALLLuw6m5IA",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "❔XX | 🟢 | ss | @DeamNet_Proxy | 5",
+            "tag": "🇦🇪AE | 🟢 | ss | @DeamNet_Proxy | 3",
             "type": "shadowsocks",
             "server": "series-a2-mec.samanehha.co",
             "server_port": 443,
@@ -164,7 +158,37 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @kingofilter | 4",
+            "tag": "🇧🇭BH | 🟢 | ss | @DeamNet_Proxy | 4",
+            "type": "shadowsocks",
+            "server": "series-a2-me.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Bog0ELmMM9DSxDdQ",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🇪🇸ES | 🟢 | ss | @DeamNet_Proxy | 7",
+            "type": "shadowsocks",
+            "server": "194.87.45.189",
+            "server_port": 40076,
+            "method": "chacha20-ietf-poly1305",
+            "password": "sOJ7Wo6yHqWQv8FUEq3BKV",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 10",
+            "type": "shadowsocks",
+            "server": "series-a1.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "W74XFALLLuw6m5IA",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🇦🇪AE | 🟢 | ss | @DeamNet_Proxy | 18",
             "type": "shadowsocks",
             "server": "series-a2-mec.varzesh360.co",
             "server_port": 443,
@@ -174,7 +198,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @kingofilter | 5",
+            "tag": "🇦🇪AE | 🟢 | ss | @kingofilter | 5",
             "type": "shadowsocks",
             "server": "api.namasha.co",
             "server_port": 443,
@@ -184,7 +208,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @kingofilter | 19",
+            "tag": "🇧🇭BH | 🟢 | ss | @kingofilter | 19",
             "type": "shadowsocks",
             "server": "series-a2-me.varzesh360.co",
             "server_port": 443,

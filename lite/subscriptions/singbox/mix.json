@@ -140,10 +140,9 @@
                 "🇺🇸US | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 7",
-                "🇺🇸US | 🟢 | vless | @UnlimitedDev | 10",
                 "🇺🇸US | 🟢 | vless | @UnlimitedDev | 11",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 10",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 11",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 8",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 9",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 8",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 9",
                 "❔XX | 🔴 | vless | @ServerNett | 16",
@@ -225,10 +224,9 @@
                 "🇺🇸US | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 7",
-                "🇺🇸US | 🟢 | vless | @UnlimitedDev | 10",
                 "🇺🇸US | 🟢 | vless | @UnlimitedDev | 11",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 10",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 11",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 8",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 9",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 8",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 9",
                 "❔XX | 🔴 | vless | @ServerNett | 16",
@@ -1125,7 +1123,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @UnlimitedDev | 10",
+            "tag": "🇺🇸US | 🟢 | vless | @UnlimitedDev | 11",
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
@@ -1156,42 +1154,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @UnlimitedDev | 11",
-            "type": "vless",
-            "server": "live.wkrq.com",
-            "server_port": 443,
-            "uuid": "6c27e859-9870-455b-b938-1ef4ddf62843",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "live.wkrq.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880",
-                "headers": {
-                    "Host": "live.wkrq.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 10",
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 8",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "449a13be-5b39-41b2-b385-8e3e4e6bbdfe",
+            "uuid": "7629875e-5255-4a46-970f-5f343a179984",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1218,11 +1185,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 11",
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 9",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "9b1ef235-56df-4af6-8e41-37e363103bcb",
+            "uuid": "fb1e6568-e4dc-48bd-8853-c664de8fe4bb",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1830,8 +1797,8 @@
             "tag": "❔XX | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
             "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "acacbba-abca-acab-dcba-accbaaaccbbb",
+            "server_port": 8080,
+            "uuid": "caacbab-caab-caba-dbac-abbccabcbcaa",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1847,8 +1814,8 @@
             "tag": "❔XX | 🟢 | vmess | @Hope_Net | 4",
             "type": "vmess",
             "server": "127.0.0.1",
-            "server_port": 8080,
-            "uuid": "abbacca-abac-aabc-dabc-bbcacaacbbac",
+            "server_port": 1080,
+            "uuid": "acacbba-abca-acab-dcba-accbaaaccbbb",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,

@@ -120,8 +120,8 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 3",
                 "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 4",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 22",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 23",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 24",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 25",
                 "🇫🇷FR | 🔴 | vless | @vpn_xw | 0",
                 "🇫🇷FR | 🔴 | vless | @vpn_xw | 1",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
@@ -189,8 +189,8 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 3",
                 "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 4",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 22",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 23",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 24",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 25",
                 "🇫🇷FR | 🔴 | vless | @vpn_xw | 0",
                 "🇫🇷FR | 🔴 | vless | @vpn_xw | 1",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
@@ -560,7 +560,7 @@
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
             "type": "vless",
             "server": "www.speedtest.net",
-            "server_port": 2052,
+            "server_port": 8880,
             "uuid": "telegram-id-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
@@ -571,7 +571,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=2052",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=8880",
                 "headers": {
                     "Host": "www.speedtest.net"
                 }
@@ -623,7 +623,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 22",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 24",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -644,7 +644,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 23",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 25",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,

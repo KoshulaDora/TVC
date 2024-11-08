@@ -109,7 +109,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 40",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 41",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
@@ -125,7 +125,6 @@
                 "🇫🇷FR | 🔴 | vless | @vpn_xw | 0",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 14",
-                "🇺🇸US | 🔴 | vless | @DigiV2ray | 15",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
@@ -142,8 +141,8 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 21",
                 "🇺🇸US | 🟢 | vless | @UnlimitedDev | 11",
                 "🇺🇸US | 🟢 | vless | @UnlimitedDev | 12",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 4",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 5",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 6",
                 "🇹🇷TR | 🔴 | vless | @ShadowProxy66 | 18",
                 "🇬🇧GB | 🔴 | vless | @ShadowProxy66 | 19",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 17",
@@ -193,7 +192,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 40",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 41",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
@@ -209,7 +208,6 @@
                 "🇫🇷FR | 🔴 | vless | @vpn_xw | 0",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 14",
-                "🇺🇸US | 🔴 | vless | @DigiV2ray | 15",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
@@ -226,8 +224,8 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 21",
                 "🇺🇸US | 🟢 | vless | @UnlimitedDev | 11",
                 "🇺🇸US | 🟢 | vless | @UnlimitedDev | 12",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 4",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 5",
-                "🇺🇸US | 🟢 | vless | @vmessorg | 6",
                 "🇹🇷TR | 🔴 | vless | @ShadowProxy66 | 18",
                 "🇬🇧GB | 🔴 | vless | @ShadowProxy66 | 19",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 17",
@@ -349,7 +347,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2083,
@@ -742,21 +740,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2052,
-            "uuid": "DIGIV2RAY",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @DigiV2ray | 15",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2052,
-            "uuid": "DIGIV2RAY",
+            "uuid": "DIGIV2RAy",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1178,11 +1162,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 5",
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 4",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "f5557a40-a8a3-47cb-a6ae-5f9f5c12f642",
+            "uuid": "59e346e1-558b-49b8-a30c-bc1a07de84b0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1209,11 +1193,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 6",
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 5",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "c0898e3b-bcf1-4210-b887-6d1011d648c4",
+            "uuid": "f5557a40-a8a3-47cb-a6ae-5f9f5c12f642",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {

@@ -516,6 +516,7 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 5",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
@@ -982,6 +983,7 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 5",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
@@ -11153,7 +11155,69 @@
             }
         },
         {
+            "tag": "🚩CF | 🔴 | vless | @mehrosaboran | 6",
+            "type": "vless",
+            "server": "104.17.234.114",
+            "server_port": 443,
+            "uuid": "43a7becf-a79b-4dd7-8d01-cece7d210327",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "UNLIMITEDDEV1.unlimiteddev-vpn.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8080",
+                "headers": {
+                    "Host": "UNLIMITEDDEV1.unlimiteddev-vpn.com"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8443,
+            "uuid": "d3f0e44b-7aa9-4445-bafc-3546166ceaec",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram,VPNCUSTOMIZE?ed=2480",
+                "headers": {
+                    "Host": "Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
             "type": "vless",
             "server": "funnelytics.io",
             "server_port": 8443,
@@ -11184,7 +11248,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -11205,7 +11269,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 7",
             "type": "vless",
             "server": "151.101.194.133",
             "server_port": 443,
@@ -11236,7 +11300,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 9",
             "type": "vless",
             "server": "151.101.2.216",
             "server_port": 80,
@@ -11257,7 +11321,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 11",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2086,
@@ -11278,7 +11342,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 13",
             "type": "vless",
             "server": "151.101.2.216",
             "server_port": 80,
@@ -11299,7 +11363,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 15",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -11326,27 +11390,6 @@
                 "path": "\/Telegram,VPNCUSTOMIZE?ed=2480",
                 "headers": {
                     "Host": "Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 15",
-            "type": "vless",
-            "server": "NUFiLTER.fastly80.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "TELEGRAM-NUFiLTER",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
-                "headers": {
-                    "Host": "NUFiLTER.fastly80.hosting-ip.com"
                 }
             }
         },

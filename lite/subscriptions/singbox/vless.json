@@ -109,7 +109,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 37",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 38",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 12",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 13",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
@@ -145,6 +145,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 45",
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 9",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇺🇸US | 🟢 | vless | @vmess_vless_v2rayng | 6",
@@ -152,8 +153,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 8",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 2",
@@ -180,7 +181,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 37",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 38",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 12",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 13",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
@@ -216,6 +217,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 45",
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 9",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇺🇸US | 🟢 | vless | @vmess_vless_v2rayng | 6",
@@ -223,8 +225,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 8",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 2",
@@ -323,7 +325,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2083,
@@ -1238,6 +1240,37 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
+            "type": "vless",
+            "server": "104.16.16.16",
+            "server_port": 443,
+            "uuid": "7d2dfb7a-2ecc-4448-bcbe-245a2092fe85",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "Pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-Xv2ry2-7?ed=512",
+                "headers": {
+                    "Host": "Pages.dev"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 9",
             "type": "vless",
             "server": "172.66.45.7",
@@ -1425,7 +1458,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
             "type": "vless",
             "server": "time.is",
             "server_port": 443,
@@ -1456,7 +1489,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,

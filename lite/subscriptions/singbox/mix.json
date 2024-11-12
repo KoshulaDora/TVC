@@ -109,9 +109,8 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 37",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 38",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
-                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
+                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 13",
@@ -133,10 +132,10 @@
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
                 "🇸🇪SE | 🔴 | vless | @servermomo | 0",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 15",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 16",
@@ -190,9 +189,8 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 37",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 38",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
-                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
+                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 13",
@@ -214,10 +212,10 @@
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
                 "🇸🇪SE | 🔴 | vless | @servermomo | 0",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 15",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 16",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 16",
@@ -343,7 +341,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
+            "tag": "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2083,
@@ -377,37 +375,6 @@
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
             "server": "51.44.151.198",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
-                "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-            "type": "vless",
-            "server": "13.38.207.74",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -937,9 +904,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15",
+            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 15",
             "type": "trojan",
-            "server": "13.50.11.113",
+            "server": "3.122.6.220",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -961,7 +928,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 16",
             "type": "trojan",
-            "server": "51.21.0.171",
+            "server": "13.50.11.113",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -981,9 +948,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
+            "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 15",
             "type": "trojan",
-            "server": "51.20.148.39",
+            "server": "3.77.120.95",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -1003,9 +970,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
+            "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 16",
             "type": "trojan",
-            "server": "13.61.101.37",
+            "server": "3.66.45.34",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -1954,9 +1921,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 15",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2086,
-            "uuid": "dfb1f24a-179c-464c-bc22-c8ad28bcf5bf",
+            "server": "151.101.2.216",
+            "server_port": 80,
+            "uuid": "TELEGRAM-NUFiLTER",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1966,9 +1933,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=2056",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
                 "headers": {
-                    "Host": "www.speedtest.net"
+                    "Host": "151.101.2.216"
                 }
             }
         },

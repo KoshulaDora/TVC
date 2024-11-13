@@ -273,7 +273,7 @@
                 "🚩CF | 🔴 | vless | @customv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 14",
-                "🇸🇪SE | 🔴 | vless | @customv2ray | 16",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 19",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 20",
@@ -362,7 +362,6 @@
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 1",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 4",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 7",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 9",
                 "🚩CF | 🔴 | vless | @MTConfig | 0",
                 "🇸🇪SE | 🔴 | vless | @MTConfig | 1",
                 "❔XX | 🔴 | vless | @MTConfig | 2",
@@ -677,7 +676,7 @@
                 "🚩CF | 🔴 | vless | @customv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 14",
-                "🇸🇪SE | 🔴 | vless | @customv2ray | 16",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 19",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 20",
@@ -766,7 +765,6 @@
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 1",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 4",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 7",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 9",
                 "🚩CF | 🔴 | vless | @MTConfig | 0",
                 "🇸🇪SE | 🔴 | vless | @MTConfig | 1",
                 "❔XX | 🔴 | vless | @MTConfig | 2",
@@ -4938,7 +4936,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @customv2ray | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 16",
             "type": "vless",
             "server": "tun.ferdowsi.shop",
             "server_port": 2087,
@@ -7183,37 +7181,6 @@
                 "path": "\/Telegram-Xv2ry2-7?ed=512",
                 "headers": {
                     "Host": "Pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 9",
-            "type": "vless",
-            "server": "172.66.45.7",
-            "server_port": 443,
-            "uuid": "a94edb46-0734-4593-a8b5-9cd11ddc57f6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "5c53ca21.vpn-aryoo.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "5c53ca21.vpn-aryoo.pages.dev"
                 }
             }
         },

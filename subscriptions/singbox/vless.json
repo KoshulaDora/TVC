@@ -268,7 +268,7 @@
                 "🚩CF | 🔴 | vless | @customv2ray | 14",
                 "🚩CF | 🔴 | vless | @customv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 22",
-                "🇸🇪SE | 🔴 | vless | @customv2ray | 24",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 24",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 25",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 27",
                 "🚩CF | 🔴 | vless | @UnlimitedDev | 0",
@@ -429,7 +429,6 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 7",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 5",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 7",
@@ -652,7 +651,7 @@
                 "🚩CF | 🔴 | vless | @customv2ray | 14",
                 "🚩CF | 🔴 | vless | @customv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 22",
-                "🇸🇪SE | 🔴 | vless | @customv2ray | 24",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 24",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 25",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 27",
                 "🚩CF | 🔴 | vless | @UnlimitedDev | 0",
@@ -813,7 +812,6 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 7",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 5",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 7",
@@ -4757,7 +4755,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @customv2ray | 24",
+            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 24",
             "type": "vless",
             "server": "tun.ferdowsi.shop",
             "server_port": 2087,
@@ -8877,27 +8875,6 @@
                 "path": "\/Telegram,VPNCUSTOMIZE?ed=8080",
                 "headers": {
                     "Host": "join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "c9b9920e-bf16-4b5f-8377-9a477b5c3548",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS",
-                "headers": {
-                    "Host": "151.101.3.8"
                 }
             }
         },

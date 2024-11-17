@@ -154,7 +154,7 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -225,7 +225,7 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -460,30 +460,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 14",
             "type": "vless",
-            "server": "ArV2ry.fastly80.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "4639cda7-0742-4bcd-ab1e-b7c879c2189c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/v2pedia",
-                "headers": {
-                    "Host": "ArV2ry.fastly80.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 15",
-            "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "Join--ZEDMODEON",
+            "uuid": "Joinin--ZEDMODEON",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -503,9 +482,30 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2052",
+                "path": "\/@ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2052",
                 "headers": {
                     "Host": "zmaoz.faculty.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 15",
+            "type": "vless",
+            "server": "ArV2ry.fastly80.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "4639cda7-0742-4bcd-ab1e-b7c879c2189c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/v2pedia",
+                "headers": {
+                    "Host": "ArV2ry.fastly80.hosting-ip.com"
                 }
             }
         },
@@ -1418,10 +1418,10 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "b037ff46-dfc8-43dd-a1b0-1afd0e1f2157",
-            "flow": "",
+            "server": "156.229.163.98",
+            "server_port": 22222,
+            "uuid": "2524d390-7952-46be-a947-80d266e0db82",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -1430,34 +1430,47 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "hajlab.ucdavis.edu",
+                "server_name": "www.learn.microsoft.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2560",
-                "headers": {
-                    "Host": "hajlab.ucdavis.edu"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "DNkp0NfAJ2pE0yWH3lrYmZhYrm4_IwVHN3dHSlVL_Wk",
+                    "short_id": "09b7"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2052,
-            "uuid": "DIGIV2RAy",
-            "flow": "",
+            "server": "185.121.235.210",
+            "server_port": 1624,
+            "uuid": "f8275dfe-4fd7-46b2-8d6c-de1891afb443",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "wwww.refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0",
+                    "short_id": "3a622700e73c6642"
+                }
             }
         },
         {

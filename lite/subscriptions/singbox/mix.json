@@ -106,12 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 22",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 23",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 27",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 28",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 18",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 19",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
@@ -128,15 +128,15 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 16",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 17",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 6",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
                 "🇸🇪SE | 🔴 | vless | @servermomo | 0",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 18",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 19",
-                "🇺🇸US | 🟢 | trojan | @DirectVPN | 18",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 19",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 18",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 19",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 17",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 18",
@@ -160,14 +160,14 @@
                 "🇬🇧GB | 🔴 | vless | @VmessProtocol | 8",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇬🇧GB | 🟢 | trojan | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 12",
-                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 13",
+                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 12",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 13",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
@@ -186,12 +186,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 22",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 23",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 27",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 28",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 18",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 19",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 14",
@@ -208,15 +208,15 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 16",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 17",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 6",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
                 "🇸🇪SE | 🔴 | vless | @servermomo | 0",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 18",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 19",
-                "🇺🇸US | 🟢 | trojan | @DirectVPN | 18",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 19",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 18",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 19",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 17",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 18",
@@ -240,14 +240,14 @@
                 "🇬🇧GB | 🔴 | vless | @VmessProtocol | 8",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇬🇧GB | 🟢 | trojan | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 12",
-                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 13",
+                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 12",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 13",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
@@ -282,7 +282,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 22",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 27",
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
@@ -313,7 +313,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 23",
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 28",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
@@ -374,7 +374,7 @@
         {
             "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "54.170.30.213",
+            "server": "34.241.208.151",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -403,9 +403,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 19",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "13.42.142.109",
+            "server": "54.170.30.213",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -804,7 +804,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
             "type": "vless",
             "server": "162.159.129.60",
             "server_port": 443,
@@ -958,6 +958,28 @@
         {
             "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 18",
             "type": "trojan",
+            "server": "54.170.208.103",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 19",
+            "type": "trojan",
             "server": "54.154.120.165",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
@@ -978,31 +1000,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 19",
+            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 18",
             "type": "trojan",
-            "server": "52.56.243.101",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 18",
-            "type": "trojan",
-            "server": "3.22.179.181",
+            "server": "16.171.248.203",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -1024,7 +1024,7 @@
         {
             "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 19",
             "type": "trojan",
-            "server": "3.22.23.66",
+            "server": "54.197.226.160",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -1588,33 +1588,11 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @ConfigsHUB | 18",
-            "type": "trojan",
-            "server": "35.178.147.41",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "live.989bull.com",
+            "server": "172.64.35.207",
             "server_port": 443,
-            "uuid": "bd12c2d2-5a09-4f52-9d53-17bff122aef0",
+            "uuid": "2928d83a-ca75-4d52-b437-fa78c7601378",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1624,7 +1602,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "live.989bull.com",
+                "server_name": "freedom-1rj.pages.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1634,9 +1612,40 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws\/",
+                "path": "\/freedom-1rj.pages.dev\/?ed=2560",
                 "headers": {
-                    "Host": "live.989bull.com"
+                    "Host": "freedom-1rj.pages.dev"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "172.66.47.169",
+            "server_port": 443,
+            "uuid": "0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "pardazeshvpn-tg7.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "pardazeshvpn-tg7.pages.dev"
                 }
             }
         },
@@ -1761,31 +1770,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 12",
-            "type": "vmess",
-            "server": "65.75.192.48",
-            "server_port": 37543,
-            "uuid": "4674cbfc-f9ab-4c47-eec1-ba0a98ae370e",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/67jfsf",
-                "headers": {
-                    "Host": "65.75.192.48"
-                }
-            }
-        },
-        {
-            "tag": "🇰🇷KR | 🟢 | vmess | @Hope_Net | 13",
+            "tag": "🇰🇷KR | 🟢 | vmess | @Hope_Net | 12",
             "type": "vmess",
             "server": "158.180.91.206",
             "server_port": 46271,
@@ -1805,6 +1790,30 @@
                 "path": "\/",
                 "headers": {
                     "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 13",
+            "type": "vmess",
+            "server": "65.75.192.48",
+            "server_port": 37543,
+            "uuid": "4674cbfc-f9ab-4c47-eec1-ba0a98ae370e",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/67jfsf",
+                "headers": {
+                    "Host": "65.75.192.48"
                 }
             }
         },

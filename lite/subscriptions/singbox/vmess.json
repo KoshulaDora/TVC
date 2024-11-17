@@ -108,12 +108,10 @@
                 "URL-TEST",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 17",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 18",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 17",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 18",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 10"
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 12"
             ]
         },
         {
@@ -122,12 +120,10 @@
             "outbounds": [
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 17",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 18",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 17",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 18",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 10"
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 12"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -181,74 +177,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 17",
-            "type": "vmess",
-            "server": "172.67.163.197",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 1,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "b.serkat.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "b.serkat.org"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 18",
-            "type": "vmess",
-            "server": "b.pelang.org",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 1,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "b.pelang.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "b.pelang.org"
-                }
             }
         },
         {
@@ -310,7 +238,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
             "type": "vmess",
             "server": "shs.xiaoqi666.xyz",
             "server_port": 2086,
@@ -334,7 +262,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 12",
             "type": "vmess",
             "server": "162.159.8.120",
             "server_port": 443,

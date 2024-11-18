@@ -116,11 +116,10 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 2",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 14",
-                "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 15",
-                "🇮🇱IL | 🔴 | vless | @ConfigsHUB | 16",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "🇭🇰HK | 🔴 | vless | @ConfigsHUB | 18",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 11",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 12",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
                 "🇳🇱NL | 🟢 | vless | @nofiltering2 | 3",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 13",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 17",
@@ -155,11 +154,10 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 2",
-                "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 14",
-                "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 15",
-                "🇮🇱IL | 🔴 | vless | @ConfigsHUB | 16",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "🇭🇰HK | 🔴 | vless | @ConfigsHUB | 18",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 11",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 12",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
                 "🇳🇱NL | 🟢 | vless | @nofiltering2 | 3",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 13",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 17",
@@ -444,11 +442,11 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @ConfigsHUB | 14",
+            "tag": "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 11",
             "type": "vless",
-            "server": "213.252.232.175",
+            "server": "57.128.123.50",
             "server_port": 2096,
-            "uuid": "a35367d5-0edb-4882-b8b5-0249b820e114",
+            "uuid": "1250c0dd-856e-4cb9-b254-5d8e55419fed",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -458,36 +456,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "PbUniy2w23tAs97ciXVClmXXRXtV1lb69dS-J9SFbAc",
-                    "short_id": "7c88bf8e"
-                }
-            }
-        },
-        {
-            "tag": "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 15",
-            "type": "vless",
-            "server": "45.12.134.129",
-            "server_port": 2053,
-            "uuid": "5957ca33-d8d9-4c2c-aadc-203270e33422",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "apple.com",
+                "server_name": "dalfak.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -496,75 +465,24 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "jpS_UPS4HEJApIV1DRW6omCRG8d2XuJXjj2FW7iT-mg",
-                    "short_id": "cc87"
+                    "public_key": "9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY",
+                    "short_id": "a56f693ce784b4cc"
                 }
-            }
-        },
-        {
-            "tag": "🇮🇱IL | 🔴 | vless | @ConfigsHUB | 16",
-            "type": "vless",
-            "server": "89.221.225.159",
-            "server_port": 2053,
-            "uuid": "a38fbcf4-edb4-4b2b-88dd-5c357c2af4ff",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Am1Y8Hfk9DWE9SEticU93yF2G2PcC8bmgKpq_V5NuiI",
-                    "short_id": "e8ebda2f23f6"
-                }
+            "transport": {
+                "type": "http",
+                "host": [
+                    "dalfak.com"
+                ],
+                "path": "\/"
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 12",
             "type": "vless",
-            "server": "88.119.175.149",
-            "server_port": 2083,
-            "uuid": "47be24c0-aa63-4077-a730-b32f10a251ce",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Q8pMgx4EupsfDhXDaZ7Ch5Ylpt-B3jwNj6jAqqG8Q1g",
-                    "short_id": "a53ea25a"
-                }
-            }
-        },
-        {
-            "tag": "🇭🇰HK | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "212.192.12.78",
+            "server": "my.jasrama.com",
             "server_port": 2096,
-            "uuid": "fd052cb8-95b0-4711-b209-6704b5286554",
+            "uuid": "1250c0dd-856e-4cb9-b254-5d8e55419fed",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -574,7 +492,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "apple.com",
+                "server_name": "dalfak.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -583,8 +501,80 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "4LC5cIo6Nd-10bTtKLZR1vmbhr2bYI12PZMpcYqs7VE",
-                    "short_id": "6f"
+                    "public_key": "9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY",
+                    "short_id": "a56f693ce784b4cc"
+                }
+            },
+            "transport": {
+                "type": "http",
+                "host": [
+                    "dalfak.com"
+                ],
+                "path": "\/"
+            }
+        },
+        {
+            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
+            "type": "vless",
+            "server": "93.185.163.238",
+            "server_port": 8082,
+            "uuid": "feb6f54a-1c99-4281-b0d4-113765e70c61",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "use.fontawesome.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "1wsuGvwHBl4upMnlmg3ehyqL-CgRpK9g4XZXkUX-B3k",
+                    "short_id": "6a69d0c3821da542"
+                }
+            },
+            "transport": {
+                "type": "http",
+                "host": [
+                    "use.fontawesome.com"
+                ],
+                "path": "\/media\/download?file_id=12345"
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "188.245.197.174",
+            "server_port": 1618,
+            "uuid": "f8275dfe-4fd7-46b2-8d6c-de1891afb443",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "wwww.refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0",
+                    "short_id": "3a622700e73c6642"
                 }
             }
         },

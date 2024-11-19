@@ -408,13 +408,10 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
-                "🇭🇰HK | 🟢 | vless | @ConfigsHUB | 7",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 7",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 8",
                 "🚩CF | 🔴 | vless | @ConfigsHUB | 9",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 12",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 16",
-                "🇮🇱IL | 🟢 | vless | @ConfigsHUB | 18",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🚩CF | 🔴 | vless | @proxystore11 | 3",
@@ -806,13 +803,10 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
-                "🇭🇰HK | 🟢 | vless | @ConfigsHUB | 7",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 7",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 8",
                 "🚩CF | 🔴 | vless | @ConfigsHUB | 9",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 12",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 16",
-                "🇮🇱IL | 🟢 | vless | @ConfigsHUB | 18",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🚩CF | 🔴 | vless | @proxystore11 | 3",
@@ -8323,7 +8317,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
@@ -8354,100 +8348,53 @@
             }
         },
         {
-            "tag": "🇭🇰HK | 🟢 | vless | @ConfigsHUB | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 7",
             "type": "vless",
-            "server": "212.192.12.78",
-            "server_port": 2096,
-            "uuid": "fd052cb8-95b0-4711-b209-6704b5286554",
-            "flow": "xtls-rprx-vision",
+            "server": "167.82.30.71",
+            "server_port": 80,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4LC5cIo6Nd-10bTtKLZR1vmbhr2bYI12PZMpcYqs7VE",
-                    "short_id": "6f"
+            "transport": {
+                "type": "ws",
+                "path": "\/4u7lAS4nPLtz0xPz?ed=2560",
+                "headers": {
+                    "Host": "samane.ir"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 8",
+            "type": "vless",
+            "server": "104.18.32.47",
+            "server_port": 2087,
+            "uuid": "15f34214-d8de-41e9-ba72-93daeafc59ef",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2560security=tls",
+                "headers": {
+                    "Host": "subhiddify.mmdv2.host"
                 }
             }
         },
         {
             "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 9",
             "type": "vless",
-            "server": "172.67.148.150",
-            "server_port": 2083,
-            "uuid": "891d999f-7864-45c5-8db9-3c69f35dcb96",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR\/?ed=2047",
-                "headers": {
-                    "Host": "uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 12",
-            "type": "vless",
-            "server": "188.245.154.141",
-            "server_port": 6543,
-            "uuid": "b551a105-2391-4182-8e5a-5e0d3323fc27",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.speedtest.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY",
-                    "short_id": "ad52706b"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
-            "type": "vless",
-            "server": "8cc.free.hr",
+            "server": "104.19.223.79",
             "server_port": 443,
-            "uuid": "d0c550b6-8eb0-4bea-86c9-dc5f1efe1fec",
+            "uuid": "9cbdc595-1d8d-4443-af07-99149153d025",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -8457,7 +8404,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "chose-fabulous-psychiatry-fc.trycloudflare.com",
+                "server_name": "2f2aa869a6c74af796bb.starsha-goodd.info",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -8467,59 +8414,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/d0c550b6-8eb0-4bea-86c9-dc5f1efe1fec-vless",
+                "path": "\/abcdewsfp=chrome",
                 "headers": {
-                    "Host": "chose-fabulous-psychiatry-fc.trycloudflare.com"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 16",
-            "type": "vless",
-            "server": "104.17.234.128",
-            "server_port": 8080,
-            "uuid": "db5e3e84-9ce0-40c4-f4b2-7bd4a16de2a4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880",
-                "headers": {
-                    "Host": "104.17.234.128"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇱IL | 🟢 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "89.221.225.159",
-            "server_port": 2053,
-            "uuid": "a38fbcf4-edb4-4b2b-88dd-5c357c2af4ff",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Am1Y8Hfk9DWE9SEticU93yF2G2PcC8bmgKpq_V5NuiI",
-                    "short_id": "e8ebda2f23f6"
+                    "Host": "2f2aa869a6c74af796bb.starsha-goodd.info"
                 }
             }
         },

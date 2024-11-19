@@ -117,7 +117,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 4",
-                "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 17",
+                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 5",
                 "🇳🇱NL | 🟢 | vless | @nofiltering2 | 5",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 15",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
@@ -152,7 +152,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 4",
-                "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 17",
+                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 5",
                 "🇳🇱NL | 🟢 | vless | @nofiltering2 | 5",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 15",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
@@ -472,11 +472,11 @@
             }
         },
         {
-            "tag": "🇯🇵JP | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 5",
             "type": "vless",
-            "server": "160.16.74.27",
-            "server_port": 4433,
-            "uuid": "5568c549-6772-4efd-a9b8-8fa0f12b67df",
+            "server": "194.87.31.160",
+            "server_port": 2040,
+            "uuid": "3157eb5d-2d1a-4a1d-97a8-f3a3816cdaba",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -486,17 +486,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "nihon-u.ac.jp",
+                "server_name": "tradingview.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "qq"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "gw-m5HT1xoiLSawj0xSt4SN7aZGnCNFXsAefLysBWVM",
-                    "short_id": "1c7222d4"
+                    "public_key": "rYkd3EQL0mAGQnj734la7JlQSSQlMmkBxhgXrKXlz0k",
+                    "short_id": ""
                 }
             }
         },

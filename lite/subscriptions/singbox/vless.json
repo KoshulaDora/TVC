@@ -1381,15 +1381,22 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "104.17.147.22",
-            "server_port": 8080,
-            "uuid": "bfe92214-8ef4-4dd6-8618-8312847902db",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "SVNTEAM",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/SvnTeam-Channel-Telegram?ed=8880",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
             }
         },
         {

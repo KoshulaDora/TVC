@@ -117,7 +117,6 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 4",
-                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 4",
                 "🇳🇱NL | 🟢 | vless | @nofiltering2 | 5",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 15",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
@@ -152,7 +151,6 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 4",
-                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 4",
                 "🇳🇱NL | 🟢 | vless | @nofiltering2 | 5",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 15",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
@@ -468,35 +466,6 @@
                     "enabled": true,
                     "public_key": "uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0",
                     "short_id": "3a622700e73c6642"
-                }
-            }
-        },
-        {
-            "tag": "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 4",
-            "type": "vless",
-            "server": "bofaloo.pcgame20.ggff.net",
-            "server_port": 443,
-            "uuid": "9193749d-8d3d-40a9-afd2-526ee39e8806",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "bofaloo.pcgame20.ggff.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1Es1BEo9L7AFxRpAG5kkJO4hjXQKrGsMFPGrCQP0BBE",
-                    "short_id": "107e639bf2"
                 }
             }
         },

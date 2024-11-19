@@ -409,9 +409,10 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 11",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
                 "🇺🇸US | 🟢 | vless | @ConfigsHUB | 14",
+                "🚩CF | 🟢 | vless | @ConfigsHUB | 15",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🚩CF | 🔴 | vless | @proxystore11 | 3",
@@ -804,9 +805,10 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 4",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 11",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
                 "🇺🇸US | 🟢 | vless | @ConfigsHUB | 14",
+                "🚩CF | 🟢 | vless | @ConfigsHUB | 15",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🚩CF | 🔴 | vless | @proxystore11 | 3",
@@ -8319,6 +8321,20 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 4",
             "type": "vless",
+            "server": "video.myquiz.org",
+            "server_port": 80,
+            "uuid": "4259adb1-0658-4c4f-b2f0-dc407c7e2549",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
+            "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
             "uuid": "4324423e-23ed-421f-be18-5fe56bcb010f",
@@ -8345,41 +8361,6 @@
                 "headers": {
                     "Host": "hajlab.ucdavis.edu"
                 }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 8",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8880,
-            "uuid": "6ff1fc0d-6066-4c7c-aed9-73632a7600f3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ @FalconargoVPN2 @FalconargoVPN2 @FalconargoVPN2 @FalconargoVPN2 @FalconargoVPN2 @FalconargoVPN2 @FalconargoVPN2 @FalconargoVPN2",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 11",
-            "type": "vless",
-            "server": "188.245.118.6",
-            "server_port": 20543,
-            "uuid": "b8bc38e2-de34-4d61-8697-7559c96f5f47",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -8411,6 +8392,51 @@
                 "headers": {
                     "Host": "awarasleep.com"
                 }
+            }
+        },
+        {
+            "tag": "🚩CF | 🟢 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "104.21.83.62",
+            "server_port": 2096,
+            "uuid": "6285e567-0c25-4ce2-a2fa-80517c1345e1",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "1223-9ux.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/TELEGRAM-MARAMBASHI_MARAMBASHI\/?ed=2560",
+                "headers": {
+                    "Host": "1223-9ux.pages.dev"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "104.17.147.22",
+            "server_port": 8080,
+            "uuid": "bfe92214-8ef4-4dd6-8618-8312847902db",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {

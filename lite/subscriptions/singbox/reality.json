@@ -107,7 +107,6 @@
             "outbounds": [
                 "URL-TEST",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
-                "🇸🇬SG | 🔴 | vless | @ConfigsHUB | 15",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -117,7 +116,6 @@
             "type": "urltest",
             "outbounds": [
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
-                "🇸🇬SG | 🔴 | vless | @ConfigsHUB | 15",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -167,35 +165,6 @@
                     "enabled": true,
                     "public_key": "rFZOWxVcsZn5--1yLku3SGglZ0Y2Ban0buZIN3-vFwU",
                     "short_id": "cfef326c"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇬SG | 🔴 | vless | @ConfigsHUB | 15",
-            "type": "vless",
-            "server": "103.136.68.11",
-            "server_port": 443,
-            "uuid": "9f2b1194-faeb-4f20-8eb0-8456cc5c3286",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "v9inmuM5DSaxqKRjqyL0MbIIYxJFpn4bTnOQWiAym1E",
-                    "short_id": "7af4ba2e"
                 }
             }
         },

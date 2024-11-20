@@ -111,7 +111,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 30",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 31",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
-                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
+                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 9",
@@ -157,7 +157,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 14",
+                "🇨🇷CR | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -183,7 +184,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 30",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 31",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
-                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
+                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 9",
@@ -229,7 +230,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 14",
+                "🇨🇷CR | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -377,7 +379,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
+            "tag": "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2083,
@@ -1505,11 +1507,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+            "tag": "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "chatgpt.com",
-            "server_port": 2087,
-            "uuid": "15f34214-d8de-41e9-ba72-93daeafc59ef",
+            "server": "89.35.73.171",
+            "server_port": 8443,
+            "uuid": "20fda433-1864-433b-b3dd-8f119fe4cafd",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1519,7 +1521,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "subhiddify.mmdv2.host",
+                "server_name": "happy.mianfeicf.lol",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1531,7 +1533,38 @@
                 "type": "ws",
                 "path": "\/?ed=2560",
                 "headers": {
-                    "Host": "subhiddify.mmdv2.host"
+                    "Host": "happy.mianfeicf.lol"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇷CR | 🔴 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "190.93.247.74",
+            "server_port": 443,
+            "uuid": "a13df940-020c-465f-bc89-ee5279b5cd6a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "lv.kpcloud.eu.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "lv.kpcloud.eu.org"
                 }
             }
         },

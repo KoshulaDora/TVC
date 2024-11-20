@@ -111,7 +111,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 30",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 31",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 9",
@@ -157,8 +157,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 14",
-                "🇨🇷CR | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 13",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -184,7 +184,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 30",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 31",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
-                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 9",
@@ -230,8 +230,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 14",
-                "🇨🇷CR | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 13",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -379,7 +379,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2083,
@@ -1507,11 +1507,11 @@
             }
         },
         {
-            "tag": "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 14",
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 12",
             "type": "vless",
-            "server": "89.35.73.171",
-            "server_port": 8443,
-            "uuid": "20fda433-1864-433b-b3dd-8f119fe4cafd",
+            "server": "188.114.97.6",
+            "server_port": 443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1521,7 +1521,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "happy.mianfeicf.lol",
+                "server_name": "CC45Ca71.bpb-woRKER-PAneL-3V6.Pages.deV",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1531,18 +1531,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=2560",
+                "path": "\/VrjnfbKdaPq09NTS?ed=2560",
                 "headers": {
-                    "Host": "happy.mianfeicf.lol"
+                    "Host": "CC45Ca71.bpb-woRKER-PAneL-3V6.Pages.deV"
                 }
             }
         },
         {
-            "tag": "🇨🇷CR | 🔴 | vless | @ConfigsHUB | 15",
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 13",
             "type": "vless",
-            "server": "190.93.247.74",
+            "server": "www.speedtest.net",
             "server_port": 443,
-            "uuid": "a13df940-020c-465f-bc89-ee5279b5cd6a",
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1552,7 +1552,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "lv.kpcloud.eu.org",
+                "server_name": "CC45ca71.bpb-wORkEr-pANEl-3V6.Pages.Dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1562,9 +1562,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/lqk6cOningH365qS?ed=2560",
                 "headers": {
-                    "Host": "lv.kpcloud.eu.org"
+                    "Host": "CC45ca71.bpb-wORkEr-pANEl-3V6.Pages.Dev"
                 }
             }
         },

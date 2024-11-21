@@ -119,8 +119,9 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @customv2ray | 8",
                 "🇸🇪SE | 🟢 | vmess | @customv2ray | 9",
+                "🇺🇸US | 🟢 | vmess | @V2rayng_Fast | 0",
                 "🇳🇱NL | 🟢 | vmess | @v2ray1_ng | 7",
-                "🇨🇳CN | 🟢 | vmess | @ConfigsHUB | 17",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 6",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -157,8 +158,9 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @customv2ray | 8",
                 "🇸🇪SE | 🟢 | vmess | @customv2ray | 9",
+                "🇺🇸US | 🟢 | vmess | @V2rayng_Fast | 0",
                 "🇳🇱NL | 🟢 | vmess | @v2ray1_ng | 7",
-                "🇨🇳CN | 🟢 | vmess | @ConfigsHUB | 17",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 6",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -470,6 +472,30 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🟢 | vmess | @V2rayng_Fast | 0",
+            "type": "vmess",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "2c11b21e-a56b-404c-8422-8d31fc8190b1",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
             "tag": "🇳🇱NL | 🟢 | vmess | @v2ray1_ng | 7",
             "type": "vmess",
             "server": "89.23.103.249",
@@ -487,11 +513,11 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @ConfigsHUB | 17",
+            "tag": "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 6",
             "type": "vmess",
-            "server": "cdn.011010100110111101110011011101000110000101110010110111010001100.de",
-            "server_port": 80,
-            "uuid": "28c05d48-e2f4-70d0-7a4c-392c9bd43849",
+            "server": "209.38.179.254",
+            "server_port": 40793,
+            "uuid": "da000e5f-8319-4067-abcd-f4d517668b0a",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,

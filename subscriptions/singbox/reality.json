@@ -118,9 +118,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 8",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 9",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 11",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 12",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 1",
                 "🇳🇱NL | 🟢 | vless | @nofiltering2 | 16",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
@@ -156,9 +154,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 8",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 9",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 11",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 12",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 1",
                 "🇳🇱NL | 🟢 | vless | @nofiltering2 | 16",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
@@ -507,11 +503,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 9",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 1",
             "type": "vless",
-            "server": "r.iphone-shopp.ir",
-            "server_port": 5843,
-            "uuid": "6803d696-9541-4bab-8c90-e7f634513ec4",
+            "server": "join.persiatm_channel.darkping.net",
+            "server_port": 1633,
+            "uuid": "f0ab5256-938d-4e3b-bc4f-03b7d0c9f6a3",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -521,7 +517,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "refersion.com",
+                "server_name": "stackoverflow.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -530,88 +526,9 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "Vk19B0UVrPCk4vFDYHiB_ML1j3KhY87e6dqCXMBQlR8",
-                    "short_id": "58bcbc38eae97b5d"
+                    "public_key": "ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q",
+                    "short_id": "9bc0a55a5379c0ed"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "mgrpcm",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 11",
-            "type": "vless",
-            "server": "r.iphone-shopp.ir",
-            "server_port": 5643,
-            "uuid": "6803d696-9541-4bab-8c90-e7f634513ec4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "2I22pKooT9m0Zm8Y9ZZnQPWAwZV6kZ5EmrNKwaoOz2I",
-                    "short_id": "68e1d9a8a75a3fea"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "mgrpcm",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 12",
-            "type": "vless",
-            "server": "sgoodd.ir.iphone-shopp.ir",
-            "server_port": 5443,
-            "uuid": "6803d696-9541-4bab-8c90-e7f634513ec4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "y3s1kJ6fXvxa_ROS1VwzHeWs0NPIJwsVJ89f5l6HmV4",
-                    "short_id": "902736d426f64e34"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "mgrpcm",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {

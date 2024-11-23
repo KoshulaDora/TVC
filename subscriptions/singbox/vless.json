@@ -363,14 +363,14 @@
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 2",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
-                "🚩CF | 🔴 | vless | @vless_vmess | 0",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 1",
+                "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 2",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 3",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 4",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 6",
-                "🚩CF | 🔴 | vless | @vless_vmess | 7",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 5",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 7",
                 "🚩CF | 🔴 | vless | @vless_vmess | 8",
+                "🚩CF | 🔴 | vless | @vless_vmess | 9",
                 "🚩CF | 🔴 | vless | @MTConfig | 0",
                 "🇸🇪SE | 🔴 | vless | @MTConfig | 1",
                 "❔XX | 🔴 | vless | @MTConfig | 2",
@@ -420,10 +420,10 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 6",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 7",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🚩CF | 🔴 | vless | @proxystore11 | 3",
@@ -773,14 +773,14 @@
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 2",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
-                "🚩CF | 🔴 | vless | @vless_vmess | 0",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 1",
+                "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 2",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 3",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 4",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 6",
-                "🚩CF | 🔴 | vless | @vless_vmess | 7",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 5",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 7",
                 "🚩CF | 🔴 | vless | @vless_vmess | 8",
+                "🚩CF | 🔴 | vless | @vless_vmess | 9",
                 "🚩CF | 🔴 | vless | @MTConfig | 0",
                 "🇸🇪SE | 🔴 | vless | @MTConfig | 1",
                 "❔XX | 🔴 | vless | @MTConfig | 2",
@@ -830,10 +830,10 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 6",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 7",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🚩CF | 🔴 | vless | @proxystore11 | 3",
@@ -7265,7 +7265,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @vless_vmess | 0",
+            "tag": "🚩CF | 🔴 | vless | @vless_vmess | 1",
             "type": "vless",
             "server": "104.17.207.36",
             "server_port": 8443,
@@ -7296,7 +7296,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 2",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -7327,7 +7327,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 3",
             "type": "vless",
             "server": "NUFiLTER.fastly80-3.hosting-ip.com",
             "server_port": 80,
@@ -7348,7 +7348,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -7369,7 +7369,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 5",
             "type": "vless",
             "server": "151.101.194.133",
             "server_port": 443,
@@ -7400,7 +7400,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 7",
             "type": "vless",
             "server": "NUFiLTER.fastly80-2.hosting-ip.com",
             "server_port": 80,
@@ -7421,7 +7421,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @vless_vmess | 7",
+            "tag": "🚩CF | 🔴 | vless | @vless_vmess | 8",
             "type": "vless",
             "server": "172.66.47.141",
             "server_port": 443,
@@ -7452,7 +7452,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @vless_vmess | 8",
+            "tag": "🚩CF | 🔴 | vless | @vless_vmess | 9",
             "type": "vless",
             "server": "172.66.44.171",
             "server_port": 443,
@@ -8823,7 +8823,28 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 0",
+            "type": "vless",
+            "server": "VPNCSTOMIZE.fastly80-3.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "458f30b9-5ed9-477e-9d7a-9b587c02fea2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed",
+                "headers": {
+                    "Host": "VPNCSTOMIZE.fastly80-3.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
@@ -8854,46 +8875,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "VPNCSTOMIZE.fastly80-3.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "458f30b9-5ed9-477e-9d7a-9b587c02fea2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed",
-                "headers": {
-                    "Host": "VPNCSTOMIZE.fastly80-3.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 6",
-            "type": "vless",
-            "server": "104.17.148.22",
-            "server_port": 2086,
-            "uuid": "7fdfc9a2-db83-4db5-e09c-b9e324e39519",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 7",
-            "type": "vless",
-            "server": "151.101.2.133",
+            "server": "151.101.194.133",
             "server_port": 443,
-            "uuid": "9f70018f-a963-4cc0-a98c-7992683312a5",
+            "uuid": "telegram-id-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -8903,7 +8889,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "datasets.new",
+                "server_name": "mio.splashthat.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -8913,9 +8899,30 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
                 "headers": {
-                    "Host": "datasets.new"
+                    "Host": "mio.splashthat.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "151.101.194.133",
+            "server_port": 80,
+            "uuid": "TELEGRAM-NUFiLTER",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed",
+                "headers": {
+                    "Host": "151.101.194.133"
                 }
             }
         },

@@ -154,14 +154,14 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 3",
+                "🇳🇱NL | 🟢 | vmess | @v2ray1_ng | 7",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 7",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 8",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇭🇰HK | 🟢 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
@@ -169,8 +169,8 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
+                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇸🇬SG | 🔴 | vless | @Outlinev2rayNG | 6",
@@ -239,14 +239,14 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 3",
+                "🇳🇱NL | 🟢 | vmess | @v2ray1_ng | 7",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 7",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 8",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇭🇰HK | 🟢 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
@@ -254,8 +254,8 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
+                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇸🇬SG | 🔴 | vless | @Outlinev2rayNG | 6",
@@ -1441,34 +1441,20 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 3",
-            "type": "vless",
-            "server": "104.26.2.3",
-            "server_port": 443,
-            "uuid": "c95a5a3a-5a4c-4ee5-b11a-96f72cf80661",
-            "flow": "",
-            "packet_encoding": "xudp",
+            "tag": "🇳🇱NL | 🟢 | vmess | @v2ray1_ng | 7",
+            "type": "vmess",
+            "server": "89.23.103.249",
+            "server_port": 8081,
+            "uuid": "60b85ec5-4cc9-4dd5-a5d2-edc876501b69",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "4cbba020.fastpurnet3.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram@V2ray_Alpha\/?ed=2560",
-                "headers": {
-                    "Host": "4cbba020.fastpurnet3.pages.dev"
-                }
             }
         },
         {
@@ -1648,38 +1634,7 @@
             }
         },
         {
-            "tag": "🇭🇰HK | 🟢 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "8.218.126.44",
-            "server_port": 48141,
-            "uuid": "de44b044-8f90-4e18-b742-16591667ff96",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "edgetunnel-free.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "edgetunnel-free.pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
@@ -1706,6 +1661,27 @@
                 "path": "\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
                 "headers": {
                     "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "telegram-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
+                "headers": {
+                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -1892,11 +1868,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "🇳🇱NL | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
-            "server": "172.67.170.11",
-            "server_port": 443,
-            "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
+            "server": "141.144.198.113",
+            "server_port": 8443,
+            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1909,7 +1885,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "linde06.indiavideo.sbs",
+                "server_name": "e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1919,16 +1895,16 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/linkws",
+                "path": "\/obdii.cfd:443\/linkws",
                 "headers": {
-                    "Host": "linde06.indiavideo.sbs"
+                    "Host": "e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
-            "server": "104.22.37.243",
+            "server": "162.159.140.93",
             "server_port": 2095,
             "uuid": "18d96190-c10f-448f-a82a-2d36df5c3cde",
             "security": "auto",

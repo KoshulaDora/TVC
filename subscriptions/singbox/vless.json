@@ -362,6 +362,7 @@
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 1",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 2",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 3",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 1",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 2",
@@ -421,7 +422,8 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-                "🇭🇰HK | 🟢 | vless | @ConfigsHUB | 12",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 6",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 7",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🚩CF | 🔴 | vless | @proxystore11 | 3",
@@ -770,6 +772,7 @@
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 1",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 2",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 3",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 1",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 2",
@@ -829,7 +832,8 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-                "🇭🇰HK | 🟢 | vless | @ConfigsHUB | 12",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 6",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 7",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🚩CF | 🔴 | vless | @proxystore11 | 3",
@@ -7240,6 +7244,27 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2086,
+            "uuid": "bb7853c3-769e-4680-8dc2-62d959d40367",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2056",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
             "tag": "🚩CF | 🔴 | vless | @vless_vmess | 0",
             "type": "vless",
             "server": "104.17.207.36",
@@ -8800,27 +8825,6 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 2",
             "type": "vless",
-            "server": "VPNCSTOMIZE.fastly80-3.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "458f30b9-5ed9-477e-9d7a-9b587c02fea2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed",
-                "headers": {
-                    "Host": "VPNCSTOMIZE.fastly80-3.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
-            "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
             "uuid": "9866995e-7225-4919-8de8-19a3f941c4d4",
@@ -8850,11 +8854,46 @@
             }
         },
         {
-            "tag": "🇭🇰HK | 🟢 | vless | @ConfigsHUB | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 3",
             "type": "vless",
-            "server": "8.218.126.44",
-            "server_port": 48141,
-            "uuid": "de44b044-8f90-4e18-b742-16591667ff96",
+            "server": "VPNCSTOMIZE.fastly80-3.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "458f30b9-5ed9-477e-9d7a-9b587c02fea2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed",
+                "headers": {
+                    "Host": "VPNCSTOMIZE.fastly80-3.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 6",
+            "type": "vless",
+            "server": "104.17.148.22",
+            "server_port": 2086,
+            "uuid": "7fdfc9a2-db83-4db5-e09c-b9e324e39519",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 7",
+            "type": "vless",
+            "server": "151.101.2.133",
+            "server_port": 443,
+            "uuid": "9f70018f-a963-4cc0-a98c-7992683312a5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -8864,7 +8903,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "edgetunnel-free.pages.dev",
+                "server_name": "datasets.new",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -8876,7 +8915,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "edgetunnel-free.pages.dev"
+                    "Host": "datasets.new"
                 }
             }
         },

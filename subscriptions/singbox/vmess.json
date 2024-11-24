@@ -122,7 +122,9 @@
                 "❔XX | 🟢 | vmess | @customv2ray | 15",
                 "🇸🇪SE | 🟢 | vmess | @customv2ray | 16",
                 "🇺🇸US | 🟢 | vmess | @vless_vmess | 4",
-                "🚩CF | 🟢 | vmess | @ConfigsHUB | 5",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 0",
+                "🚩CF | 🟢 | vmess | @ConfigsHUB | 1",
+                "🇨🇳CN | 🟢 | vmess | @ConfigsHUB | 12",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -162,7 +164,9 @@
                 "❔XX | 🟢 | vmess | @customv2ray | 15",
                 "🇸🇪SE | 🟢 | vmess | @customv2ray | 16",
                 "🇺🇸US | 🟢 | vmess | @vless_vmess | 4",
-                "🚩CF | 🟢 | vmess | @ConfigsHUB | 5",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 0",
+                "🚩CF | 🟢 | vmess | @ConfigsHUB | 1",
+                "🇨🇳CN | 🟢 | vmess | @ConfigsHUB | 12",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -542,11 +546,11 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @ConfigsHUB | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 0",
             "type": "vmess",
-            "server": "188.114.97.6",
+            "server": "denc36.xtooltech.cfd",
             "server_port": 443,
-            "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
+            "uuid": "b321fd5d-e6ec-4293-a644-164e3885f52e",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -559,7 +563,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "linde06.indiavideo.sbs",
+                "server_name": "adenc36v.xtooltech.cfd",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -571,8 +575,49 @@
                 "type": "ws",
                 "path": "\/linkws",
                 "headers": {
-                    "Host": "linde06.indiavideo.sbs"
+                    "Host": "adenc36v.xtooltech.cfd"
                 }
+            }
+        },
+        {
+            "tag": "🚩CF | 🟢 | vmess | @ConfigsHUB | 1",
+            "type": "vmess",
+            "server": "104.17.237.149",
+            "server_port": 8080,
+            "uuid": "b224029a-8614-445b-b6f7-7dbad13b0c75",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇨🇳CN | 🟢 | vmess | @ConfigsHUB | 12",
+            "type": "vmess",
+            "server": "cdn.011010100110111101110011011101000110000101110010110111010001100.de",
+            "server_port": 80,
+            "uuid": "28c05d48-e2f4-70d0-7a4c-392c9bd43849",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {

@@ -111,8 +111,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 32",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 18",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 19",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 18",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 4",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 17",
@@ -154,8 +154,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
@@ -184,8 +184,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 32",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 18",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 19",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 18",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 4",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 16",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 17",
@@ -227,8 +227,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
@@ -389,9 +389,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "184.73.163.5",
+            "server": "15.157.199.151",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -420,9 +420,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "52.206.80.189",
+            "server": "15.222.187.30",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1475,11 +1475,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "104.21.42.250",
+            "server": "151.101.194.133",
             "server_port": 443,
-            "uuid": "213d6337-7e90-43cb-b515-e392c946b371",
+            "uuid": "TELEGRAM-NUFiLTER",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1489,7 +1489,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "WWW.felafel.org.",
+                "server_name": "mio.splashthat.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1498,39 +1498,31 @@
                 }
             },
             "transport": {
-                "type": "grpc",
-                "service_name": "@ConfigTell,@ConfigTell,@ConfigTell",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
+                "type": "ws",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+                "headers": {
+                    "Host": "mio.splashthat.com"
+                }
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "188.245.67.23",
-            "server_port": 50875,
-            "uuid": "7f84ec82-4c5d-479d-b272-caba9767c2d9",
-            "flow": "xtls-rprx-vision",
+            "server": "NUFiLTER.fastly80.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "TELEGRAM-NUFiLTER",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "business.stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "3TrvJr0BfbCPdv-e4LZcUBotYcuifQZH3YER8FIZcS4",
-                    "short_id": "a51aabe09367"
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+                "headers": {
+                    "Host": "NUFiLTER.fastly80.hosting-ip.com"
                 }
             }
         },

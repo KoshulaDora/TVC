@@ -118,7 +118,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 9",
-                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 11",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
@@ -154,7 +154,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 9",
-                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 11",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
@@ -510,11 +510,11 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 11",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
             "type": "vless",
-            "server": "my.jasrama.com",
-            "server_port": 2096,
-            "uuid": "f82c2052-7411-40e8-96ef-d433127979a6",
+            "server": "89.187.169.71",
+            "server_port": 443,
+            "uuid": "6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -524,7 +524,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "dalfak.com",
+                "server_name": "www.cloudflare.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -533,16 +533,9 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY",
-                    "short_id": "a56f693ce784b4cc"
+                    "public_key": "B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g",
+                    "short_id": "01b200e90e250221"
                 }
-            },
-            "transport": {
-                "type": "http",
-                "host": [
-                    "dalfak.com"
-                ],
-                "path": "\/"
             }
         },
         {

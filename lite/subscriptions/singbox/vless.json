@@ -144,15 +144,16 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
-                "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
+                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 13",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 12",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇨🇦CA | 🔴 | vless | @ConfigsHUB | 7",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 7",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -166,7 +167,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 26",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 27",
+                "🇨🇦CA | 🔴 | vless | @kingofilter | 27",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3",
                 "❔XX | 🔴 | vless | @VpnSkyy | 4"
             ]
@@ -213,15 +214,16 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
-                "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
+                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 13",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 12",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇨🇦CA | 🔴 | vless | @ConfigsHUB | 7",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 7",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -235,7 +237,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 26",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 27",
+                "🇨🇦CA | 🔴 | vless | @kingofilter | 27",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3",
                 "❔XX | 🔴 | vless | @VpnSkyy | 4"
             ],
@@ -1180,7 +1182,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
+            "tag": "🇨🇦CA | 🔴 | vless | @proxyymeliii | 13",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1256,7 +1258,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
+            "tag": "🇨🇦CA | 🔴 | vless | @vless_vmess | 15",
             "type": "vless",
             "server": "104.17.207.36",
             "server_port": 8443,
@@ -1401,11 +1403,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ConfigsHUB | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
             "type": "vless",
-            "server": "4.206.223.188",
-            "server_port": 8443,
-            "uuid": "de44b044-8f90-4e18-b742-16591667ff96",
+            "server": "cpanel.com",
+            "server_port": 443,
+            "uuid": "213d6337-7e90-43cb-b515-e392c946b371",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1415,7 +1417,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "edgetunnel-free.pages.dev",
+                "server_name": "WWW.felafel.org.",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1424,11 +1426,25 @@
                 }
             },
             "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "edgetunnel-free.pages.dev"
-                }
+                "type": "grpc",
+                "service_name": "@ConfigTell,@ConfigTell,@ConfigTell",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 7",
+            "type": "vless",
+            "server": "95.164.117.40",
+            "server_port": 22161,
+            "uuid": "3aa78f08-e345-4d83-bda0-f34eebc5fcc8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
@@ -1764,7 +1780,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 27",
+            "tag": "🇨🇦CA | 🔴 | vless | @kingofilter | 27",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,

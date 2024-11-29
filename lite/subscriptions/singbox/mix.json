@@ -156,13 +156,15 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | trojan | @ConfigsHUB | 0",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | trojan | @proxystore11 | 0",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+                "🇬🇧GB | 🟢 | vmess | @Hope_Net | 0",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Capoit | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
@@ -231,13 +233,15 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | trojan | @ConfigsHUB | 0",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | trojan | @proxystore11 | 0",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+                "🇬🇧GB | 🟢 | vmess | @Hope_Net | 0",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Capoit | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
@@ -1498,11 +1502,13 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @ConfigsHUB | 0",
-            "type": "trojan",
-            "server": "104.17.234.12",
-            "server_port": 443,
-            "password": "Join-VPNCUSTOMIZE",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "188.245.162.16",
+            "server_port": 6543,
+            "uuid": "bfed7c40-7878-4ee5-a8db-8b9d0c546bea",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -1510,7 +1516,39 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za",
+                "server_name": "www.speedtest.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "T80OrhSLwBQrXvbS8fh97IXOu37wRXT0ZEfVYu-FEDo",
+                    "short_id": "ddb79eb6fb"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 18",
+            "type": "vmess",
+            "server": "www.parsvds.com",
+            "server_port": 2087,
+            "uuid": "ad0a8c49-0785-46d9-bb14-2c3ab03a5dbb",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "OfFEr.miRAcLestorY.ToP.",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1520,9 +1558,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed",
+                "path": "\/",
                 "headers": {
-                    "Host": "1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za"
+                    "Host": "OfFEr.miRAcLestorY.ToP."
                 }
             }
         },
@@ -1676,7 +1714,24 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+            "tag": "🇬🇧GB | 🟢 | vmess | @Hope_Net | 0",
+            "type": "vmess",
+            "server": "62.112.221.47",
+            "server_port": 3939,
+            "uuid": "faee92bb-0370-4de4-8798-694023eeaa90",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
             "type": "vmess",
             "server": "104.21.84.114",
             "server_port": 443,

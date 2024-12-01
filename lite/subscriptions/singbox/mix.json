@@ -156,8 +156,7 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 287",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 288",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 16",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 14",
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | trojan | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -234,8 +233,7 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 287",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 288",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 16",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 14",
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | trojan | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -1541,42 +1539,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
-            "type": "vless",
-            "server": "151.101.2.133",
-            "server_port": 443,
-            "uuid": "3a6ea2e7-e181-4595-9812-7faccf4955f6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mio.splashthat.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray",
-                "headers": {
-                    "Host": "mio.splashthat.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 16",
+            "tag": "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 14",
             "type": "vmess",
-            "server": "www.speedtest.net",
-            "server_port": 8880,
-            "uuid": "18665edb-7e4f-4fb3-b40e-c21853ff12ee",
+            "server": "82.115.16.179",
+            "server_port": 56451,
+            "uuid": "ae6fffb1-415a-4cad-96f3-92a3689c11e8",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1586,13 +1553,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
-                }
             }
         },
         {

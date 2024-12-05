@@ -143,6 +143,7 @@
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 7",
+                "🇸🇪SE | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 8",
@@ -156,10 +157,11 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
+                "🇺🇸US | 🔴 | vless | @Capoit | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 10",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -211,6 +213,7 @@
                 "❔XX | 🔴 | vless | @proxyymeliii | 12",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 13",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 7",
+                "🇸🇪SE | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 8",
@@ -224,10 +227,11 @@
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
+                "🇺🇸US | 🔴 | vless | @Capoit | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 10",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -1199,6 +1203,27 @@
             }
         },
         {
+            "tag": "🇸🇪SE | 🔴 | vless | @v2ray1_ng | 8",
+            "type": "vless",
+            "server": "151.101.87.26",
+            "server_port": 80,
+            "uuid": "86c50e3a-5b87-49dd-bd20-03c7f2735e40",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "151.101.87.26"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
             "type": "vless",
             "server": "104.17.207.36",
@@ -1387,23 +1412,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2095,
-            "uuid": "DIGIV2RAY",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2095,
-            "uuid": "DIGIV2RAY",
+            "server": "unlimiteddev.fastly80-3.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "7bb5f35d-0041-42eb-cacc-916a6b921023",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1413,9 +1424,40 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/tm-Digiv2-__teldIGIv2__-DIGiv",
+                "path": "\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480",
                 "headers": {
-                    "Host": "www.speedtest.net"
+                    "Host": "unlimiteddev.fastly80-3.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "aBrHA.DE",
+            "server_port": 443,
+            "uuid": "5164ba71-f145-42f7-b618-b3a7659544ef",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "aBrHA.DE",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/TELEGRAM-MARAMBASHI_MARAMBASHI\/?ed=2560",
+                "headers": {
+                    "Host": "aBrHA.DE"
                 }
             }
         },
@@ -1558,6 +1600,27 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @Capoit | 0",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2095,
+            "uuid": "DIGIV2RAY",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/tm-Digiv2-__teldIGIv2__-DIGiv",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
             "type": "vless",
             "server": "151.101.3.8",
@@ -1600,20 +1663,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
-            "type": "vless",
-            "server": "104.17.234.128",
-            "server_port": 8880,
-            "uuid": "ID-ViraV2ray-7844",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
             "type": "vless",
             "server": "visa.com",
@@ -1631,6 +1680,27 @@
                 "path": "\/Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2?ed=512",
                 "headers": {
                     "Host": "visa.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 10",
+            "type": "vless",
+            "server": "151.101.194.165",
+            "server_port": 80,
+            "uuid": "d2b4a384-2036-4856-d7ef-7b39faa348e9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480",
+                "headers": {
+                    "Host": "151.101.194.165"
                 }
             }
         },

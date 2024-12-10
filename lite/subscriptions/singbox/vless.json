@@ -109,8 +109,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 16",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 17",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 22",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 23",
@@ -144,8 +144,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 299",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 300",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 1",
@@ -172,8 +172,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 16",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 17",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 22",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 23",
@@ -207,8 +207,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 299",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 300",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 1",
@@ -307,9 +307,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "100.29.80.125",
+            "server": "15.157.242.44",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -338,9 +338,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "52.202.23.28",
+            "server": "52.60.91.109",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1178,11 +1178,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "live.skornorth.com",
+            "server": "www.speedtest.net",
             "server_port": 443,
-            "uuid": "telegram-id-ArV2ray",
+            "uuid": "3a15a346-2f6f-41bc-ad0c-a885aec3002a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1192,7 +1192,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "live.skornorth.com",
+                "server_name": "46771119909676129223555549792065.v2line.net",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1202,18 +1202,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "path": "\/v2line-helsinki-finland-vl-ws-tls-advanced",
                 "headers": {
-                    "Host": "live.skornorth.com"
+                    "Host": "46771119909676129223555549792065.v2line.net"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "Zula.ir",
-            "server_port": 80,
-            "uuid": "v2rayng____76",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "b9509f1d-fed1-49bd-acd4-038ad13c81e7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1221,11 +1221,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "86278058785885367257976103254902.v2line.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=2053",
+                "path": "\/v2line-chicago-unitedstates-vl-ws-tls-advanced",
                 "headers": {
-                    "Host": "Zula.ir"
+                    "Host": "86278058785885367257976103254902.v2line.net"
                 }
             }
         },

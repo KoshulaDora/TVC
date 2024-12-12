@@ -120,7 +120,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
-                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 1",
+                "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 1",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 17",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 18",
@@ -140,7 +140,6 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 30",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 31",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 0",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 0",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 16",
@@ -155,8 +154,8 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 234",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 235",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
-                "🇨🇦CA | 🟢 | trojan | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -197,7 +196,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
-                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 1",
+                "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 1",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 17",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 18",
@@ -217,7 +216,6 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 150",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 30",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 31",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 0",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 0",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 16",
@@ -232,8 +230,8 @@
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 234",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 235",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
-                "🇨🇦CA | 🟢 | trojan | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -616,7 +614,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 1",
             "type": "vless",
             "server": "104.21.48.53",
             "server_port": 8443,
@@ -1123,27 +1121,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 0",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "c921c664-d82d-4317-b4d0-7640cc9aa760",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480",
-                "headers": {
-                    "Host": "151.101.3.8"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 0",
             "type": "vless",
             "server": "151.101.64.155",
@@ -1462,11 +1439,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "iplocation.net",
+            "server": "atrapalotickets.com",
             "server_port": 443,
-            "uuid": "f2004126-5865-4980-b6dd-2211dbaadf10",
+            "uuid": "c7953896-7bb2-4ce2-c7ca-117b2678b47f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1476,7 +1453,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "rayan.sahel.us.kg",
+                "server_name": "atrapalotickets.com.",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1486,18 +1463,20 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=2560",
+                "path": "\/melo\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd=2048",
                 "headers": {
-                    "Host": "rayan.sahel.us.kg"
+                    "Host": "atrapalotickets.com."
                 }
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | trojan | @ConfigsHUB | 14",
-            "type": "trojan",
-            "server": "134.195.196.138",
-            "server_port": 443,
-            "password": "f0eb8c92ce8946aaba856569cff1a16b",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "mx1ccfa.matrix-shop8.ir",
+            "server_port": 1022,
+            "uuid": "19b3d5d3-b1e4-4eb3-aa10-ee63e0ca4a9b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -1505,12 +1484,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "avianrecruit.com",
+                "server_name": "refersion.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "O4PXR1eZRuubpri7ajbJBfhv3L7ZiJZbgZ80BGzN1X0",
+                    "short_id": ""
                 }
             }
         },

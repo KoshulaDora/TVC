@@ -126,11 +126,10 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 17",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 18",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 6",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
-                "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
+                "🇨🇦CA | 🔴 | vless | @Watashi_VPN | 3",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇳🇱NL | 🔴 | vless | @prrofile_purple | 152",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 153",
@@ -193,11 +192,10 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 17",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 18",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 6",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
-                "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
+                "🇨🇦CA | 🔴 | vless | @Watashi_VPN | 3",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇳🇱NL | 🔴 | vless | @prrofile_purple | 152",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 153",
@@ -719,42 +717,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
             "uuid": "b005ca35-199f-42fe-855c-75b86b0c2fc6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "hajlab.ucdavis.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
-                "headers": {
-                    "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 6",
-            "type": "vless",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "a15d10bc-edb7-4f85-840d-7cd0bd25fe32",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -833,7 +800,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Watashi_VPN | 3",
+            "tag": "🇨🇦CA | 🔴 | vless | @Watashi_VPN | 3",
             "type": "vless",
             "server": "www.gov.se",
             "server_port": 8443,
@@ -1274,9 +1241,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "bg.com",
+            "server": "151.101.193.6",
             "server_port": 80,
-            "uuid": "a5b1fa7c-3a28-4e23-8b13-cc1c98c8f151",
+            "uuid": "c55ceb81-ded6-5f51-b960-08223fecb4dd",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1286,18 +1253,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=2056",
+                "path": "\/@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO?ed=2560",
                 "headers": {
-                    "Host": "bg.com"
+                    "Host": "151.101.193.6"
                 }
             }
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "germany1.fastly80-2.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "59260bc4-8672-4573-b805-a372efc200b8",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "a5bf7a44-c684-42a5-ba3a-9691735813d5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1305,11 +1272,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "hajlab.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=1024",
+                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
                 "headers": {
-                    "Host": "germany1.fastly80-2.hosting-ip.com"
+                    "Host": "hajlab.ucdavis.edu"
                 }
             }
         },

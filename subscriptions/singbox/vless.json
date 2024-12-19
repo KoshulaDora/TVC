@@ -435,7 +435,6 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
-                "🇳🇿NZ | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇮🇳IN | 🔴 | vless | @flyv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
@@ -450,7 +449,6 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 10",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 11",
-                "🇩🇪DE | 🟢 | vless | @mehrosaboran | 12",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
@@ -837,7 +835,6 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
-                "🇳🇿NZ | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇮🇳IN | 🔴 | vless | @flyv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
@@ -852,7 +849,6 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 10",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 11",
-                "🇩🇪DE | 🟢 | vless | @mehrosaboran | 12",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
@@ -8998,37 +8994,6 @@
             }
         },
         {
-            "tag": "🇳🇿NZ | 🔴 | vless | @Outlinev2rayNG | 5",
-            "type": "vless",
-            "server": "202.37.33.81",
-            "server_port": 443,
-            "uuid": "71ed6628-5870-4d19-8a52-f2a3ba3d4898",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "vb.zhuk.us.kg",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "vb.zhuk.us.kg"
-                }
-            }
-        },
-        {
             "tag": "🇮🇳IN | 🔴 | vless | @flyv2ray | 0",
             "type": "vless",
             "server": "151.101.158.204",
@@ -9389,35 +9354,6 @@
                 "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
                 "headers": {
                     "Host": "zmaoz.faculty.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vless | @mehrosaboran | 12",
-            "type": "vless",
-            "server": "188.245.215.203",
-            "server_port": 101,
-            "uuid": "01221054-0b45-4525-b83a-548f4026a759",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.speedtest.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "8mTajmw3Mfksrm8IA9Wb7kahBw8a4TZcOw98c_EN0TU",
-                    "short_id": "95f9"
                 }
             }
         },

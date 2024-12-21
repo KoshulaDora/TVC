@@ -110,8 +110,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 29",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 18",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 19",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 18",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 3",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 20",
@@ -130,8 +130,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 0",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 140",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 141",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 143",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 144",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0",
@@ -176,8 +176,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 29",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 18",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 19",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 18",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 3",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 20",
@@ -196,8 +196,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Watashi_VPN | 0",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 140",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 141",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 143",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 144",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0",
@@ -344,9 +344,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "3.11.231.199",
+            "server": "52.16.22.242",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -375,9 +375,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 19",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "35.179.204.198",
+            "server": "99.81.175.156",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -860,11 +860,32 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 140",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 143",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "1dd834f8-326f-48e6-96ce-113e816ad69d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=443",
+                "headers": {
+                    "Host": "151.101.3.8"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 144",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
-            "uuid": "e236170c-04ec-457f-8ea3-f11240e974a6",
+            "uuid": "51b73dc1-a711-49ea-8d9c-9ddf428b7cd2",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -887,27 +908,6 @@
                 "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
                 "headers": {
                     "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 141",
-            "type": "vless",
-            "server": "germany1.fastly80-2.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "59260bc4-8672-4573-b805-a372efc200b8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=1024",
-                "headers": {
-                    "Host": "germany1.fastly80-2.hosting-ip.com"
                 }
             }
         },
@@ -1542,9 +1542,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 16",
             "type": "vless",
-            "server": "de.bolagskontaktstockholm.se",
+            "server": "151.101.194.133",
             "server_port": 443,
-            "uuid": "1aae9657-c653-495d-e8ad-8ca52916cea8",
+            "uuid": "TELEGRAM-NUFiLTER",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1554,7 +1554,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "de.bolagskontaktstockholm.se",
+                "server_name": "mio.splashthat.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1564,9 +1564,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/ws",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed",
                 "headers": {
-                    "Host": "de.bolagskontaktstockholm.se"
+                    "Host": "mio.splashthat.com"
                 }
             }
         },

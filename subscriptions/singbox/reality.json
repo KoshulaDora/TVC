@@ -114,14 +114,13 @@
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 137",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 144",
-                "🇬🇧GB | 🟢 | vless | @prrofile_purple | 151",
                 "❔XX | 🔴 | vless | @customv2ray | 12",
                 "🇫🇮FI | 🟢 | vless | @ShadowProxy66 | 33",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 1",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 4",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
-                "🇸🇪SE | 🔴 | vless | @v2ray1_ng | 7",
+                "🇸🇪SE | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🟢 | vless | @vless_vmess | 3",
                 "🇫🇷FR | 🟢 | vless | @VmessProtocol | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -159,14 +158,13 @@
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 137",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 144",
-                "🇬🇧GB | 🟢 | vless | @prrofile_purple | 151",
                 "❔XX | 🔴 | vless | @customv2ray | 12",
                 "🇫🇮FI | 🟢 | vless | @ShadowProxy66 | 33",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 1",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 4",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
-                "🇸🇪SE | 🔴 | vless | @v2ray1_ng | 7",
+                "🇸🇪SE | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🟢 | vless | @vless_vmess | 3",
                 "🇫🇷FR | 🟢 | vless | @VmessProtocol | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -465,35 +463,6 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @prrofile_purple | 151",
-            "type": "vless",
-            "server": "endev.postsafir.ir",
-            "server_port": 1623,
-            "uuid": "f34fd091-12f9-444e-81a2-9b45ee14d00f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0",
-                    "short_id": "3a622700e73c6642"
-                }
-            }
-        },
-        {
             "tag": "❔XX | 🔴 | vless | @customv2ray | 12",
             "type": "vless",
             "server": "[2a01:4f8:1c1b:1891::1]",
@@ -615,7 +584,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @v2ray1_ng | 7",
+            "tag": "🇸🇪SE | 🔴 | vless | @v2ray1_ng | 8",
             "type": "vless",
             "server": "172.234.116.15",
             "server_port": 51397,

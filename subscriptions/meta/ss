@@ -120,8 +120,10 @@ dns:
     'RULE-SET:ir,ircidr,geoip:ir,+.ir,+.bonyan.co': ["217.218.155.155", "217.218.127.127", "https://dns.403.online/dns-query", "https://dns.shecan.ir/dns-query"]
 
 proxies:
-  - {"name":"❔XX | 🟢 | ss | @DeamNet_Proxy | 2","type":"ss","server":"62.12.116.66","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔XX | 🟢 | ss | @DeamNet_Proxy | 9","type":"ss","server":"77.83.246.74","port":33320,"password":"gn8Xc4Ndxw9RDlAwFx0PpN","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"❔XX | 🟢 | ss | @DeamNet_Proxy | 2","type":"ss","server":"119.59.98.58","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"❔XX | 🟢 | ss | @DeamNet_Proxy | 5","type":"ss","server":"185.47.255.22","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"❔XX | 🟢 | ss | @DeamNet_Proxy | 10","type":"ss","server":"62.12.116.66","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"❔XX | 🟢 | ss | @DeamNet_Proxy | 17","type":"ss","server":"77.83.246.74","port":33320,"password":"gn8Xc4Ndxw9RDlAwFx0PpN","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @VmessProtocol | 9","type":"ss","server":"213.176.66.228","port":24495,"password":"xk5c6OgvtSu9d2mUTYZPiI","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @kingofilter | 3","type":"ss","server":"52.237.155.68","port":443,"password":"mzyYriPYYnCWDxoy","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @kingofilter | 8","type":"ss","server":"freakconfig27.usecharge.ir","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
@@ -133,7 +135,9 @@ proxy-groups:
       - URL-TEST
       - FALLBACK
       - '❔XX | 🟢 | ss | @DeamNet_Proxy | 2'
-      - '❔XX | 🟢 | ss | @DeamNet_Proxy | 9'
+      - '❔XX | 🟢 | ss | @DeamNet_Proxy | 5'
+      - '❔XX | 🟢 | ss | @DeamNet_Proxy | 10'
+      - '❔XX | 🟢 | ss | @DeamNet_Proxy | 17'
       - '❔XX | 🟢 | ss | @VmessProtocol | 9'
       - '❔XX | 🟢 | ss | @kingofilter | 3'
       - '❔XX | 🟢 | ss | @kingofilter | 8'
@@ -145,7 +149,9 @@ proxy-groups:
     tolerance: 50
     proxies:
       - '❔XX | 🟢 | ss | @DeamNet_Proxy | 2'
-      - '❔XX | 🟢 | ss | @DeamNet_Proxy | 9'
+      - '❔XX | 🟢 | ss | @DeamNet_Proxy | 5'
+      - '❔XX | 🟢 | ss | @DeamNet_Proxy | 10'
+      - '❔XX | 🟢 | ss | @DeamNet_Proxy | 17'
       - '❔XX | 🟢 | ss | @VmessProtocol | 9'
       - '❔XX | 🟢 | ss | @kingofilter | 3'
       - '❔XX | 🟢 | ss | @kingofilter | 8'
@@ -156,7 +162,9 @@ proxy-groups:
     interval: 60
     proxies:
       - '❔XX | 🟢 | ss | @DeamNet_Proxy | 2'
-      - '❔XX | 🟢 | ss | @DeamNet_Proxy | 9'
+      - '❔XX | 🟢 | ss | @DeamNet_Proxy | 5'
+      - '❔XX | 🟢 | ss | @DeamNet_Proxy | 10'
+      - '❔XX | 🟢 | ss | @DeamNet_Proxy | 17'
       - '❔XX | 🟢 | ss | @VmessProtocol | 9'
       - '❔XX | 🟢 | ss | @kingofilter | 3'
       - '❔XX | 🟢 | ss | @kingofilter | 8'

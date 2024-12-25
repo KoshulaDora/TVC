@@ -107,7 +107,9 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🟢 | ss | @DeamNet_Proxy | 2",
-                "❔XX | 🟢 | ss | @DeamNet_Proxy | 9",
+                "❔XX | 🟢 | ss | @DeamNet_Proxy | 5",
+                "❔XX | 🟢 | ss | @DeamNet_Proxy | 10",
+                "❔XX | 🟢 | ss | @DeamNet_Proxy | 17",
                 "❔XX | 🟢 | ss | @VmessProtocol | 9",
                 "❔XX | 🟢 | ss | @kingofilter | 3",
                 "❔XX | 🟢 | ss | @kingofilter | 8",
@@ -119,7 +121,9 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🟢 | ss | @DeamNet_Proxy | 2",
-                "❔XX | 🟢 | ss | @DeamNet_Proxy | 9",
+                "❔XX | 🟢 | ss | @DeamNet_Proxy | 5",
+                "❔XX | 🟢 | ss | @DeamNet_Proxy | 10",
+                "❔XX | 🟢 | ss | @DeamNet_Proxy | 17",
                 "❔XX | 🟢 | ss | @VmessProtocol | 9",
                 "❔XX | 🟢 | ss | @kingofilter | 3",
                 "❔XX | 🟢 | ss | @kingofilter | 8",
@@ -148,6 +152,26 @@
         {
             "tag": "❔XX | 🟢 | ss | @DeamNet_Proxy | 2",
             "type": "shadowsocks",
+            "server": "119.59.98.58",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "❔XX | 🟢 | ss | @DeamNet_Proxy | 5",
+            "type": "shadowsocks",
+            "server": "185.47.255.22",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "❔XX | 🟢 | ss | @DeamNet_Proxy | 10",
+            "type": "shadowsocks",
             "server": "62.12.116.66",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -156,7 +180,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @DeamNet_Proxy | 9",
+            "tag": "❔XX | 🟢 | ss | @DeamNet_Proxy | 17",
             "type": "shadowsocks",
             "server": "77.83.246.74",
             "server_port": 33320,

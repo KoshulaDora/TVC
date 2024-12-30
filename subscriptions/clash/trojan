@@ -154,7 +154,6 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 14","type":"trojan","server":"52.47.57.32","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇸🇪SE | 🟢 | trojan | @DirectVPN | 15","type":"trojan","server":"13.49.28.21","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇸🇪SE | 🟢 | trojan | @DirectVPN | 16","type":"trojan","server":"13.48.102.225","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇹🇷TR | 🔴 | trojan | @ConfigsHUB | 12","type":"trojan","server":"tr1-thcvpn.servehalflife.com","port":443,"udp":false,"password":"6518a1cf-a234-462d-9551-e02f95cc13eb","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"tr1.thcvpn.ip-ddns.com"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -197,7 +196,6 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 14'
       - '🇸🇪SE | 🟢 | trojan | @DirectVPN | 15'
       - '🇸🇪SE | 🟢 | trojan | @DirectVPN | 16'
-      - '🇹🇷TR | 🔴 | trojan | @ConfigsHUB | 12'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -240,7 +238,6 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 14'
       - '🇸🇪SE | 🟢 | trojan | @DirectVPN | 15'
       - '🇸🇪SE | 🟢 | trojan | @DirectVPN | 16'
-      - '🇹🇷TR | 🔴 | trojan | @ConfigsHUB | 12'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -282,7 +279,6 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 14'
       - '🇸🇪SE | 🟢 | trojan | @DirectVPN | 15'
       - '🇸🇪SE | 🟢 | trojan | @DirectVPN | 16'
-      - '🇹🇷TR | 🔴 | trojan | @ConfigsHUB | 12'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve

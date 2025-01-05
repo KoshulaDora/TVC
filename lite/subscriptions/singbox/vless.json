@@ -149,6 +149,7 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 72",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 73",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
@@ -211,6 +212,7 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 72",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 73",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
@@ -1227,9 +1229,40 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "151.101.129.6",
+            "server": "zmaoz.faculty.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "6c89998c-82b7-4570-e460-96c098e84eb3",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zmaoz.faculty.ucdavis.edu.",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/olem\/ws?ed=4096@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
+                "headers": {
+                    "Host": "zmaoz.faculty.ucdavis.edu."
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "speedtest.net",
             "server_port": 80,
-            "uuid": "312648af-dd40-5de2-bf0f-22d6e6284202",
+            "uuid": "3e92c450-e23d-4826-e952-9cbe5a508e73",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1239,9 +1272,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/olem\/ws?ed=1024@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
                 "headers": {
-                    "Host": "151.101.129.6"
+                    "Host": "speedtest.net"
                 }
             }
         },

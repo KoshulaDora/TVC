@@ -118,10 +118,9 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 13",
                 "🇵🇭PH | 🟢 | vmess | @DeamNet_Proxy | 14",
-                "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 0",
-                "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 1",
-                "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 2",
-                "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 3",
+                "🇸🇬SG | 🟢 | vmess | @ConfigsHUB | 0",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 8",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 9",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -130,7 +129,6 @@
                 "🇺🇸US | 🟢 | vmess | @free1_vpn | 6",
                 "🇺🇸US | 🟢 | vmess | @free1_vpn | 10",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
                 "🇩🇪DE | 🟢 | vmess | @nofiltering2 | 16"
             ]
         },
@@ -150,10 +148,9 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 13",
                 "🇵🇭PH | 🟢 | vmess | @DeamNet_Proxy | 14",
-                "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 0",
-                "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 1",
-                "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 2",
-                "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 3",
+                "🇸🇬SG | 🟢 | vmess | @ConfigsHUB | 0",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 8",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 9",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -162,7 +159,6 @@
                 "🇺🇸US | 🟢 | vmess | @free1_vpn | 6",
                 "🇺🇸US | 🟢 | vmess | @free1_vpn | 10",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
                 "🇩🇪DE | 🟢 | vmess | @nofiltering2 | 16"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -424,11 +420,28 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 0",
+            "tag": "🇸🇬SG | 🟢 | vmess | @ConfigsHUB | 0",
             "type": "vmess",
-            "server": "beyonddsz.cfd",
+            "server": "83.147.255.67",
+            "server_port": 13889,
+            "uuid": "d985c135-28c5-40fe-8853-31da55080161",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 8",
+            "type": "vmess",
+            "server": "151.101.194.133",
             "server_port": 443,
-            "uuid": "9b456c2a-f2c1-45e1-87a9-b7628b04bb24",
+            "uuid": "c69f3029-ae1e-45ca-aa08-70970f14dfd2",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -441,7 +454,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "beyonddsz.cfd",
+                "server_name": "mio.splashthat.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -451,18 +464,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/linkws",
+                "path": "\/racevpn",
                 "headers": {
-                    "Host": "beyonddsz.cfd"
+                    "Host": "mio.splashthat.com"
                 }
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 1",
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 9",
             "type": "vmess",
-            "server": "45.145.167.103",
-            "server_port": 443,
-            "uuid": "425c5e6e-30a0-4984-8a13-ee6f72053162",
+            "server": "151.101.2.216",
+            "server_port": 80,
+            "uuid": "c69f3029-ae1e-45ca-aa08-70970f14dfd2",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -473,89 +486,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "indiavideo.sbs",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/linkws",
+                "path": "\/racevpn?ed=80",
                 "headers": {
-                    "Host": "indiavideo.sbs"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 2",
-            "type": "vmess",
-            "server": "beyonddbc.sbs",
-            "server_port": 443,
-            "uuid": "8d90c129-4156-4d6c-9115-24df25f26a02",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "beyonddbc.sbs",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": "beyonddbc.sbs"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 3",
-            "type": "vmess",
-            "server": "indiavideo.sbs",
-            "server_port": 443,
-            "uuid": "425c5e6e-30a0-4984-8a13-ee6f72053162",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "indiavideo.sbs",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": "indiavideo.sbs"
+                    "Host": ""
                 }
             }
         },
@@ -788,40 +723,6 @@
                 "path": "\/21a64xdea04c",
                 "headers": {
                     "Host": "csct.xxxxxx.one"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
-            "type": "vmess",
-            "server": "hms02opi.fxiaomi.sbs",
-            "server_port": 443,
-            "uuid": "6c168fcc-2231-4f3b-8c1e-f6391692df4a",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "hms02opi.fxiaomi.sbs",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/link",
-                "headers": {
-                    "Host": "hms02opi.fxiaomi.sbs"
                 }
             }
         },

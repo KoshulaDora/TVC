@@ -155,8 +155,8 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 188",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 189",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 9",
@@ -233,8 +233,8 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 188",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 189",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 9",
@@ -1416,11 +1416,42 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "NUFiLTER.fastly80-3.hosting-ip.com",
+            "server": "151.101.130.133",
+            "server_port": 443,
+            "uuid": "0c3c2752-4b66-42c5-8886-2b0dafe9e4f3",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.sunshinecity.co.jp",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net",
+                "headers": {
+                    "Host": "www.sunshinecity.co.jp"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "24c358e1-cba6-41b3-bc24-fe23f978d174",
+            "uuid": "0c3c2752-4b66-42c5-8886-2b0dafe9e4f3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1430,38 +1461,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80",
+                "path": "\/?=9090",
                 "headers": {
-                    "Host": "NUFiLTER.fastly80-3.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 17",
-            "type": "vless",
-            "server": "phx-plus-1ddns.faforex.eu.org",
-            "server_port": 23258,
-            "uuid": "73159dbd-e01e-4492-a234-e5d7c335b128",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "microsoft.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BSEvpP7N7XNtOgzDrCFEgu6ejgdBHOYRug6S_lTf5GM",
-                    "short_id": "bfbc4c1f"
+                    "Host": "151.101.3.8"
                 }
             }
         },

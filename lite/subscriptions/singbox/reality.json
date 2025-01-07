@@ -109,7 +109,6 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 188",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 189",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -121,7 +120,6 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 188",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 189",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -236,35 +234,6 @@
                     "enabled": true,
                     "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
                     "short_id": "a4844ba7"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 17",
-            "type": "vless",
-            "server": "phx-plus-1ddns.faforex.eu.org",
-            "server_port": 23258,
-            "uuid": "73159dbd-e01e-4492-a234-e5d7c335b128",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "microsoft.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BSEvpP7N7XNtOgzDrCFEgu6ejgdBHOYRug6S_lTf5GM",
-                    "short_id": "bfbc4c1f"
                 }
             }
         },

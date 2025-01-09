@@ -108,7 +108,8 @@
                 "URL-TEST",
                 "❔XX | 🟢 | ss | @DeamNet_Proxy | 12",
                 "❔XX | 🟢 | ss | @VmessProtocol | 0",
-                "❔XX | 🟢 | ss | @VmessProtocol | 4",
+                "❔XX | 🟢 | ss | @VmessProtocol | 3",
+                "❔XX | 🟢 | ss | @VmessProtocol | 7",
                 "❔XX | 🟢 | ss | @kingofilter | 5",
                 "❔XX | 🟢 | ss | @kingofilter | 13"
             ]
@@ -119,7 +120,8 @@
             "outbounds": [
                 "❔XX | 🟢 | ss | @DeamNet_Proxy | 12",
                 "❔XX | 🟢 | ss | @VmessProtocol | 0",
-                "❔XX | 🟢 | ss | @VmessProtocol | 4",
+                "❔XX | 🟢 | ss | @VmessProtocol | 3",
+                "❔XX | 🟢 | ss | @VmessProtocol | 7",
                 "❔XX | 🟢 | ss | @kingofilter | 5",
                 "❔XX | 🟢 | ss | @kingofilter | 13"
             ],
@@ -156,6 +158,16 @@
         {
             "tag": "❔XX | 🟢 | ss | @VmessProtocol | 0",
             "type": "shadowsocks",
+            "server": "150.241.102.95",
+            "server_port": 21771,
+            "method": "chacha20-ietf-poly1305",
+            "password": "jYOarwzEbrfvpq5HEeK2Fz",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "❔XX | 🟢 | ss | @VmessProtocol | 3",
+            "type": "shadowsocks",
             "server": "series-a2-mec.varzesh360.co",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -164,7 +176,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @VmessProtocol | 4",
+            "tag": "❔XX | 🟢 | ss | @VmessProtocol | 7",
             "type": "shadowsocks",
             "server": "series-a2-me.varzesh360.co",
             "server_port": 443,

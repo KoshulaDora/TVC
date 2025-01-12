@@ -397,15 +397,10 @@
                 "❔XX | 🔴 | vless | @DailyV2RY | 304",
                 "❔XX | 🔴 | vless | @ConfigsHUB | 0",
                 "❔XX | 🔴 | vless | @ConfigsHUB | 1",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 2",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 3",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 4",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 5",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 14",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 15",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 16",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 17",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 18",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 7",
+                "🚩CF | 🟢 | vless | @ConfigsHUB | 8",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 9",
+                "❔XX | 🟢 | vless | @ConfigsHUB | 12",
                 "❔XX | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🔴 | vless | @free1_vpn | 3",
                 "❔XX | 🔴 | vless | @free1_vpn | 4",
@@ -772,15 +767,10 @@
                 "❔XX | 🔴 | vless | @DailyV2RY | 304",
                 "❔XX | 🔴 | vless | @ConfigsHUB | 0",
                 "❔XX | 🔴 | vless | @ConfigsHUB | 1",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 2",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 3",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 4",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 5",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 14",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 15",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 16",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 17",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 18",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 7",
+                "🚩CF | 🟢 | vless | @ConfigsHUB | 8",
+                "❔XX | 🔴 | vless | @ConfigsHUB | 9",
+                "❔XX | 🟢 | vless | @ConfigsHUB | 12",
                 "❔XX | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🔴 | vless | @free1_vpn | 3",
                 "❔XX | 🔴 | vless | @free1_vpn | 4",
@@ -8195,11 +8185,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 2",
+            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 7",
             "type": "vless",
-            "server": "upgrade.bia2bax.shop",
+            "server": "167.82.1.136",
             "server_port": 80,
-            "uuid": "v2rayng__76",
+            "uuid": "253ef561-9e57-4336-befd-878ddd30df01",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -8209,39 +8199,49 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=2053",
+                "path": "\/Telegram@V2ray_Alpha\/?ed=2560",
                 "headers": {
-                    "Host": "upgrade.bia2bax.shop"
+                    "Host": "teleirani.ir"
                 }
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 3",
+            "tag": "🚩CF | 🟢 | vless | @ConfigsHUB | 8",
             "type": "vless",
-            "server": "151.101.2.165",
-            "server_port": 80,
-            "uuid": "TELEGRAM-NUFiLTER",
+            "server": "104.26.13.54",
+            "server_port": 2083,
+            "uuid": "d603cba7-4ec4-4744-a1df-1fcbec323066",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "GERmAnHp.PAgES.dEv",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080",
+                "path": "\/Telegram@V2ray_Alpha\/?ed=2560",
                 "headers": {
-                    "Host": "151.101.2.165"
+                    "Host": "GERmAnHp.PAgES.dEv"
                 }
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 4",
+            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 9",
             "type": "vless",
-            "server": "iri.ginuerzht.ir",
-            "server_port": 2053,
-            "uuid": "aeb84b67-3b57-4f61-949e-3db252ce58c9",
+            "server": "5.198.176.236",
+            "server_port": 36341,
+            "uuid": "8325ccd0-5714-4150-8152-c1fd1196f5e1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -8251,129 +8251,32 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 5",
+            "tag": "❔XX | 🟢 | vless | @ConfigsHUB | 12",
             "type": "vless",
-            "server": "upgrade.bia2bax.shop",
-            "server_port": 8443,
-            "uuid": "v2rayng__76",
-            "flow": "",
+            "server": "m1tl.meditatestate.org",
+            "server_port": 9006,
+            "uuid": "8b513a33-3f99-4aa0-82b4-815294920e80",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "transport": {
-                "type": "grpc",
-                "service_name": "upgrade.bia2bax.shop",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 14",
-            "type": "vless",
-            "server": "NUFiLTER.fastly80.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "TELEGRAM-NUFiLTER",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080",
-                "headers": {
-                    "Host": "NUFiLTER.fastly80.hosting-ip.com"
+            "tls": {
+                "enabled": true,
+                "server_name": "wordpress.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "uRqMJfhlpUmiG0oI9hpOD1naLtP8LSnIR4iaRWxvNjk",
+                    "short_id": "04e2025ecf2b5dc0"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 15",
-            "type": "vless",
-            "server": "151.101.2.165",
-            "server_port": 80,
-            "uuid": "4c21cfa8-eace-4223-9b91-71660b0678bd",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam",
-                "headers": {
-                    "Host": "151.101.2.165"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 16",
-            "type": "vless",
-            "server": "151.101.2.165",
-            "server_port": 80,
-            "uuid": "1e3520c1-02bc-475d-87ec-72bb0ee6426e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam",
-                "headers": {
-                    "Host": "151.101.2.165"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 17",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "4c21cfa8-eace-4223-9b91-71660b0678bd",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam",
-                "headers": {
-                    "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "141.227.132.158",
-            "server_port": 10056,
-            "uuid": "tell--ZEDMODEON",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {

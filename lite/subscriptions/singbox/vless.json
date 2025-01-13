@@ -143,17 +143,17 @@
                 "🇸🇪SE | 🔴 | vless | @VmessProtocol | 11",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 267",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 268",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 6",
                 "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 7",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 8",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇫🇮FI | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 14",
@@ -204,17 +204,17 @@
                 "🇸🇪SE | 🔴 | vless | @VmessProtocol | 11",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 267",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 268",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 6",
                 "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 7",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 8",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 9",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇫🇮FI | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 14",
@@ -1167,11 +1167,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 7",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 6",
             "type": "vless",
-            "server": "xpnteam-chanell-join.jaricopen.sbs",
-            "server_port": 8443,
-            "uuid": "28290daf-5ebb-4d0d-e4ff-6d5c6f7b7813",
+            "server": "tify-binex-join.espikernajafi.ir",
+            "server_port": 2053,
+            "uuid": "a6394e36-aa83-4613-f5af-9cb14d9488d5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1181,43 +1181,28 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam",
+                "path": "\/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560",
                 "headers": {
-                    "Host": "xpnteam-chanell-join.jaricopen.sbs"
+                    "Host": "tify-binex-join.espikernajafi.ir"
                 }
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 8",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 7",
             "type": "vless",
-            "server": "xpnteam-chanell-join.jaricopen.sbs",
-            "server_port": 2083,
-            "uuid": "d45de88c-0282-4589-ab2b-b83364fe4e84",
-            "flow": "xtls-rprx-vision",
+            "server": "tify-binex-join.espikernajafi.ir",
+            "server_port": 6666,
+            "uuid": "9d6eeaee-c181-4e57-8727-bbf4bbad3e78",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "V9Th-6uW2tBzT3HBOyGtIWqeaLVef7tp9ZbedZg6vRY",
-                    "short_id": ""
-                }
-            },
             "transport": {
                 "type": "grpc",
-                "service_name": "\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam",
+                "service_name": "\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy\/@BinexTiFy",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
@@ -1323,7 +1308,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
             "type": "vless",
             "server": "NUFiLTER.fastly80-3.hosting-ip.com",
             "server_port": 80,
@@ -1344,7 +1329,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
             "type": "vless",
             "server": "NUFiLTER.fastly80-3.hosting-ip.com",
             "server_port": 80,
@@ -1365,64 +1350,44 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
             "type": "vless",
-            "server": "zmaoz.faculty.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "Joinin--ZEDMODEON",
+            "server": "python.org",
+            "server_port": 80,
+            "uuid": "2dc676e8-5dbf-4149-8006-dac092f65776",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "zmaoz.faculty.ucdavis.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
-                "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
-            "type": "vless",
-            "server": "fishlab.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "771020d7-a6d6-477c-a2ab-62146cb9639e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "fishlab.ucdavis.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
             },
             "transport": {
                 "type": "ws",
                 "path": "\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480",
                 "headers": {
-                    "Host": "fishlab.ucdavis.edu"
+                    "Host": "python.org"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+            "type": "vless",
+            "server": "151.101.1.6",
+            "server_port": 80,
+            "uuid": "57624c33-1ab8-405e-9358-03bec36f0642",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480",
+                "headers": {
+                    "Host": "151.101.1.6"
                 }
             }
         },

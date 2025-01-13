@@ -107,7 +107,6 @@
             "outbounds": [
                 "URL-TEST",
                 "🇸🇪SE | 🔴 | vless | @VmessProtocol | 11",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 8",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -120,7 +119,6 @@
             "type": "urltest",
             "outbounds": [
                 "🇸🇪SE | 🔴 | vless | @VmessProtocol | 11",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 8",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -178,42 +176,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "1300vless",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 8",
-            "type": "vless",
-            "server": "xpnteam-chanell-join.jaricopen.sbs",
-            "server_port": 2083,
-            "uuid": "d45de88c-0282-4589-ab2b-b83364fe4e84",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "V9Th-6uW2tBzT3HBOyGtIWqeaLVef7tp9ZbedZg6vRY",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false

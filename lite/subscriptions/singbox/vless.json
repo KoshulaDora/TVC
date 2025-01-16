@@ -148,8 +148,8 @@
                 "🇫🇷FR | 🔴 | vless | @DailyV2RY | 235",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 236",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
-                "🇫🇮FI | 🔴 | vless | @free1_vpn | 14",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 15",
+                "🇮🇷IR | 🔴 | vless | @free1_vpn | 16",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 6",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 7",
                 "@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&security=none&encryption=none&type=ws#🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 2",
@@ -215,8 +215,8 @@
                 "🇫🇷FR | 🔴 | vless | @DailyV2RY | 235",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 236",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
-                "🇫🇮FI | 🔴 | vless | @free1_vpn | 14",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 15",
+                "🇮🇷IR | 🔴 | vless | @free1_vpn | 16",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 6",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 7",
                 "@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&security=none&encryption=none&type=ws#🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 2",
@@ -1317,20 +1317,6 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @free1_vpn | 14",
-            "type": "vless",
-            "server": "65.109.228.235",
-            "server_port": 45743,
-            "uuid": "3c2e5f39-d738-40d4-929c-249ea568cb4a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "🇩🇪DE | 🔴 | vless | @free1_vpn | 15",
             "type": "vless",
             "server": "91.107.177.96",
@@ -1349,6 +1335,20 @@
                 "headers": {
                     "Host": "91.107.177.96"
                 }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @free1_vpn | 16",
+            "type": "vless",
+            "server": "v4.vixsm.ir",
+            "server_port": 443,
+            "uuid": "0069b36c-ba6c-4c70-ae39-71be514b9820",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {

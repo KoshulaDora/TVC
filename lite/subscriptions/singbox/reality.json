@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
+                "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -115,7 +115,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
+                "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -140,7 +140,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
+            "tag": "❔XX | 🔴 | vless | @proxystore11 | 1",
             "type": "vless",
             "server": "138.124.24.252",
             "server_port": 8443,

@@ -155,8 +155,8 @@ proxies:
   - {"name":"🇬🇧GB | 🔴 | vless | @free1_vpn | 12","type":"vless","server":"5.180.30.31","port":8880,"udp":false,"uuid":"68bf637d-f323-4d9e-b8dc-80cd799a250d","tls":false,"network":"grpc","client-fingerprint":"chrome"}
   - {"name":"🇫🇷FR | 🔴 | vless | @free1_vpn | 13","type":"vless","server":"185.153.183.144","port":3237,"udp":false,"uuid":"1d86846c-5a27-43c8-8981-57bb75c82195","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇭🇰HK | 🔴 | vless | @fnet00 | 9","type":"vless","server":"45.196.233.58","port":443,"udp":true,"uuid":"5badf258-0313-418d-b9e6-95a52eefcf00","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"5badf258.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg"}}
-  - {"name":"🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 9","type":"vless","server":"195.181.166.87","port":8443,"udp":false,"uuid":"157448af-8ecf-4075-a9e9-b23a6a94899b","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"se1.fromblancwithlove.com"}
-  - {"name":"🇷🇴RO | 🟢 | vless | @Outlinev2rayNG | 10","type":"vless","server":"buh-ro-01.fromblancwithlove.com","port":8443,"udp":false,"uuid":"157448af-8ecf-4075-a9e9-b23a6a94899b","tls":true,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇧🇪BE | 🟢 | vless | @Outlinev2rayNG | 10","type":"vless","server":"79.127.224.12","port":8443,"udp":false,"uuid":"157448af-8ecf-4075-a9e9-b23a6a94899b","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"bru-be-01.fromblancwithlove.com"}
+  - {"name":"🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 11","type":"vless","server":"195.181.166.87","port":8443,"udp":false,"uuid":"157448af-8ecf-4075-a9e9-b23a6a94899b","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"se1.fromblancwithlove.com"}
   - {"name":"🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0","type":"vless","server":"tgju.org","port":2082,"udp":false,"uuid":"d424ae34-8aff-4093-b1c9-715de61aa144","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | vless | @FreakConfig | 0","type":"vless","server":"FreakConfig2.plantgreen.ir","port":443,"udp":false,"uuid":"5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"media.sanaiegh.ir"}
   - {"name":"🇱🇻LV | 🔴 | vless | @FreakConfig | 1","type":"vless","server":"94.131.104.66","port":8880,"udp":false,"uuid":"61d27db4-7011-5cf4-b84e-abb721420ecb","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"vless-grpc"}}
@@ -210,8 +210,8 @@ proxy-groups:
       - '🇬🇧GB | 🔴 | vless | @free1_vpn | 12'
       - '🇫🇷FR | 🔴 | vless | @free1_vpn | 13'
       - '🇭🇰HK | 🔴 | vless | @fnet00 | 9'
-      - '🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 9'
-      - '🇷🇴RO | 🟢 | vless | @Outlinev2rayNG | 10'
+      - '🇧🇪BE | 🟢 | vless | @Outlinev2rayNG | 10'
+      - '🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 11'
       - '🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0'
       - '❔XX | 🔴 | vless | @FreakConfig | 0'
       - '🇱🇻LV | 🔴 | vless | @FreakConfig | 1'
@@ -265,8 +265,8 @@ proxy-groups:
       - '🇬🇧GB | 🔴 | vless | @free1_vpn | 12'
       - '🇫🇷FR | 🔴 | vless | @free1_vpn | 13'
       - '🇭🇰HK | 🔴 | vless | @fnet00 | 9'
-      - '🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 9'
-      - '🇷🇴RO | 🟢 | vless | @Outlinev2rayNG | 10'
+      - '🇧🇪BE | 🟢 | vless | @Outlinev2rayNG | 10'
+      - '🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 11'
       - '🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0'
       - '❔XX | 🔴 | vless | @FreakConfig | 0'
       - '🇱🇻LV | 🔴 | vless | @FreakConfig | 1'
@@ -319,8 +319,8 @@ proxy-groups:
       - '🇬🇧GB | 🔴 | vless | @free1_vpn | 12'
       - '🇫🇷FR | 🔴 | vless | @free1_vpn | 13'
       - '🇭🇰HK | 🔴 | vless | @fnet00 | 9'
-      - '🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 9'
-      - '🇷🇴RO | 🟢 | vless | @Outlinev2rayNG | 10'
+      - '🇧🇪BE | 🟢 | vless | @Outlinev2rayNG | 10'
+      - '🇸🇪SE | 🟢 | vless | @Outlinev2rayNG | 11'
       - '🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0'
       - '❔XX | 🔴 | vless | @FreakConfig | 0'
       - '🇱🇻LV | 🔴 | vless | @FreakConfig | 1'

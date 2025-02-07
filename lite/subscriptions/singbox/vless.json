@@ -114,7 +114,7 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
@@ -130,7 +130,7 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 0",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 3",
-                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
+                "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 22",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
@@ -145,7 +145,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇳🇱NL | 🟢 | vless | @VmessProtocol | 14",
                 "🇦🇪AE | 🟢 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 236",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 240",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
@@ -181,7 +181,7 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
@@ -197,7 +197,7 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 0",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 3",
-                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
+                "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 22",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
@@ -212,7 +212,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇳🇱NL | 🟢 | vless | @VmessProtocol | 14",
                 "🇦🇪AE | 🟢 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 236",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 240",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
@@ -487,7 +487,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 15",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -857,7 +857,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
+            "tag": "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -1266,11 +1266,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 236",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 240",
             "type": "vless",
-            "server": "cash.ns.cloudflare.com",
+            "server": "wear.net",
             "server_port": 443,
-            "uuid": "1ff28f0a-589c-4399-aec8-12fbbc459662",
+            "uuid": "046fd332-80a6-43b0-91b0-7238a1dfc36c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1280,7 +1280,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "5zhah5.bestvpninuae.com",
+                "server_name": "wear.net",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1290,9 +1290,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/wss",
+                "path": "\/",
                 "headers": {
-                    "Host": "5zhah5.bestvpninuae.com"
+                    "Host": "wear.net"
                 }
             }
         },

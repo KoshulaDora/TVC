@@ -110,7 +110,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇸🇬SG | 🟢 | vmess | @Hope_Net | 8",
+                "❔XX | 🟢 | vmess | @Hope_Net | 8",
                 "❔XX | 🟢 | vmess | @Hope_Net | 9"
             ]
         },
@@ -122,7 +122,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇸🇬SG | 🟢 | vmess | @Hope_Net | 8",
+                "❔XX | 🟢 | vmess | @Hope_Net | 8",
                 "❔XX | 🟢 | vmess | @Hope_Net | 9"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -238,11 +238,11 @@
             }
         },
         {
-            "tag": "🇸🇬SG | 🟢 | vmess | @Hope_Net | 8",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 8",
             "type": "vmess",
-            "server": "31.58.142.221",
-            "server_port": 8967,
-            "uuid": "7d29f1ca-647b-4b4e-b9c8-6beab7133535",
+            "server": "de-frankfurt-oracle-b26cf5.ip1.shop",
+            "server_port": 45103,
+            "uuid": "6d3404ef-27c6-48de-a83a-8ac6488760b4",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -253,21 +253,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "neo.nicme.me",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/BONRyKGhDE",
+                "path": "\/",
                 "headers": {
-                    "Host": "neo.nicme.me"
+                    "Host": "de-frankfurt-oracle-b26cf5.ip1.shop"
                 }
             }
         },
@@ -275,8 +265,8 @@
             "tag": "❔XX | 🟢 | vmess | @Hope_Net | 9",
             "type": "vmess",
             "server": "127.0.0.1",
-            "server_port": 8080,
-            "uuid": "bccaaba-acba-acab-bdac-cbccababacab",
+            "server_port": 1080,
+            "uuid": "aacabcb-caab-caba-badc-baabcbcccbaa",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,

@@ -187,7 +187,6 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
@@ -216,13 +215,13 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
                 "🇺🇸US | 🔴 | vless | @v2logy | 3",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 4",
+                "🇺🇸US | 🔴 | vless | @v2logy | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 5",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 7",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 8",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 8",
                 "🇮🇷IR | 🔴 | vless | @azadi_az_inja_migzare | 9",
                 "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 11",
@@ -568,7 +567,6 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
@@ -597,13 +595,13 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
                 "🇺🇸US | 🔴 | vless | @v2logy | 3",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 4",
+                "🇺🇸US | 🔴 | vless | @v2logy | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 5",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 7",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 8",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 8",
                 "🇮🇷IR | 🔴 | vless | @azadi_az_inja_migzare | 9",
                 "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 11",
@@ -3026,27 +3024,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "telegram-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
             "type": "vless",
             "server": "r.iphone-shopp.ir",
@@ -3702,7 +3679,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2logy | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -3843,7 +3820,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2logy | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 10",
             "type": "vless",
             "server": "ArV2ray.mAshtimji.IR",
             "server_port": 443,

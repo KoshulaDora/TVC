@@ -11,12 +11,12 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 18 = ss, 45.158.171.146, 8080, encrypt-method = chacha20-ietf-poly1305, password = 1RWwXhwfAB5gAEozU4G2Pg
+🇩🇪DE | 🟢 | ss | @DeamNet_Proxy | 19 = ss, 51.195.119.47, 1080, encrypt-method = chacha20-ietf-poly1305, password = qXvO7zYU7KeaB0Md7DQLow
 🇬🇧GB | 🟢 | ss | @kingofilter | 12 = ss, api.namasha.co, 443, encrypt-method = chacha20-ietf-poly1305, password = u17T3BvpYaaiuW2c
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 18,🇬🇧GB | 🟢 | ss | @kingofilter | 12
-URL-TEST = url-test,🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 18,🇬🇧GB | 🟢 | ss | @kingofilter | 12
-FALLBACK = fallback,🇳🇱NL | 🟢 | ss | @DeamNet_Proxy | 18,🇬🇧GB | 🟢 | ss | @kingofilter | 12
+MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🟢 | ss | @DeamNet_Proxy | 19,🇬🇧GB | 🟢 | ss | @kingofilter | 12
+URL-TEST = url-test,🇩🇪DE | 🟢 | ss | @DeamNet_Proxy | 19,🇬🇧GB | 🟢 | ss | @kingofilter | 12
+FALLBACK = fallback,🇩🇪DE | 🟢 | ss | @DeamNet_Proxy | 19,🇬🇧GB | 🟢 | ss | @kingofilter | 12
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL

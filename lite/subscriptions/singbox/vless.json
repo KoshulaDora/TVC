@@ -116,8 +116,8 @@
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 4",
                 "🇺🇸US | 🟢 | vless | @vpn_xw | 0",
@@ -185,8 +185,8 @@
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 4",
                 "🇺🇸US | 🟢 | vless | @vpn_xw | 0",
@@ -536,7 +536,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 13",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -557,10 +557,10 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
             "type": "vless",
-            "server": "AC.fastly80-2.hosting-ip.com",
-            "server_port": 80,
+            "server": "151.101.194.133",
+            "server_port": 443,
             "uuid": "telegram-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
@@ -569,11 +569,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "mio.splashthat.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
                 "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
                 "headers": {
-                    "Host": "AC.fastly80-2.hosting-ip.com"
+                    "Host": "mio.splashthat.com"
                 }
             }
         },

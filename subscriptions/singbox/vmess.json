@@ -118,9 +118,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇰🇿KZ | 🟢 | vmess | @DeamNet_Proxy | 7",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 12",
-                "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 14",
+                "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 0",
+                "🇰🇿KZ | 🟢 | vmess | @DeamNet_Proxy | 16",
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 121",
                 "🇺🇸US | 🟢 | vmess | @v2ray1_ng | 0",
                 "🚩CF | 🟢 | vmess | @v2ray1_ng | 2",
@@ -152,9 +151,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇰🇿KZ | 🟢 | vmess | @DeamNet_Proxy | 7",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 12",
-                "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 14",
+                "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 0",
+                "🇰🇿KZ | 🟢 | vmess | @DeamNet_Proxy | 16",
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 121",
                 "🇺🇸US | 🟢 | vmess | @v2ray1_ng | 0",
                 "🚩CF | 🟢 | vmess | @v2ray1_ng | 2",
@@ -394,7 +392,24 @@
             }
         },
         {
-            "tag": "🇰🇿KZ | 🟢 | vmess | @DeamNet_Proxy | 7",
+            "tag": "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 0",
+            "type": "vmess",
+            "server": "47.104.186.133",
+            "server_port": 50002,
+            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇰🇿KZ | 🟢 | vmess | @DeamNet_Proxy | 16",
             "type": "vmess",
             "server": "3h-kazakhstan1.09vpn.com",
             "server_port": 80,
@@ -415,40 +430,6 @@
                 "headers": {
                     "Host": "3h-kazakhstan1.09vpn.com"
                 }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 12",
-            "type": "vmess",
-            "server": "107.148.207.249",
-            "server_port": 48712,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 64,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 14",
-            "type": "vmess",
-            "server": "47.92.152.169",
-            "server_port": 50002,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {

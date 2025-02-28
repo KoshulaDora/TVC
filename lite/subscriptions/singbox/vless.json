@@ -106,11 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 30",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 27",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 28",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 17",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🟢 | vless | @ipV2Ray | 12",
                 "❔XX | 🟢 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 7",
@@ -146,8 +147,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇸🇬SG | 🟢 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 387",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 388",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 373",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 374",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 12",
@@ -172,11 +173,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 30",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 27",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 28",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 17",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🟢 | vless | @ipV2Ray | 12",
                 "❔XX | 🟢 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 7",
@@ -212,8 +214,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇸🇬SG | 🟢 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 387",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 388",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 373",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 374",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
                 "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 12",
@@ -254,11 +256,42 @@
             "type": "dns"
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 30",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 27",
+            "type": "vless",
+            "server": "Zmaoz.Faculty.Ucdavis.Edu",
+            "server_port": 443,
+            "uuid": "Parsashonam-177",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "Zmaoz.Faculty.Ucdavis.Edu.",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@Parsashonam\/ws?ed=2560",
+                "headers": {
+                    "Host": "Zmaoz.Faculty.Ucdavis.Edu."
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 28",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-176",
+            "uuid": "Parsashonam-177",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -315,7 +348,7 @@
         {
             "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "16.16.50.16",
+            "server": "13.61.245.239",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -344,9 +377,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "54.228.214.115",
+            "server": "16.16.50.16",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1287,11 +1320,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 387",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 373",
             "type": "vless",
-            "server": "whatismyipaddress.com",
-            "server_port": 2087,
-            "uuid": "3dc9015f-20cb-42d6-adab-55ce831bae61",
+            "server": "harlan.ns.cloudflare.com",
+            "server_port": 443,
+            "uuid": "309a389d-4598-4f6f-bdf7-953c3af06e58",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1301,7 +1334,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "fnbow.baghdad-iranoli.info",
+                "server_name": "z8c5ko.alligator27.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1311,40 +1344,30 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/morano",
+                "path": "\/wss",
                 "headers": {
-                    "Host": "fnbow.baghdad-iranoli.info"
+                    "Host": "z8c5ko.alligator27.com"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 388",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 374",
             "type": "vless",
-            "server": "whatismyipaddress.com",
-            "server_port": 2096,
-            "uuid": "263b9015-3701-4351-897c-2bf587315206",
+            "server": "tgju.org",
+            "server_port": 80,
+            "uuid": "2f8734bb-b61a-4727-9622-2fe77c73596a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "wwwspeedtestnetwhiteberinsistomd6625996s04.elitemizban.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
             },
             "transport": {
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wwwspeedtestnetwhiteberinsistomd6625996s04.elitemizban.ir"
+                    "Host": "tgju.org"
                 }
             }
         },

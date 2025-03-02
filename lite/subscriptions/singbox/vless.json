@@ -161,7 +161,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxy_mtm | 4",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 9",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 8",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 12",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 13",
                 "🇮🇷IR | 🔴 | vless | @V2FETCH | 0",
@@ -228,7 +228,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxy_mtm | 4",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 9",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 8",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 12",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 13",
                 "🇮🇷IR | 🔴 | vless | @V2FETCH | 0",
@@ -534,27 +534,6 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
             "type": "vless",
-            "server": "AC.fastly80-2.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
-                "headers": {
-                    "Host": "AC.fastly80-2.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
-            "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
             "uuid": "telegram-ArV2ray",
@@ -570,6 +549,27 @@
                 "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
                 "headers": {
                     "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
+            "type": "vless",
+            "server": "AC.fastly80-2.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
+                "headers": {
+                    "Host": "AC.fastly80-2.hosting-ip.com"
                 }
             }
         },
@@ -1649,11 +1649,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 8",
             "type": "vless",
-            "server": "tgju.org",
+            "server": "join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com",
             "server_port": 80,
-            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+            "uuid": "dcbaf781-ce59-40d0-9572-4522ee80701f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1663,9 +1663,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=2560",
+                "path": "\/telegram-VPNCUSTOMIZE---telegram-VPNCUSTOMIZE---telegram-VPNCUSTOMIZE---telegram-VPNCUSTOMIZE---telegram-VPNCUSTOMIZE---telegram-VPNCUSTOMIZE",
                 "headers": {
-                    "Host": "tgju.org"
+                    "Host": "join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com"
                 }
             }
         },

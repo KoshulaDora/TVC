@@ -152,6 +152,7 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 16",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 412",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 413",
+                "🇮🇷IR | 🔴 | vless | @free1_vpn | 11",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
@@ -221,6 +222,7 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 16",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 412",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 413",
+                "🇮🇷IR | 🔴 | vless | @free1_vpn | 11",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
@@ -1397,6 +1399,20 @@
                 "headers": {
                     "Host": "radrr.accra-ghashang.org"
                 }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @free1_vpn | 11",
+            "type": "vless",
+            "server": "iri.ginuerzht.ir",
+            "server_port": 2053,
+            "uuid": "5e95d97b-0db2-42dd-f462-18fd323a9eee",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {

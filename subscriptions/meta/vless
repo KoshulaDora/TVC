@@ -216,7 +216,7 @@ proxies:
   - {"name":"🇳🇱NL | 🔴 | vless | @prrofile_purple | 135","type":"vless","server":"81.28.12.12","port":80,"udp":false,"uuid":"6b437afc-62b3-40ba-9112-ee667a783c3d","tls":false,"network":"ws","client-fingerprint":"chrome","servername":"13dl.net","ws-opts":{"path":"/o2H5qkTE2DdX1kv2?ed=2560","headers":{"host":"dzdfcff.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 136","type":"vless","server":"www.zula.ir","port":443,"udp":false,"uuid":"79c9b1d1-9cec-454e-bf46-0b525f568d17","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"ch4.newretr432as.info"}
   - {"name":"❔XX | 🔴 | vless | @prrofile_purple | 137","type":"vless","server":"c2.vact.ir","port":443,"udp":true,"uuid":"f2a98714-c363-43c0-8c72-a1163df38c33","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray"},"reality-opts":{"public-key":"gmfZyQtoXXrck45kkXm_vO3TlB0CcDNvkLkd3-HAfFA","short-id":"b542ac"}}
-  - {"name":"🇨🇦CA | 🔴 | vless | @prrofile_purple | 138","type":"vless","server":"www.zula.ir","port":443,"udp":false,"uuid":"7d0444e8-59b1-47ee-a047-2366c3a89641","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"ch3.newretr432as.info"}
+  - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 138","type":"vless","server":"www.zula.ir","port":443,"udp":false,"uuid":"7d0444e8-59b1-47ee-a047-2366c3a89641","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"ch3.newretr432as.info"}
   - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 144","type":"vless","server":"44.195.26.151","port":443,"udp":true,"uuid":"ffc72831-b9d7-4ad5-9f42-1a3e1b9e438d","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"api.cloudflare.com","reality-opts":{"public-key":"8dXXyqUHrV8BA_p1rtXczvvUCCkIPPcCQOMLz8Kglm0","short-id":"72e10a"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @prrofile_purple | 147","type":"vless","server":"tify-binex-join.espikernajafi.ir","port":6666,"udp":false,"uuid":"68afad93-92b3-44ef-aeeb-ad98acace377","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy"}}
   - {"name":"🚩CF | 🟢 | vless | @prrofile_purple | 148","type":"vless","server":"190.93.244.221","port":443,"udp":false,"uuid":"42f36835-730c-4ecc-9daf-20121ae7ba47","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"gozargah.validbv7996.ir","ws-opts":{"path":"/","headers":{"host":"gozargah.validbv7996.ir"}}}
@@ -497,7 +497,7 @@ proxy-groups:
       - '🇳🇱NL | 🔴 | vless | @prrofile_purple | 135'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 136'
       - '❔XX | 🔴 | vless | @prrofile_purple | 137'
-      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 138'
+      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 138'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 144'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 147'
       - '🚩CF | 🟢 | vless | @prrofile_purple | 148'
@@ -778,7 +778,7 @@ proxy-groups:
       - '🇳🇱NL | 🔴 | vless | @prrofile_purple | 135'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 136'
       - '❔XX | 🔴 | vless | @prrofile_purple | 137'
-      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 138'
+      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 138'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 144'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 147'
       - '🚩CF | 🟢 | vless | @prrofile_purple | 148'
@@ -1058,7 +1058,7 @@ proxy-groups:
       - '🇳🇱NL | 🔴 | vless | @prrofile_purple | 135'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 136'
       - '❔XX | 🔴 | vless | @prrofile_purple | 137'
-      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 138'
+      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 138'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 144'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 147'
       - '🚩CF | 🟢 | vless | @prrofile_purple | 148'

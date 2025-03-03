@@ -154,6 +154,7 @@
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
+                "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 14",
                 "❔XX | 🟢 | vless | @FreakConfig | 12",
                 "❔XX | 🔴 | vless | @FreakConfig | 13",
                 "❔XX | 🔴 | vless | @flyv2ray | 8",
@@ -221,6 +222,7 @@
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
+                "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 14",
                 "❔XX | 🟢 | vless | @FreakConfig | 12",
                 "❔XX | 🔴 | vless | @FreakConfig | 13",
                 "❔XX | 🔴 | vless | @flyv2ray | 8",
@@ -1421,6 +1423,27 @@
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
+            "type": "vless",
+            "server": "104.21.56.44",
+            "server_port": 80,
+            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram@V2ray_Alpha\/",
+                "headers": {
+                    "Host": "104.21.56.44"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 14",
             "type": "vless",
             "server": "172.67.204.84",
             "server_port": 80,

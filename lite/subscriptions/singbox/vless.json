@@ -110,7 +110,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 17",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 0",
                 "❔XX | 🔴 | vless | @ipV2Ray | 12",
                 "❔XX | 🔴 | vless | @ipV2Ray | 13",
@@ -155,8 +155,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 17",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 333",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 334",
-                "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
-                "🇩🇪DE | 🟢 | vless | @free1_vpn | 9",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 10",
+                "🇩🇪DE | 🟢 | vless | @free1_vpn | 11",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
                 "🇫🇮FI | 🟢 | vless | @Outlinev2rayNG | 12",
@@ -184,7 +184,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 17",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 0",
                 "❔XX | 🔴 | vless | @ipV2Ray | 12",
                 "❔XX | 🔴 | vless | @ipV2Ray | 13",
@@ -229,8 +229,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 17",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 333",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 334",
-                "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
-                "🇩🇪DE | 🟢 | vless | @free1_vpn | 9",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 10",
+                "🇩🇪DE | 🟢 | vless | @free1_vpn | 11",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
                 "🇫🇮FI | 🟢 | vless | @Outlinev2rayNG | 12",
@@ -331,7 +331,7 @@
         {
             "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "13.61.40.78",
+            "server": "13.48.251.244",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -360,9 +360,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "3.255.28.225",
+            "server": "13.61.40.78",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -634,7 +634,7 @@
             "type": "vless",
             "server": "ww.speedmeter.life",
             "server_port": 80,
-            "uuid": "468133f2-468f-485e-ad16-35e2d170deb9",
+            "uuid": "d8856c7c-d489-48f7-ba08-1a0f413ac52e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -655,7 +655,7 @@
             "type": "vless",
             "server": "ww.speedmeter.life",
             "server_port": 80,
-            "uuid": "b81ecd8e-5a6e-4262-8450-603c88219339",
+            "uuid": "468133f2-468f-485e-ad16-35e2d170deb9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1469,7 +1469,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 10",
             "type": "vless",
             "server": "151.101.0.155",
             "server_port": 80,
@@ -1490,7 +1490,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @free1_vpn | 9",
+            "tag": "🇩🇪DE | 🟢 | vless | @free1_vpn | 11",
             "type": "vless",
             "server": "mods.lnmarketplace.net",
             "server_port": 443,

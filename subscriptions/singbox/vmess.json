@@ -130,8 +130,7 @@
                 "🇸🇪SE | 🟢 | vmess | @prrofile_purple | 135",
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 146",
                 "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 0",
-                "🇸🇬SG | 🟢 | vmess | @DailyV2RY | 289",
-                "🇲🇾MY | 🟢 | vmess | @DailyV2RY | 304",
+                "🇸🇬SG | 🟢 | vmess | @DailyV2RY | 297",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -143,8 +142,7 @@
                 "❔XX | 🟢 | vmess | @Hope_Net | 3",
                 "❔XX | 🟢 | vmess | @Hope_Net | 4",
                 "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "🇭🇰HK | 🟢 | vmess | @Hope_Net | 6",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7"
+                "🇭🇰HK | 🟢 | vmess | @Hope_Net | 6"
             ]
         },
         {
@@ -175,8 +173,7 @@
                 "🇸🇪SE | 🟢 | vmess | @prrofile_purple | 135",
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 146",
                 "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 0",
-                "🇸🇬SG | 🟢 | vmess | @DailyV2RY | 289",
-                "🇲🇾MY | 🟢 | vmess | @DailyV2RY | 304",
+                "🇸🇬SG | 🟢 | vmess | @DailyV2RY | 297",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -188,8 +185,7 @@
                 "❔XX | 🟢 | vmess | @Hope_Net | 3",
                 "❔XX | 🟢 | vmess | @Hope_Net | 4",
                 "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "🇭🇰HK | 🟢 | vmess | @Hope_Net | 6",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7"
+                "🇭🇰HK | 🟢 | vmess | @Hope_Net | 6"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -746,28 +742,11 @@
             }
         },
         {
-            "tag": "🇸🇬SG | 🟢 | vmess | @DailyV2RY | 289",
+            "tag": "🇸🇬SG | 🟢 | vmess | @DailyV2RY | 297",
             "type": "vmess",
             "server": "62.146.233.159",
             "server_port": 43763,
             "uuid": "1ddf3ade-5b8c-420c-84f6-f96979ec3080",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇲🇾MY | 🟢 | vmess | @DailyV2RY | 304",
-            "type": "vmess",
-            "server": "101.99.91.234",
-            "server_port": 36700,
-            "uuid": "127ff43c-1851-4b2d-ba8c-6afba21ec04d",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1097,23 +1076,6 @@
                 "headers": {
                     "Host": "0000000000000000000000000076.cgroup-node-for-bigairport.sbs"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 7",
-            "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 2080,
-            "uuid": "cbacbaa-abac-baac-dbac-abaacccbcbab",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         }
     ],

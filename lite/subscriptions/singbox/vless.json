@@ -110,8 +110,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 44",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "❔XX | 🟢 | vless | @ipV2Ray | 12",
                 "❔XX | 🟢 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
@@ -150,8 +150,9 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 379",
-                "🇮🇪IE | 🟢 | vless | @DailyV2RY | 380",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 361",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 362",
+                "❔XX | 🟢 | vless | @free1_vpn | 4",
                 "❔XX | 🟢 | vless | @free1_vpn | 5",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
@@ -179,8 +180,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 44",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "❔XX | 🟢 | vless | @ipV2Ray | 12",
                 "❔XX | 🟢 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
@@ -219,8 +220,9 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 379",
-                "🇮🇪IE | 🟢 | vless | @DailyV2RY | 380",
+                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 361",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 362",
+                "❔XX | 🟢 | vless | @free1_vpn | 4",
                 "❔XX | 🟢 | vless | @free1_vpn | 5",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
@@ -340,9 +342,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "18.198.87.21",
+            "server": "13.37.206.12",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -371,9 +373,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "51.21.151.118",
+            "server": "18.199.255.48",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1350,9 +1352,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 379",
+            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 361",
             "type": "vless",
-            "server": "13.38.45.40",
+            "server": "13.38.72.179",
             "server_port": 8443,
             "uuid": "73c732f2-d435-4197-9f33-0d7c1f47d3a9",
             "flow": "xtls-rprx-vision",
@@ -1379,11 +1381,42 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🟢 | vless | @DailyV2RY | 380",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 362",
             "type": "vless",
-            "server": "108.129.182.155",
-            "server_port": 8443,
-            "uuid": "73c732f2-d435-4197-9f33-0d7c1f47d3a9",
+            "server": "jermaine.ns.cloudflare.com",
+            "server_port": 443,
+            "uuid": "5c846a4d-051b-443c-9e48-a279585a3a85",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ljfqs3.a27app.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/wss",
+                "headers": {
+                    "Host": "ljfqs3.a27app.com"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @free1_vpn | 4",
+            "type": "vless",
+            "server": "s12.vact.ir",
+            "server_port": 443,
+            "uuid": "567c98b6-2362-47bc-9959-587bcb00963e",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1393,7 +1426,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "zula.ir",
+                "server_name": "www.cdn77.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1402,9 +1435,16 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-                    "short_id": ""
+                    "public_key": "-Klt3151vv7nNAJFA1XI73cfw8DUnKjIetrSLxXGBEw",
+                    "short_id": "83a3c1c336165ead"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {

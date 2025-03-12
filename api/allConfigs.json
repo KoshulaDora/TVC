@@ -4406,6 +4406,15 @@
             "title": null,
             "logo": null
         },
+        "type": "vless",
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.71:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI%20|%20🔴%20|%20vless%20|%20@kingofilter%20|%2011"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
         "type": "reality",
         "config": "vless:\/\/5f9bc1fe-e19b-4f90-9a91-180a0eb98f31@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#🇩🇪DE%20|%20🟢%20|%20vless%20|%20@SvnTeam%20|%200"
     },

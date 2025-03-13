@@ -110,8 +110,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 42",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "❔XX | 🟢 | vless | @ipV2Ray | 12",
                 "❔XX | 🟢 | vless | @ipV2Ray | 13",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 8",
@@ -151,8 +151,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇦🇪AE | 🔴 | vless | @VmessProtocol | 8",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 355",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 356",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 349",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 350",
                 "❔XX | 🟢 | vless | @free1_vpn | 4",
                 "❔XX | 🟢 | vless | @free1_vpn | 5",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
@@ -182,8 +182,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 42",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "❔XX | 🟢 | vless | @ipV2Ray | 12",
                 "❔XX | 🟢 | vless | @ipV2Ray | 13",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 8",
@@ -223,8 +223,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
                 "🇦🇪AE | 🔴 | vless | @VmessProtocol | 8",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 355",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 356",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 349",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 350",
                 "❔XX | 🟢 | vless | @free1_vpn | 4",
                 "❔XX | 🟢 | vless | @free1_vpn | 5",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
@@ -346,9 +346,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "63.176.157.117",
+            "server": "13.37.192.151",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -377,9 +377,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "13.61.169.186",
+            "server": "52.58.69.46",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1367,9 +1367,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 355",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 349",
             "type": "vless",
-            "server": "18.220.189.162",
+            "server": "13.58.181.30",
             "server_port": 80,
             "uuid": "4d5848af-3baf-4225-8f2b-fc25fc3370bb",
             "flow": "",
@@ -1381,17 +1381,24 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 356",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 350",
             "type": "vless",
-            "server": "13.58.181.30",
+            "server": "tgju.org",
             "server_port": 80,
-            "uuid": "4d5848af-3baf-4225-8f2b-fc25fc3370bb",
+            "uuid": "3b0571ff-6990-4330-94ea-b6144d2327c7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "tgju.org"
+                }
             }
         },
         {

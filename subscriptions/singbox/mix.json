@@ -485,8 +485,6 @@
                 "❔XX | 🟢 | vmess | @Hope_Net | 7",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
                 "❔XX | 🟢 | vmess | @Hope_Net | 9",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 0",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
@@ -498,7 +496,7 @@
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 6",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 7",
-                "❔XX | 🔴 | vless | @FreakConfig | 9",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
                 "❔XX | 🟢 | vless | @FreakConfig | 10",
                 "❔XX | 🟢 | vless | @FreakConfig | 11",
                 "❔XX | 🟢 | vless | @FreakConfig | 12",
@@ -946,8 +944,6 @@
                 "❔XX | 🟢 | vmess | @Hope_Net | 7",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
                 "❔XX | 🟢 | vmess | @Hope_Net | 9",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 0",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
@@ -959,7 +955,7 @@
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 6",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 7",
-                "❔XX | 🔴 | vless | @FreakConfig | 9",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
                 "❔XX | 🟢 | vless | @FreakConfig | 10",
                 "❔XX | 🟢 | vless | @FreakConfig | 11",
                 "❔XX | 🟢 | vless | @FreakConfig | 12",
@@ -10047,64 +10043,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
-            "type": "vmess",
-            "server": "34.220.223.22",
-            "server_port": 42360,
-            "uuid": "3519dfc0-fa27-41cc-8c19-981818f9f6d5",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "0000000000000000000000000080.cgroup-node-for-bigairport.sbs",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "0000000000000000000000000080.cgroup-node-for-bigairport.sbs"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 11",
-            "type": "vmess",
-            "server": "207.90.238.136",
-            "server_port": 20010,
-            "uuid": "93b65089-a6e2-416a-b2f7-11d0e7698d62",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "207.90.238.136"
-                }
-            }
-        },
-        {
             "tag": "🇮🇷IR | 🔴 | vless | @fnet00 | 0",
             "type": "vless",
             "server": "ali.mobilemilan.shop",
@@ -10328,7 +10266,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 9",
+            "tag": "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
             "type": "vless",
             "server": "freakconfig-1.usecharge.ir",
             "server_port": 443,

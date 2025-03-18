@@ -412,11 +412,10 @@
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 0",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇸🇪SE | 🔴 | vless | @FreakConfig | 1",
                 "❔XX | 🟢 | vless | @FreakConfig | 8",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
@@ -792,11 +791,10 @@
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 0",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇸🇪SE | 🔴 | vless | @FreakConfig | 1",
                 "❔XX | 🟢 | vless | @FreakConfig | 8",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
@@ -8471,7 +8469,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -8492,7 +8490,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -8513,7 +8511,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
             "type": "vless",
             "server": "104.21.56.44",
             "server_port": 80,
@@ -8534,7 +8532,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 80,
@@ -8551,27 +8549,6 @@
                 "path": "\/LwW5jwrnymnOdqki?ed=2560",
                 "headers": {
                     "Host": "104.17.148.22"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 7",
-            "type": "vless",
-            "server": "151.101.64.155",
-            "server_port": 80,
-            "uuid": "bff845b0-1b62-460c-bd15-04ccf11f8f0c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry",
-                "headers": {
-                    "Host": "151.101.64.155"
                 }
             }
         },

@@ -315,7 +315,7 @@ proxies:
   - {"name":"🇺🇸US | 🟢 | vless | @DailyV2RY | 258","type":"vless","server":"3.145.184.4","port":8443,"udp":true,"uuid":"b285432e-8677-40e3-a86a-ca167cd9d5bd","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"zula.ir","flow":"xtls-rprx-vision","reality-opts":{"public-key":"SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc"}}
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 259","type":"vless","server":"www.speedtest.net","port":8443,"udp":false,"uuid":"95267673-3bee-486b-b591-59baa689bb7e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"BagoriB4.PersonApps.info","ws-opts":{"path":"/","headers":{"host":"BagoriB4.PersonApps.info"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 260","type":"vless","server":"angelina.ns.cloudflare.com","port":443,"udp":false,"uuid":"8e3230a4-2867-4087-9b4b-27e54ef7cb10","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"news1.testsnew.com","ws-opts":{"path":"/wss","headers":{"host":"news1.testsnew.com"}}}
-  - {"name":"🇺🇸US | 🟢 | vless | @DailyV2RY | 261","type":"vless","server":"whatismyipaddress.com","port":2096,"udp":false,"uuid":"8d4d81ee-5928-4617-8726-22a47164e766","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir","ws-opts":{"path":"","headers":{"host":"wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir"}}}
+  - {"name":"🚩CF | 🟢 | vless | @DailyV2RY | 261","type":"vless","server":"whatismyipaddress.com","port":2096,"udp":false,"uuid":"8d4d81ee-5928-4617-8726-22a47164e766","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir","ws-opts":{"path":"","headers":{"host":"wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir"}}}
   - {"name":"🇺🇸US | 🟢 | vless | @DailyV2RY | 262","type":"vless","server":"whatismyipaddress.com","port":2096,"udp":false,"uuid":"8d4d81ee-5928-4617-8726-22a47164e766","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"wwwspeedtestnetwhiteberinsistomd6625996s25.elitemizban.ir","ws-opts":{"path":"","headers":{"host":"wwwspeedtestnetwhiteberinsistomd6625996s25.elitemizban.ir"}}}
   - {"name":"🇮🇪IE | 🟢 | vless | @DailyV2RY | 263","type":"vless","server":"34.241.145.118","port":8443,"udp":true,"uuid":"73c732f2-d435-4197-9f33-0d7c1f47d3a9","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"zula.ir","reality-opts":{"public-key":"SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc"}}
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 265","type":"vless","server":"soccer120.info","port":2087,"udp":false,"uuid":"31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"Tp28725RzC.rAmAzAn3.InFo","ws-opts":{"path":"/","headers":{"host":"Tp28725RzC.rAmAzAn3.InFo"}}}
@@ -587,7 +587,7 @@ proxy-groups:
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 258'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 259'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 260'
-      - '🇺🇸US | 🟢 | vless | @DailyV2RY | 261'
+      - '🚩CF | 🟢 | vless | @DailyV2RY | 261'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 262'
       - '🇮🇪IE | 🟢 | vless | @DailyV2RY | 263'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 265'
@@ -859,7 +859,7 @@ proxy-groups:
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 258'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 259'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 260'
-      - '🇺🇸US | 🟢 | vless | @DailyV2RY | 261'
+      - '🚩CF | 🟢 | vless | @DailyV2RY | 261'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 262'
       - '🇮🇪IE | 🟢 | vless | @DailyV2RY | 263'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 265'
@@ -1130,7 +1130,7 @@ proxy-groups:
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 258'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 259'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 260'
-      - '🇺🇸US | 🟢 | vless | @DailyV2RY | 261'
+      - '🚩CF | 🟢 | vless | @DailyV2RY | 261'
       - '🇺🇸US | 🟢 | vless | @DailyV2RY | 262'
       - '🇮🇪IE | 🟢 | vless | @DailyV2RY | 263'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 265'

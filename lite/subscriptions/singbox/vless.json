@@ -109,7 +109,7 @@
                 "❔XX | 🔴 | vless | @EliV2ray | 3",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 42",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 43",
-                "🇺🇸US | 🔴 | vless | @v2_team | 0",
+                "🇨🇦CA | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
@@ -181,7 +181,7 @@
                 "❔XX | 🔴 | vless | @EliV2ray | 3",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 42",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 43",
-                "🇺🇸US | 🔴 | vless | @v2_team | 0",
+                "🇨🇦CA | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
@@ -322,7 +322,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2_team | 0",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2_team | 0",
             "type": "vless",
             "server": "172.67.73.163",
             "server_port": 80,
@@ -568,8 +568,8 @@
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
             "type": "vless",
             "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "telegram-id-ArV2ray11",
+            "server_port": 80,
+            "uuid": "telegram-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -577,21 +577,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "p.mashti.link",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
                 "headers": {
-                    "Host": "p.mashti.link"
+                    "Host": "www.speedtest.net"
                 }
             }
         },

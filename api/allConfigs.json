@@ -2373,7 +2373,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/bca5e12c-e30e-4430-9729-5a4ea40b90a6@3900230223.torob.com.tr:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪DE%20|%20🔴%20|%20vless%20|%20@ServerNett%20|%200"
+        "config": "vless:\/\/bca5e12c-e30e-4430-9729-5a4ea40b90a6@3900230223.torob.com.tr:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇫🇮FI%20|%20🔴%20|%20vless%20|%20@ServerNett%20|%200"
     },
     {
         "channel": {
@@ -3823,42 +3823,6 @@
         },
         "type": "vless",
         "config": "vless:\/\/b0c150e0-48a0-4d2e-855d-edefa01d2a99@www.speedtest.net:443?mode=auto&path=%2Fcustom_config&security=tls&encryption=none%3D%23%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&type=xhttp&sni=third.dgclix.ir#🇺🇸US%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%200"
-    },
-    {
-        "channel": {
-            "username": " vmess ",
-            "title": null,
-            "logo": null
-        },
-        "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMTcwLjEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQG5vZmlsdGVyaW5nMiB8IDEifQ=="
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
-        "config": "vless:\/\/fe1a8735-11ae-5501-bc91-90343b78f8c1@vpnandroid2_tr.home.kg:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇹🇷TR%20|%20🔴%20|%20vless%20|%20@nofiltering2%20|%205"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
-        "config": "vless:\/\/8dabe69a-0cf2-47d1-bce2-2404bb1d67d5@104.19.150.10:2095?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=none&encryption=none&host=mci.mtn.ir.com.org.net.om.org.my-digimento0.ir.&type=httpupgrade#🚩CF%20|%20🔴%20|%20vless%20|%20@nofiltering2%20|%207"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
-        "config": "vless:\/\/f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.146.173.112:8880?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=photographipictureai.ir&type=ws#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@nofiltering2%20|%209"
     },
     {
         "channel": {

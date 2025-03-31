@@ -349,6 +349,9 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 11","type":"vless","server":"151.101.64.155","port":80,"udp":false,"uuid":"28da528a-d2d4-4cf7-a11f-1a096eafbc63","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry?ed=2048","headers":{"host":"2.wexer-rih.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 13","type":"vless","server":"151.101.64.155","port":80,"udp":false,"uuid":"662c4a7c-0431-44d6-b717-86e9aea34ae3","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry?ed=2048","headers":{"host":"2.wexer-rih.ir"}}}
   - {"name":"@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&type=xhttp&sni=third.dgclix.ir#🇺🇸US | 🔴 | vless | @mehrosaboran | 0","type":"vless","server":"www.speedtest.net","port":443,"udp":false,"uuid":"b0c150e0-48a0-4d2e-855d-edefa01d2a99","tls":true,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇹🇷TR | 🔴 | vless | @nofiltering2 | 5","type":"vless","server":"vpnandroid2_tr.home.kg","port":8880,"udp":false,"uuid":"fe1a8735-11ae-5501-bc91-90343b78f8c1","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"vless-grpc"}}
+  - {"name":"🚩CF | 🔴 | vless | @nofiltering2 | 7","type":"vless","server":"104.19.150.10","port":2095,"udp":false,"uuid":"8dabe69a-0cf2-47d1-bce2-2404bb1d67d5","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇸🇪SE | 🔴 | vless | @nofiltering2 | 9","type":"vless","server":"185.146.173.112","port":8880,"udp":false,"uuid":"f6bd2c47-99da-4bca-bf70-7186aa9e7e06","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram@V2ray_Alpha","headers":{"host":"photographipictureai.ir"}}}
   - {"name":"🇫🇮FI | 🟢 | vless | @proxy_mtm | 2","type":"vless","server":"nextgenerationaiplatform.ir","port":443,"udp":false,"uuid":"fe069d77-882c-4175-b48e-c79e3fe65a81","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"nextgenerationaiplatform.ir","ws-opts":{"path":"/fsafasfsafA","headers":{"host":"nextgenerationaiplatform.ir"}}}
   - {"name":"🚩CF | 🟢 | vless | @proxy_mtm | 3","type":"vless","server":"162.159.153.2","port":443,"udp":false,"uuid":"59860b15-b2d9-47f9-9b92-81bd1639fcc5","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"5-55sfjslf.ifenxiang.cfd","ws-opts":{"path":"/Telegram@proxy_mtm/?ed=2560","headers":{"host":"5-55sfjslf.ifenxiang.cfd"}}}
   - {"name":"🇬🇧GB | 🔴 | vless | @proxy_mtm | 6","type":"vless","server":"84.8.147.131","port":443,"udp":false,"uuid":"7c317161-5cf8-4cbc-811a-d1297c41bb23","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"YAPC-1.afshin.ir","flow":"xtls-rprx-vision"}
@@ -615,6 +618,9 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 11'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 13'
       - '@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&type=xhttp&sni=third.dgclix.ir#🇺🇸US | 🔴 | vless | @mehrosaboran | 0'
+      - '🇹🇷TR | 🔴 | vless | @nofiltering2 | 5'
+      - '🚩CF | 🔴 | vless | @nofiltering2 | 7'
+      - '🇸🇪SE | 🔴 | vless | @nofiltering2 | 9'
       - '🇫🇮FI | 🟢 | vless | @proxy_mtm | 2'
       - '🚩CF | 🟢 | vless | @proxy_mtm | 3'
       - '🇬🇧GB | 🔴 | vless | @proxy_mtm | 6'
@@ -881,6 +887,9 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 11'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 13'
       - '@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&type=xhttp&sni=third.dgclix.ir#🇺🇸US | 🔴 | vless | @mehrosaboran | 0'
+      - '🇹🇷TR | 🔴 | vless | @nofiltering2 | 5'
+      - '🚩CF | 🔴 | vless | @nofiltering2 | 7'
+      - '🇸🇪SE | 🔴 | vless | @nofiltering2 | 9'
       - '🇫🇮FI | 🟢 | vless | @proxy_mtm | 2'
       - '🚩CF | 🟢 | vless | @proxy_mtm | 3'
       - '🇬🇧GB | 🔴 | vless | @proxy_mtm | 6'
@@ -1146,6 +1155,9 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 11'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 13'
       - '@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&type=xhttp&sni=third.dgclix.ir#🇺🇸US | 🔴 | vless | @mehrosaboran | 0'
+      - '🇹🇷TR | 🔴 | vless | @nofiltering2 | 5'
+      - '🚩CF | 🔴 | vless | @nofiltering2 | 7'
+      - '🇸🇪SE | 🔴 | vless | @nofiltering2 | 9'
       - '🇫🇮FI | 🟢 | vless | @proxy_mtm | 2'
       - '🚩CF | 🟢 | vless | @proxy_mtm | 3'
       - '🇬🇧GB | 🔴 | vless | @proxy_mtm | 6'

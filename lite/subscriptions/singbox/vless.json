@@ -111,8 +111,8 @@
                 "🇨🇦CA | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 4",
@@ -129,8 +129,11 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "❔XX | 🔴 | vless | @prrofile_purple | 146",
-                "❔XX | 🔴 | vless | @prrofile_purple | 147",
+                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 5",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 6",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 154",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 155",
+                "❔XX | 🔴 | vless | @customv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 9",
@@ -175,8 +178,8 @@
                 "🇨🇦CA | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 4",
@@ -193,8 +196,11 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "❔XX | 🔴 | vless | @prrofile_purple | 146",
-                "❔XX | 🔴 | vless | @prrofile_purple | 147",
+                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 5",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 6",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 154",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 155",
+                "❔XX | 🔴 | vless | @customv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 9",
@@ -351,9 +357,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "13.37.200.10",
+            "server": "3.11.26.102",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -382,9 +388,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "35.181.24.233",
+            "server": "18.134.189.210",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -794,11 +800,53 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 146",
+            "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 5",
             "type": "vless",
-            "server": "[2001:41d0:701:1000::600]",
-            "server_port": 21147,
-            "uuid": "abfce3ec-df21-407c-a20c-d2a89e3278b1",
+            "server": "188.114.97.3",
+            "server_port": 80,
+            "uuid": "c5293efa-28f8-4a0f-8f34-541078970cee",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/SIGrNRCU4ongDlz4?ed=2560",
+                "headers": {
+                    "Host": "188.114.97.3"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 6",
+            "type": "vless",
+            "server": "104.17.148.22",
+            "server_port": 80,
+            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/LwW5jwrnymnOdqki?ed=2560",
+                "headers": {
+                    "Host": "104.17.148.22"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 154",
+            "type": "vless",
+            "server": "sub.atakconfig.com",
+            "server_port": 8080,
+            "uuid": "650b3192-7eb9-442e-9802-e0768fe2c71e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -808,7 +856,28 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 147",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 155",
+            "type": "vless",
+            "server": "104.17.147.22",
+            "server_port": 80,
+            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-id-@MTMVPN\/?ed=2503",
+                "headers": {
+                    "Host": "104.17.147.22"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @customv2ray | 7",
             "type": "vless",
             "server": "mehdi9.vact.ir",
             "server_port": 443,

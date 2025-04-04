@@ -209,7 +209,7 @@
         {
             "tag": "🇩🇪DE | 🟢 | vmess | @DeamNet_Proxy | 18",
             "type": "vmess",
-            "server": "57.129.24.124",
+            "server": "57.129.24.142",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
@@ -224,7 +224,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "",
+                "server_name": "harriscity.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -236,7 +236,7 @@
                 "type": "ws",
                 "path": "\/linkvws",
                 "headers": {
-                    "Host": ""
+                    "Host": "harriscity.com"
                 }
             }
         },

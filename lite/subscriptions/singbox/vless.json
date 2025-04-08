@@ -118,7 +118,7 @@
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 7",
                 "🇵🇱PL | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 19",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
@@ -130,8 +130,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 8",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 144",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 145",
+                "❔XX | 🔴 | vless | @prrofile_purple | 152",
                 "❔XX | 🟢 | vless | @customv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -185,7 +184,7 @@
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 7",
                 "🇵🇱PL | 🔴 | vless | @V2pedia | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 19",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
@@ -197,8 +196,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 8",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 144",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 145",
+                "❔XX | 🔴 | vless | @prrofile_purple | 152",
                 "❔XX | 🟢 | vless | @customv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -539,7 +537,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -821,31 +819,39 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 144",
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 152",
             "type": "vless",
-            "server": "188.245.95.151",
-            "server_port": 1523,
-            "uuid": "76d6910d-e7ec-43d9-a997-0655209410ab",
-            "flow": "",
+            "server": "mehdi20.vact.ir",
+            "server_port": 443,
+            "uuid": "26596a70-c447-4232-ac54-5474928d525c",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 145",
-            "type": "vless",
-            "server": "188.245.95.151",
-            "server_port": 1523,
-            "uuid": "76d6910d-e7ec-43d9-a997-0655209410ab",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cdn77.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "euMUHS3boiZ0500KTjnU9l_RTX1RP9VFOGEo82gFUyE",
+                    "short_id": "ce1be0"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Join---MTMVPN-Join---MTMVPN-Join---MTMVPN-Join---MTMVPN",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {

@@ -346,12 +346,13 @@
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 0",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 1",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 2",
+                "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 0",
+                "🚩CF | 🔴 | vless | @v2ray1_ng | 1",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 2",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 3",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
-                "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 5",
+                "🚩CF | 🔴 | vless | @v2ray1_ng | 4",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
+                "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 6",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -742,12 +743,13 @@
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 0",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 1",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 2",
+                "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 0",
+                "🚩CF | 🔴 | vless | @v2ray1_ng | 1",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 2",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 3",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
-                "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 5",
+                "🚩CF | 🔴 | vless | @v2ray1_ng | 4",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
+                "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 6",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -6621,7 +6623,21 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 0",
+            "tag": "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 0",
+            "type": "vless",
+            "server": "85.133.206.197",
+            "server_port": 14000,
+            "uuid": "51b73782-3536-48d7-b125-9e3f48c4052f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 1",
             "type": "vless",
             "server": "104.26.12.54",
             "server_port": 443,
@@ -6652,7 +6668,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 2",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -6683,7 +6699,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 2",
+            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 3",
             "type": "vless",
             "server": "188.114.97.155",
             "server_port": 80,
@@ -6704,7 +6720,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 3",
+            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 4",
             "type": "vless",
             "server": "172.67.75.52",
             "server_port": 2083,
@@ -6735,7 +6751,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -6766,7 +6782,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 5",
+            "tag": "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 6",
             "type": "vless",
             "server": "45.131.5.99",
             "server_port": 80,

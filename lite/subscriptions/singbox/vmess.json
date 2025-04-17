@@ -112,11 +112,11 @@
                 "🇬🇧GB | 🟢 | vmess | @ShadowProxy66 | 0",
                 "🇫🇷FR | 🟢 | vmess | @v2ray1_ng | 14",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
                 "❔XX | 🟢 | vmess | @FreakConfig | 0",
-                "🇨🇦CA | 🟢 | vmess | @OpenSSTPVpn | 0"
+                "🇺🇸US | 🟢 | vmess | @OpenSSTPVpn | 0"
             ]
         },
         {
@@ -129,11 +129,11 @@
                 "🇬🇧GB | 🟢 | vmess | @ShadowProxy66 | 0",
                 "🇫🇷FR | 🟢 | vmess | @v2ray1_ng | 14",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
                 "❔XX | 🟢 | vmess | @FreakConfig | 0",
-                "🇨🇦CA | 🟢 | vmess | @OpenSSTPVpn | 0"
+                "🇺🇸US | 🟢 | vmess | @OpenSSTPVpn | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -265,7 +265,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -299,6 +299,23 @@
             }
         },
         {
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
+            "type": "vmess",
+            "server": "183.236.51.38",
+            "server_port": 41291,
+            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
             "type": "vmess",
             "server": "fadawtawd.zhangwei.li",
@@ -323,23 +340,6 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
-            "type": "vmess",
-            "server": "183.236.51.38",
-            "server_port": 41291,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "❔XX | 🟢 | vmess | @FreakConfig | 0",
             "type": "vmess",
             "server": "2a01:4f8:c010:6ca3::1",
@@ -357,7 +357,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @OpenSSTPVpn | 0",
+            "tag": "🇺🇸US | 🟢 | vmess | @OpenSSTPVpn | 0",
             "type": "vmess",
             "server": "zula.ir",
             "server_port": 443,

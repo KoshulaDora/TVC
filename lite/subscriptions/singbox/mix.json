@@ -118,10 +118,10 @@
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 6",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 7",
                 "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇲🇾MY | 🔴 | vless | @vpn_xw | 0",
                 "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
@@ -137,7 +137,7 @@
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 19",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇹🇼TW | 🟢 | ss | @DeamNet_Proxy | 17",
+                "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "❔XX | 🔴 | vless | @prrofile_purple | 150",
@@ -159,7 +159,7 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
-                "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
+                "🇨🇦CA | 🔴 | vless | @free1_vpn | 6",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -199,10 +199,10 @@
                 "🇬🇧GB | 🔴 | vless | @V2pedia | 6",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 7",
                 "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇲🇾MY | 🔴 | vless | @vpn_xw | 0",
                 "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
@@ -218,7 +218,7 @@
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 19",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇹🇼TW | 🟢 | ss | @DeamNet_Proxy | 17",
+                "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "❔XX | 🔴 | vless | @prrofile_purple | 150",
@@ -240,7 +240,7 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
-                "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
+                "🇨🇦CA | 🔴 | vless | @free1_vpn | 6",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -288,7 +288,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 80,
-            "uuid": "Parsashonam-217",
+            "uuid": "Parsashonam-218",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -309,7 +309,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-217",
+            "uuid": "Parsashonam-218",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -552,7 +552,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -615,7 +615,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -966,14 +966,38 @@
             }
         },
         {
-            "tag": "🇹🇼TW | 🟢 | ss | @DeamNet_Proxy | 17",
-            "type": "shadowsocks",
-            "server": "223.165.4.173",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3",
-            "plugin": "",
-            "plugin_opts": ""
+            "tag": "🇫🇷FR | 🟢 | vmess | @DeamNet_Proxy | 18",
+            "type": "vmess",
+            "server": "linde06.indiavideo.sbs",
+            "server_port": 443,
+            "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "linde06.indiavideo.sbs",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkws",
+                "headers": {
+                    "Host": "linde06.indiavideo.sbs"
+                }
+            }
         },
         {
             "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 15",
@@ -1498,7 +1522,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
+            "tag": "🇨🇦CA | 🔴 | vless | @free1_vpn | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,

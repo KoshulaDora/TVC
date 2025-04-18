@@ -133,7 +133,6 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 0",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 1",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 2",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 3",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
                 "❔XX | 🟢 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
@@ -277,6 +276,7 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🚩CF | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 2",
@@ -507,7 +507,6 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 0",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 1",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 2",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 3",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
                 "❔XX | 🟢 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
@@ -651,6 +650,7 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🚩CF | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 2",
@@ -1351,37 +1351,6 @@
             "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 2",
             "type": "vless",
             "server": "18.193.28.55",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
-                "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 3",
-            "type": "vless",
-            "server": "63.177.165.64",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -4665,6 +4634,20 @@
                 "headers": {
                     "Host": "join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za"
                 }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 0",
+            "type": "vless",
+            "server": "151.234.162.123",
+            "server_port": 20000,
+            "uuid": "7feb2b8f-70c7-4720-87dc-d2d8d18cb514",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {

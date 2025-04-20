@@ -293,7 +293,7 @@
                 "❔XX | 🔴 | vless | @ServerNett | 2",
                 "❔XX | 🔴 | vless | @ServerNett | 3",
                 "❔XX | 🔴 | vless | @ServerNett | 4",
-                "🇫🇮FI | 🔴 | vless | @ServerNett | 7",
+                "🇩🇪DE | 🔴 | vless | @ServerNett | 7",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
@@ -343,7 +343,6 @@
                 "🇫🇮FI | 🔴 | vless | @v2ray1_ng | 5",
                 "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 6",
                 "🇭🇰HK | 🔴 | vless | @v2ray1_ng | 7",
-                "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 15",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -405,7 +404,6 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 10",
-                "🇮🇷IR | 🔴 | vless | @free1_vpn | 11",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
@@ -477,6 +475,7 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 30",
                 "❔XX | 🔴 | vless | @kingofilter | 31",
                 "🇳🇱NL | 🔴 | vless | @kingofilter | 32",
+                "🇮🇷IR | 🔴 | vless | @kingofilter | 35",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 36",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
@@ -685,7 +684,7 @@
                 "❔XX | 🔴 | vless | @ServerNett | 2",
                 "❔XX | 🔴 | vless | @ServerNett | 3",
                 "❔XX | 🔴 | vless | @ServerNett | 4",
-                "🇫🇮FI | 🔴 | vless | @ServerNett | 7",
+                "🇩🇪DE | 🔴 | vless | @ServerNett | 7",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
@@ -735,7 +734,6 @@
                 "🇫🇮FI | 🔴 | vless | @v2ray1_ng | 5",
                 "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 6",
                 "🇭🇰HK | 🔴 | vless | @v2ray1_ng | 7",
-                "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 15",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -797,7 +795,6 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 10",
-                "🇮🇷IR | 🔴 | vless | @free1_vpn | 11",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
@@ -869,6 +866,7 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 30",
                 "❔XX | 🔴 | vless | @kingofilter | 31",
                 "🇳🇱NL | 🔴 | vless | @kingofilter | 32",
+                "🇮🇷IR | 🔴 | vless | @kingofilter | 35",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 36",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
@@ -5015,7 +5013,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @ServerNett | 7",
+            "tag": "🇩🇪DE | 🔴 | vless | @ServerNett | 7",
             "type": "vless",
             "server": "3900230223.torob.com.tr",
             "server_port": 1522,
@@ -6346,27 +6344,6 @@
                 "path": "\/?ed=2560",
                 "headers": {
                     "Host": "vlee.amclubs.nyc.mn"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 15",
-            "type": "vless",
-            "server": "45.131.4.161",
-            "server_port": 80,
-            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram🇨🇳@WangCai2\/?ed=2560",
-                "headers": {
-                    "Host": "45.131.4.161"
                 }
             }
         },
@@ -7874,20 +7851,6 @@
             "server": "Www.speedtest.net",
             "server_port": 2095,
             "uuid": "5739b108-2580-43cd-ae0b-060876a60f66",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @free1_vpn | 11",
-            "type": "vless",
-            "server": "85.133.206.197",
-            "server_port": 14000,
-            "uuid": "51b73782-3536-48d7-b125-9e3f48c4052f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -9664,6 +9627,20 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @kingofilter | 35",
+            "type": "vless",
+            "server": "85.133.206.197",
+            "server_port": 14000,
+            "uuid": "51b73782-3536-48d7-b125-9e3f48c4052f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {

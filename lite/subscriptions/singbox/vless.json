@@ -152,8 +152,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 178",
                 "❔XX | 🔴 | vless | @proxystore11 | 6",
-                "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
+                "🇮🇷IR | 🔴 | vless | @free1_vpn | 10",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
@@ -226,8 +226,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 14",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 178",
                 "❔XX | 🔴 | vless | @proxystore11 | 6",
-                "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
+                "🇮🇷IR | 🔴 | vless | @free1_vpn | 10",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
@@ -1301,11 +1301,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8880,
-            "uuid": "c33c6019-e4d2-48b2-b217-670d75d33693",
+            "server": "Www.speedtest.net",
+            "server_port": 2095,
+            "uuid": "5739b108-2580-43cd-ae0b-060876a60f66",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1315,11 +1315,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
+            "tag": "🇮🇷IR | 🔴 | vless | @free1_vpn | 10",
             "type": "vless",
-            "server": "Www.speedtest.net",
-            "server_port": 2095,
-            "uuid": "5739b108-2580-43cd-ae0b-060876a60f66",
+            "server": "85.133.206.197",
+            "server_port": 14000,
+            "uuid": "51b73782-3536-48d7-b125-9e3f48c4052f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {

@@ -236,7 +236,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 2",
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 15",
-                "🇮🇷IR | 🔴 | trojan | @V2rayCollectorDonate | 17",
+                "❔XX | 🔴 | trojan | @V2rayCollectorDonate | 17",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 0",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 1",
@@ -334,7 +334,7 @@
                 "❔XX | 🔴 | vless | @ServerNett | 2",
                 "❔XX | 🔴 | vless | @ServerNett | 4",
                 "❔XX | 🔴 | vless | @ServerNett | 6",
-                "🇩🇪DE | 🔴 | vless | @ServerNett | 9",
+                "🇫🇮FI | 🔴 | vless | @ServerNett | 9",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 10",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
@@ -451,7 +451,6 @@
                 "🇭🇰HK | 🟢 | vmess | @Hope_Net | 1",
                 "🇭🇰HK | 🟢 | vmess | @Hope_Net | 2",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 3",
-                "🇭🇰HK | 🟢 | vmess | @Hope_Net | 4",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
@@ -685,7 +684,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 2",
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 15",
-                "🇮🇷IR | 🔴 | trojan | @V2rayCollectorDonate | 17",
+                "❔XX | 🔴 | trojan | @V2rayCollectorDonate | 17",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 0",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 1",
@@ -783,7 +782,7 @@
                 "❔XX | 🔴 | vless | @ServerNett | 2",
                 "❔XX | 🔴 | vless | @ServerNett | 4",
                 "❔XX | 🔴 | vless | @ServerNett | 6",
-                "🇩🇪DE | 🔴 | vless | @ServerNett | 9",
+                "🇫🇮FI | 🔴 | vless | @ServerNett | 9",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 10",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
@@ -900,7 +899,6 @@
                 "🇭🇰HK | 🟢 | vmess | @Hope_Net | 1",
                 "🇭🇰HK | 🟢 | vmess | @Hope_Net | 2",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 3",
-                "🇭🇰HK | 🟢 | vmess | @Hope_Net | 4",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
@@ -3753,7 +3751,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | trojan | @V2rayCollectorDonate | 17",
+            "tag": "❔XX | 🔴 | trojan | @V2rayCollectorDonate | 17",
             "type": "trojan",
             "server": "server2.cactusrobot.ir",
             "server_port": 8608,
@@ -5925,7 +5923,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ServerNett | 9",
+            "tag": "🇫🇮FI | 🔴 | vless | @ServerNett | 9",
             "type": "vless",
             "server": "3900230223.torob.com.tr",
             "server_port": 1522,
@@ -9067,30 +9065,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇭🇰HK | 🟢 | vmess | @Hope_Net | 4",
-            "type": "vmess",
-            "server": "bf0c2e8d-sv4n40-szeqpq-sbt2.hk3.p5pv.com",
-            "server_port": 80,
-            "uuid": "b88ebf3a-b6b7-11ea-82ef-f23c9164ca5d",
-            "security": "auto",
-            "alter_id": 2,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "bf0c2e8d-sv4n40-szeqpq-sbt2.hk3.p5pv.com"
-                }
             }
         },
         {

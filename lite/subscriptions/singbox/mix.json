@@ -159,7 +159,6 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 14",
                 "🇨🇭CH | 🔴 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 319",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 320",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 13",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 14",
@@ -245,7 +244,6 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 14",
                 "🇨🇭CH | 🔴 | vless | @VmessProtocol | 15",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 319",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 320",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 13",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 14",
@@ -1488,32 +1486,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 319",
-            "type": "vless",
-            "server": "tgju.org",
-            "server_port": 80,
-            "uuid": "29a36c2e-53e7-4518-b431-1f7f5dccbe22",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "tgju.org"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 320",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
-            "uuid": "0e935621-9c06-4ce9-9d10-a6f8c2ff0f70",
+            "uuid": "29a36c2e-53e7-4518-b431-1f7f5dccbe22",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1767,9 +1744,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
             "type": "vless",
-            "server": "104.25.254.4",
-            "server_port": 2087,
-            "uuid": "d6b8011a-c725-435a-9fec-bf6d3530392c",
+            "server": "172.67.75.194",
+            "server_port": 8443,
+            "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1779,7 +1756,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "vlee.amclubs.nyc.mn",
+                "server_name": "5-55sfjslf.ifenxiang.cfd",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1791,16 +1768,16 @@
                 "type": "ws",
                 "path": "\/?ed=2560",
                 "headers": {
-                    "Host": "vlee.amclubs.nyc.mn"
+                    "Host": "5-55sfjslf.ifenxiang.cfd"
                 }
             }
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
             "type": "vless",
-            "server": "Zmaoz.Faculty.Ucdavis.Edu",
-            "server_port": 80,
-            "uuid": "Parsashonam-228",
+            "server": "104.18.27.94",
+            "server_port": 443,
+            "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1808,11 +1785,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "5-55sfjslf.ifenxiang.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/@Parsashonam",
+                "path": "\/?ed=2560",
                 "headers": {
-                    "Host": "Zmaoz.Faculty.Ucdavis.Edu."
+                    "Host": "5-55sfjslf.ifenxiang.cfd"
                 }
             }
         },

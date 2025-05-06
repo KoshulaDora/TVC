@@ -12,12 +12,12 @@ enhanced-mode-by-rule = true
 [Proxy]
 DIRECT = direct
 ❔XX | 🟢 | vmess | @yaney_01 | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
-🇨🇳CN | 🟢 | vmess | @Hope_Net | 9 = vmess, jp6.g2.moonbase.life, 35216, username = c3136814-a07e-41f6-ad94-8e20458c0d21, ws = true, tls = 1, vmess-aead = true, ws-path = /home, ws-headers = Host:"web.xcjs.info", skip-cert-verify = true, tfo = false
-🇷🇺RU | 🟢 | vmess | @Hope_Net | 10 = vmess, 45.147.201.231, 20023, username = 79a4da53-c46e-4159-b4fb-55aac91a86ad, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"45.147.201.231", skip-cert-verify = true, tfo = false
+🇺🇸US | 🟢 | vmess | @Hope_Net | 9 = vmess, cdnjs.com, 443, username = de94cc0a-0592-4969-b1fc-97ea8f0ea0b3, ws = true, tls = 1, vmess-aead = true, ws-path = /us.kkp.me.eu.org/aa, ws-headers = Host:"creativeservices.netflix.com.wukong.asolole.biz.id", skip-cert-verify = true, tfo = false
+🇷🇺RU | 🟢 | vmess | @Hope_Net | 10 = vmess, 195.58.49.84, 22025, username = a94f2691-424f-4b0f-856a-4863b134814a, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | vmess | @yaney_01 | 4,🇨🇳CN | 🟢 | vmess | @Hope_Net | 9,🇷🇺RU | 🟢 | vmess | @Hope_Net | 10
-URL-TEST = url-test,❔XX | 🟢 | vmess | @yaney_01 | 4,🇨🇳CN | 🟢 | vmess | @Hope_Net | 9,🇷🇺RU | 🟢 | vmess | @Hope_Net | 10
-FALLBACK = fallback,❔XX | 🟢 | vmess | @yaney_01 | 4,🇨🇳CN | 🟢 | vmess | @Hope_Net | 9,🇷🇺RU | 🟢 | vmess | @Hope_Net | 10
+MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | vmess | @yaney_01 | 4,🇺🇸US | 🟢 | vmess | @Hope_Net | 9,🇷🇺RU | 🟢 | vmess | @Hope_Net | 10
+URL-TEST = url-test,❔XX | 🟢 | vmess | @yaney_01 | 4,🇺🇸US | 🟢 | vmess | @Hope_Net | 9,🇷🇺RU | 🟢 | vmess | @Hope_Net | 10
+FALLBACK = fallback,❔XX | 🟢 | vmess | @yaney_01 | 4,🇺🇸US | 🟢 | vmess | @Hope_Net | 9,🇷🇺RU | 🟢 | vmess | @Hope_Net | 10
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL

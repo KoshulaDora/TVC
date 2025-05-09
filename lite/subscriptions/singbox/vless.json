@@ -110,8 +110,8 @@
                 "🇨🇦CA | 🔴 | vless | @v2_team | 2",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 1",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 2",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 2",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 3",
                 "❔XX | 🔴 | vless | @ipV2Ray | 8",
                 "❔XX | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 29",
@@ -177,8 +177,8 @@
                 "🇨🇦CA | 🔴 | vless | @v2_team | 2",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 1",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 2",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 2",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 3",
                 "❔XX | 🔴 | vless | @ipV2Ray | 8",
                 "❔XX | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 29",
@@ -336,7 +336,7 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 1",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 2",
             "type": "vless",
             "server": "3.254.246.221",
             "server_port": 22224,
@@ -367,7 +367,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 2",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 3",
             "type": "vless",
             "server": "63.176.54.26",
             "server_port": 22224,

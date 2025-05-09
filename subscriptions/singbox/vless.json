@@ -136,9 +136,10 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 7",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 0",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 1",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 2",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 0",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 1",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 2",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 3",
                 "❔XX | 🔴 | vless | @ipV2Ray | 0",
                 "❔XX | 🔴 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
@@ -376,7 +377,7 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 4",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 5",
                 "🚩CF | 🔴 | vless | @VmessProtocol | 7",
-                "🇩🇪DE | 🔴 | vless | @VmessProtocol | 9",
+                "❔XX | 🔴 | vless | @VmessProtocol | 9",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 11",
                 "🇳🇱NL | 🔴 | vless | @VmessProtocol | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
@@ -403,7 +404,6 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
                 "🇮🇷IR | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
-                "🇮🇷IR | 🔴 | vless | @free1_vpn | 10",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
@@ -517,9 +517,10 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 7",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
-                "🇸🇪SE | 🔴 | vless | @VlessConfig | 0",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 1",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 2",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 0",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 1",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 2",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 3",
                 "❔XX | 🔴 | vless | @ipV2Ray | 0",
                 "❔XX | 🔴 | vless | @ipV2Ray | 1",
                 "❔XX | 🔴 | vless | @ipV2Ray | 2",
@@ -757,7 +758,7 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 4",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 5",
                 "🚩CF | 🔴 | vless | @VmessProtocol | 7",
-                "🇩🇪DE | 🔴 | vless | @VmessProtocol | 9",
+                "❔XX | 🔴 | vless | @VmessProtocol | 9",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 11",
                 "🇳🇱NL | 🔴 | vless | @VmessProtocol | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
@@ -784,7 +785,6 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
                 "🇮🇷IR | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
-                "🇮🇷IR | 🔴 | vless | @free1_vpn | 10",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
@@ -1391,7 +1391,38 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 0",
+            "type": "vless",
+            "server": "3.78.101.232",
+            "server_port": 22224,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig",
+                "headers": {
+                    "Host": "trojan.burgerip.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 1",
             "type": "vless",
             "server": "13.61.114.31",
             "server_port": 22224,
@@ -1422,7 +1453,7 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 1",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 2",
             "type": "vless",
             "server": "3.254.246.221",
             "server_port": 22224,
@@ -1453,7 +1484,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 2",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 3",
             "type": "vless",
             "server": "63.176.54.26",
             "server_port": 22224,
@@ -7120,7 +7151,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VmessProtocol | 9",
+            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 9",
             "type": "vless",
             "server": "germany.khoreshtsabzi.ir",
             "server_port": 1773,
@@ -7656,20 +7687,6 @@
                 "headers": {
                     "Host": "www.speedtest.net"
                 }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @free1_vpn | 10",
-            "type": "vless",
-            "server": "62.60.194.102",
-            "server_port": 4405,
-            "uuid": "9c1cd140-4770-49b0-9340-16ac9fcfcd35",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {

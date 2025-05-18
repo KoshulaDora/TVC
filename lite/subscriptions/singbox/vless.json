@@ -129,8 +129,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 0",
-                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 147",
-                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 148",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 140",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
@@ -192,8 +191,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 0",
-                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 147",
-                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 148",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 140",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
@@ -780,31 +778,24 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @prrofile_purple | 147",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 140",
             "type": "vless",
-            "server": "64.227.77.203",
-            "server_port": 443,
-            "uuid": "86b54d8f-fb29-4326-a05f-f7e61896286f",
+            "server": "85.133.206.14",
+            "server_port": 33912,
+            "uuid": "d2bdf18d-dadc-427f-9b0b-5e68fdd00521",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🔴 | vless | @prrofile_purple | 148",
-            "type": "vless",
-            "server": "64.227.77.203",
-            "server_port": 443,
-            "uuid": "86b54d8f-fb29-4326-a05f-f7e61896286f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram:@summertimeus",
+                "headers": {
+                    "Host": "85.133.206.14"
+                }
             }
         },
         {

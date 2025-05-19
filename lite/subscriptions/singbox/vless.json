@@ -147,8 +147,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 14",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 329",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 330",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 331",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇫🇮FI | 🟢 | vless | @free1_vpn | 8",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -210,8 +210,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 14",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 329",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 330",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 331",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇫🇮FI | 🟢 | vless | @free1_vpn | 8",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -1179,7 +1179,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 330",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 329",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,
@@ -1200,7 +1200,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 331",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 330",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,

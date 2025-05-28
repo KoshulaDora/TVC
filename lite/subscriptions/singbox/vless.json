@@ -130,8 +130,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
-                "🇨🇿CZ | 🔴 | vless | @prrofile_purple | 147",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 148",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 155",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 156",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
@@ -195,8 +195,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
-                "🇨🇿CZ | 🔴 | vless | @prrofile_purple | 147",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 148",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 155",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 156",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 12",
@@ -384,7 +384,7 @@
             "type": "vless",
             "server": "Tabriz-Website.thorav.ir",
             "server_port": 443,
-            "uuid": "0d53bc23-3e4a-48b3-b94b-271649e29735",
+            "uuid": "10d4737f-494a-45f0-b0c2-d18f99041d4a",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -420,7 +420,7 @@
             "type": "vless",
             "server": "Tabriz-Website.thorav.ir",
             "server_port": 443,
-            "uuid": "5614c870-e60a-4a68-9505-6b49a1820a68",
+            "uuid": "0d53bc23-3e4a-48b3-b94b-271649e29735",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -874,45 +874,31 @@
             }
         },
         {
-            "tag": "🇨🇿CZ | 🔴 | vless | @prrofile_purple | 147",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 155",
             "type": "vless",
-            "server": "194.182.79.7",
-            "server_port": 19123,
-            "uuid": "eb5746f7-c56f-4ed8-afb3-320da686bea4",
+            "server": "172.67.71.122",
+            "server_port": 8080,
+            "uuid": "c9130a00-a16c-485c-8e58-e4cf09cc2e66",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 148",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 156",
             "type": "vless",
-            "server": "mainv2-ray.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "2ce4da59-28c7-41fa-9411-7dfde437c1cb",
+            "server": "104.26.5.57",
+            "server_port": 8080,
+            "uuid": "76114b04-8831-4ac7-b3bf-aa41cf852b49",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray",
-                "headers": {
-                    "Host": "mainv2-ray.fast.hosting-ip.com"
-                }
             }
         },
         {

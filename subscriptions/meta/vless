@@ -169,7 +169,7 @@ proxies:
   - {"name":"🇨🇿CZ | 🔴 | vless | @V2pedia | 10","type":"vless","server":"194.182.79.242","port":45831,"udp":false,"uuid":"38ed1e08-b164-43b8-b9cb-6cf869bb0964","tls":true,"network":"grpc","client-fingerprint":"chrome","grpc-opts":{"grpc-service-name":"ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048"}}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 0","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"8a20ecfe-6a72-4e88-aa2c-65a9e43a8512","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 1","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"4b75a44d-3c91-461e-b5a0-6060ac8aff68","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🚩CF | 🔴 | vless | @Lockey_vpn | 3","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"f13e82ba-618f-4b5e-badf-c87d79217639","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 3","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"f13e82ba-618f-4b5e-badf-c87d79217639","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @Lockey_vpn | 7","type":"vless","server":"alfred.dnss-mobile.ir","port":443,"udp":false,"uuid":"c2a1fe98-5a25-4173-be3e-9fe9c7591484","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"alfred.dnss-mobile.ir","ws-opts":{"path":"/alfred?ed=2048","headers":{"host":"alfred.dnss-mobile.ir"}}}
   - {"name":"🚩CF | 🔴 | vless | @Lockey_vpn | 8","type":"vless","server":"104.17.148.22","port":8880,"udp":false,"uuid":"2e56a2e4-d8ac-4990-843c-d813e889fcbd","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | vless | @Lockey_vpn | 9","type":"vless","server":"104.17.148.22","port":8880,"udp":false,"uuid":"a85962e7-4c37-477a-a16a-892bbeea60ac","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
@@ -438,7 +438,7 @@ proxy-groups:
       - '🇨🇿CZ | 🔴 | vless | @V2pedia | 10'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 0'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 1'
-      - '🚩CF | 🔴 | vless | @Lockey_vpn | 3'
+      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 3'
       - '🇩🇪DE | 🔴 | vless | @Lockey_vpn | 7'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 8'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 9'
@@ -707,7 +707,7 @@ proxy-groups:
       - '🇨🇿CZ | 🔴 | vless | @V2pedia | 10'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 0'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 1'
-      - '🚩CF | 🔴 | vless | @Lockey_vpn | 3'
+      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 3'
       - '🇩🇪DE | 🔴 | vless | @Lockey_vpn | 7'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 8'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 9'
@@ -975,7 +975,7 @@ proxy-groups:
       - '🇨🇿CZ | 🔴 | vless | @V2pedia | 10'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 0'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 1'
-      - '🚩CF | 🔴 | vless | @Lockey_vpn | 3'
+      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 3'
       - '🇩🇪DE | 🔴 | vless | @Lockey_vpn | 7'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 8'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 9'

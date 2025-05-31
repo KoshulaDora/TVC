@@ -3678,6 +3678,15 @@
             "logo": null
         },
         "type": "vless",
+        "config": "vless:\/\/01be6498-eb5c-42c3-a84c-71879900f037@212.16.71.254:80?type=tcp&headerType=http&path=%2F&security=none#🇮🇷IR%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%200"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
+        "type": "vless",
         "config": "vless:\/\/477d2cef-56a3-44ec-a6a1-85050dda1cf6@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=Telegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia&sni=footlo.argha-v2pedia.monster#❔XX%20|%20🔴%20|%20vless%20|%20@vpn_go67%20|%200"
     },
     {

@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | 🔴 | vless | @ipV2Ray | 6",
+                "❔XX | 🔴 | vless | @ipV2Ray | 6",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 9",
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 9",
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
@@ -125,18 +125,18 @@
                 "❔XX | 🔴 | vless | @MTConfig | 4",
                 "❔XX | 🟢 | vless | @DailyV2RY | 232",
                 "❔XX | 🟢 | vless | @DailyV2RY | 233",
-                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 234",
+                "❔XX | 🟢 | vless | @DailyV2RY | 234",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 235",
-                "❔XX | 🟢 | vless | @DailyV2RY | 236",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 236",
                 "❔XX | 🟢 | vless | @DailyV2RY | 237",
-                "❔XX | 🟢 | vless | @DailyV2RY | 238",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 238",
                 "❔XX | 🟢 | vless | @DailyV2RY | 239",
                 "❔XX | 🟢 | vless | @DailyV2RY | 240",
                 "❔XX | 🟢 | vless | @DailyV2RY | 241",
-                "❔XX | 🟢 | vless | @DailyV2RY | 242",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 242",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 243",
                 "❔XX | 🟢 | vless | @DailyV2RY | 244",
-                "❔XX | 🟢 | vless | @DailyV2RY | 245",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 245",
                 "❔XX | 🟢 | vless | @DailyV2RY | 246",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 247",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 1",
@@ -172,7 +172,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | 🔴 | vless | @ipV2Ray | 6",
+                "❔XX | 🔴 | vless | @ipV2Ray | 6",
                 "🇩🇪DE | 🟢 | vless | @ipV2Ray | 9",
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 9",
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
@@ -191,18 +191,18 @@
                 "❔XX | 🔴 | vless | @MTConfig | 4",
                 "❔XX | 🟢 | vless | @DailyV2RY | 232",
                 "❔XX | 🟢 | vless | @DailyV2RY | 233",
-                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 234",
+                "❔XX | 🟢 | vless | @DailyV2RY | 234",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 235",
-                "❔XX | 🟢 | vless | @DailyV2RY | 236",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 236",
                 "❔XX | 🟢 | vless | @DailyV2RY | 237",
-                "❔XX | 🟢 | vless | @DailyV2RY | 238",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 238",
                 "❔XX | 🟢 | vless | @DailyV2RY | 239",
                 "❔XX | 🟢 | vless | @DailyV2RY | 240",
                 "❔XX | 🟢 | vless | @DailyV2RY | 241",
-                "❔XX | 🟢 | vless | @DailyV2RY | 242",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 242",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 243",
                 "❔XX | 🟢 | vless | @DailyV2RY | 244",
-                "❔XX | 🟢 | vless | @DailyV2RY | 245",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 245",
                 "❔XX | 🟢 | vless | @DailyV2RY | 246",
                 "🇩🇪DE | 🟢 | vless | @DailyV2RY | 247",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 1",
@@ -254,7 +254,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ipV2Ray | 6",
+            "tag": "❔XX | 🔴 | vless | @ipV2Ray | 6",
             "type": "vless",
             "server": "www.speedtest-divar.ir",
             "server_port": 443,
@@ -847,7 +847,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 234",
+            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 234",
             "type": "vless",
             "server": "v10.vxlimir.com",
             "server_port": 1370,
@@ -905,7 +905,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 236",
+            "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 236",
             "type": "vless",
             "server": "v07.vxlimir.com",
             "server_port": 1370,
@@ -963,7 +963,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 238",
+            "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 238",
             "type": "vless",
             "server": "v02.vxlimir.com",
             "server_port": 1370,
@@ -1079,7 +1079,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 242",
+            "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 242",
             "type": "vless",
             "server": "v27.vxlimir.com",
             "server_port": 1370,
@@ -1166,7 +1166,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 245",
+            "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 245",
             "type": "vless",
             "server": "v18.vxlimir.com",
             "server_port": 1370,

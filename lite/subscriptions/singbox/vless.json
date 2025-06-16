@@ -114,7 +114,7 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🔴 | vless | @ipV2Ray | 7",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 24",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 25",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 1",
@@ -131,8 +131,8 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 0",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 123",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 124",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 131",
+                "❔XX | 🔴 | vless | @prrofile_purple | 132",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @customv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 7",
@@ -181,7 +181,7 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🔴 | vless | @ipV2Ray | 7",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 24",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 25",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 1",
@@ -198,8 +198,8 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 0",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 123",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 124",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 131",
+                "❔XX | 🔴 | vless | @prrofile_purple | 132",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @customv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 7",
@@ -446,7 +446,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
@@ -815,45 +815,31 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 123",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 131",
             "type": "vless",
-            "server": "zula.ir",
-            "server_port": 8880,
-            "uuid": "TELEGRAM_JOKERRVPN__JokerrVPN",
+            "server": "ns.cloudflare.com",
+            "server_port": 2086,
+            "uuid": "de137988-f3c5-4635-a7cc-f96989a615e1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN",
-                "headers": {
-                    "Host": "zula.ir"
-                }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 124",
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 132",
             "type": "vless",
-            "server": "speedtest.ir",
-            "server_port": 8880,
-            "uuid": "TELEGRAM_JOKERRVPN__JokerrVPN",
+            "server": "[2a01:4f8:1c1b:11e::1]",
+            "server_port": 23515,
+            "uuid": "TELEGRAM-ServerNett",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN",
-                "headers": {
-                    "Host": "speedtest.ir"
-                }
             }
         },
         {

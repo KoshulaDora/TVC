@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇳🇱NL | 🟢 | vless | @Parsashonam | 11",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 12",
+                "🇨🇦CA | 🔴 | vless | @Parsashonam | 9",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 10",
                 "🇨🇦CA | 🔴 | vless | @v2_team | 1",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
@@ -141,6 +141,7 @@
                 "🇮🇷IR | 🔴 | vless | @customv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 8",
+                "🇮🇷IR | 🔴 | vless | @ServerNett | 5",
                 "🇮🇷IR | 🔴 | vless | @ServerNett | 6",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -154,13 +155,12 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
                 "🇮🇷IR | 🔴 | vless | @free1_vpn | 6",
                 "🇮🇷IR | 🔴 | vless | @free1_vpn | 7",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🇸🇬SG | 🔴 | vless | @FreakConfig | 7",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
-                "🇳🇱NL | 🔴 | vless | @flyv2ray | 10",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
+                "🇮🇷IR | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 8",
@@ -177,8 +177,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇳🇱NL | 🟢 | vless | @Parsashonam | 11",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 12",
+                "🇨🇦CA | 🔴 | vless | @Parsashonam | 9",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 10",
                 "🇨🇦CA | 🔴 | vless | @v2_team | 1",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
@@ -212,6 +212,7 @@
                 "🇮🇷IR | 🔴 | vless | @customv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 8",
+                "🇮🇷IR | 🔴 | vless | @ServerNett | 5",
                 "🇮🇷IR | 🔴 | vless | @ServerNett | 6",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -225,13 +226,12 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
                 "🇮🇷IR | 🔴 | vless | @free1_vpn | 6",
                 "🇮🇷IR | 🔴 | vless | @free1_vpn | 7",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🇸🇬SG | 🔴 | vless | @FreakConfig | 7",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
-                "🇳🇱NL | 🔴 | vless | @flyv2ray | 10",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
+                "🇮🇷IR | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 8",
@@ -264,40 +264,25 @@
             "type": "dns"
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @Parsashonam | 11",
+            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 9",
             "type": "vless",
-            "server": "193.124.49.40",
-            "server_port": 443,
-            "uuid": "Parsashonam-254",
-            "flow": "xtls-rprx-vision",
+            "server": "104.23.126.162",
+            "server_port": 2052,
+            "uuid": "Parsashonam-255",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "miro.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LvhboN12zGLBdlvVLEhSbl0ad_lijW1-D_TTP5n9UlE",
-                    "short_id": "360557aa"
-                }
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 12",
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 10",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-254",
+            "uuid": "Parsashonam-255",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1021,6 +1006,20 @@
             }
         },
         {
+            "tag": "🇮🇷IR | 🔴 | vless | @ServerNett | 5",
+            "type": "vless",
+            "server": "62.60.221.201",
+            "server_port": 43496,
+            "uuid": "ServerNett",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇮🇷IR | 🔴 | vless | @ServerNett | 6",
             "type": "vless",
             "server": "62.60.221.201",
@@ -1312,11 +1311,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
             "type": "vless",
-            "server": "172.67.11.138",
+            "server": "104.22.22.78",
             "server_port": 80,
-            "uuid": "b55ec078-3b17-4ed1-a697-71f464cdcaaa",
+            "uuid": "cba0b35b-8943-4c70-a864-9f78145b7897",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1328,7 +1327,7 @@
                 "type": "ws",
                 "path": "\/?ed=2560",
                 "headers": {
-                    "Host": "172.67.11.138"
+                    "Host": "agolna.mahsaamini.dpdns.org"
                 }
             }
         },
@@ -1368,76 +1367,17 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @flyv2ray | 10",
+            "tag": "🇮🇷IR | 🔴 | vless | @flyv2ray | 11",
             "type": "vless",
-            "server": "45.131.209.44",
-            "server_port": 80,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "server": "mr51.iranman.shop",
+            "server_port": 11090,
+            "uuid": "0c2f233c-5ec1-4dd1-840b-354fa503d329",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/TELEGRAM:@MARAMBASHI_MARAMBASHI_MARAMBASHI\/?ed=2560",
-                "headers": {
-                    "Host": "45.131.209.44"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
-            "type": "vless",
-            "server": "104.21.69.44",
-            "server_port": 2053,
-            "uuid": "7d05d766-4f45-455e-b789-70253ec34b8f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ah12.ai351.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/containers\/de\/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512",
-                "headers": {
-                    "Host": "ah12.ai351.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
-            "type": "vless",
-            "server": "151.101.64.155",
-            "server_port": 80,
-            "uuid": "1dbe95b0-a4c2-4c80-9e86-dfcf8e00128f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6",
-                "headers": {
-                    "Host": "151.101.64.155"
-                }
             }
         },
         {
@@ -1452,6 +1392,27 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 6",
+            "type": "vless",
+            "server": "151.101.64.155",
+            "server_port": 80,
+            "uuid": "fadebdad-95ba-4f69-a16a-b0f0b7845483",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6",
+                "headers": {
+                    "Host": "151.101.64.155"
+                }
             }
         },
         {

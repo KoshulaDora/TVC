@@ -404,7 +404,8 @@
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 1",
-                "❔XX | 🔴 | vless | @VpnSkyy | 2"
+                "❔XX | 🔴 | vless | @VpnSkyy | 2",
+                "❔XX | 🔴 | vless | @VpnSkyy | 3"
             ]
         },
         {
@@ -709,7 +710,8 @@
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 1",
-                "❔XX | 🔴 | vless | @VpnSkyy | 2"
+                "❔XX | 🔴 | vless | @VpnSkyy | 2",
+                "❔XX | 🔴 | vless | @VpnSkyy | 3"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -7970,6 +7972,37 @@
             "server": "web.bbv2ry.pics",
             "server_port": 443,
             "uuid": "ca544ad7-181d-408f-8f95-8ce7c51cd399",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "Skyy.bbv2ry.pics",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "Skyy.bbv2ry.pics"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @VpnSkyy | 3",
+            "type": "vless",
+            "server": "web.bbv2ry.pics",
+            "server_port": 443,
+            "uuid": "c3d41415-59cb-40eb-b721-ffa87f95e454",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {

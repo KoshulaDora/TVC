@@ -221,7 +221,7 @@
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 10",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 11",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 12",
-                "🇺🇸US | 🔴 | vless | @V2rayNGn | 13",
+                "🇮🇹IT | 🔴 | vless | @V2rayNGn | 13",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 14",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 0",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 1",
@@ -318,8 +318,8 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 6",
                 "🇮🇹IT | 🔴 | vless | @vless_vmess | 7",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 8",
-                "🇮🇹IT | 🔴 | vless | @vless_vmess | 9",
-                "🇮🇹IT | 🔴 | vless | @vless_vmess | 10",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 9",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 10",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 12",
                 "🚩CF | 🔴 | vless | @vless_vmess | 14",
                 "🚩CF | 🔴 | vless | @vless_vmess | 15",
@@ -347,6 +347,7 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🚩CF | 🔴 | vless | @Capoit | 0",
+                "🇩🇪DE | 🔴 | vless | @flyv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 5",
@@ -498,7 +499,7 @@
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 10",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 11",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 12",
-                "🇺🇸US | 🔴 | vless | @V2rayNGn | 13",
+                "🇮🇹IT | 🔴 | vless | @V2rayNGn | 13",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 14",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 0",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 1",
@@ -595,8 +596,8 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 6",
                 "🇮🇹IT | 🔴 | vless | @vless_vmess | 7",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 8",
-                "🇮🇹IT | 🔴 | vless | @vless_vmess | 9",
-                "🇮🇹IT | 🔴 | vless | @vless_vmess | 10",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 9",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 10",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 12",
                 "🚩CF | 🔴 | vless | @vless_vmess | 14",
                 "🚩CF | 🔴 | vless | @vless_vmess | 15",
@@ -624,6 +625,7 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🚩CF | 🔴 | vless | @Capoit | 0",
+                "🇩🇪DE | 🔴 | vless | @flyv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 5",
@@ -3379,7 +3381,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2rayNGn | 13",
+            "tag": "🇮🇹IT | 🔴 | vless | @V2rayNGn | 13",
             "type": "vless",
             "server": "cdnf.ten10rocket.top",
             "server_port": 80,
@@ -5645,7 +5647,7 @@
             }
         },
         {
-            "tag": "🇮🇹IT | 🔴 | vless | @vless_vmess | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 9",
             "type": "vless",
             "server": "NUFiLTER.fastly80.hosting-ip.com",
             "server_port": 80,
@@ -5666,7 +5668,7 @@
             }
         },
         {
-            "tag": "🇮🇹IT | 🔴 | vless | @vless_vmess | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 10",
             "type": "vless",
             "server": "NUFiLTER.fastly80-3.hosting-ip.com",
             "server_port": 80,
@@ -6417,6 +6419,20 @@
                 "headers": {
                     "Host": "S4.MaiN-2.WORkErS.Dev"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @flyv2ray | 0",
+            "type": "vless",
+            "server": "91.99.160.210",
+            "server_port": 443,
+            "uuid": "2eaef053-5fd6-4def-b234-d760690355ff",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {

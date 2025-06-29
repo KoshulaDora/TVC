@@ -106,9 +106,9 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 3",
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 4",
-                "🇨🇦CA | 🔴 | vless | @v2_team | 1",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 4",
+                "🇺🇸US | 🔴 | vless | @v2_team | 1",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇳IN | 🔴 | vless | @XsV2ray | 4",
@@ -178,9 +178,9 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 3",
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 4",
-                "🇨🇦CA | 🔴 | vless | @v2_team | 1",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 4",
+                "🇺🇸US | 🔴 | vless | @v2_team | 1",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇳IN | 🔴 | vless | @XsV2ray | 4",
@@ -266,7 +266,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 2086,
@@ -287,7 +287,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 4",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 2086,
@@ -308,7 +308,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2_team | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @v2_team | 1",
             "type": "vless",
             "server": "ns.cloudflare.com",
             "server_port": 2086,

@@ -166,7 +166,7 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
                 "🚩CF | 🔴 | vless | @ARv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 1",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 2",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 4",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 6",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 8",
@@ -282,7 +282,7 @@
                 "🇨🇦CA | 🔴 | vless | @prrofile_purple | 104",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 106",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 107",
-                "🇨🇦CA | 🔴 | vless | @prrofile_purple | 108",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 108",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 109",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 111",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
@@ -302,7 +302,8 @@
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 16",
                 "🚩CF | 🔴 | vless | @vmessorg | 17",
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 18",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 0",
+                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 7",
@@ -517,7 +518,7 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
                 "🚩CF | 🔴 | vless | @ARv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 1",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 2",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 4",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 6",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 8",
@@ -633,7 +634,7 @@
                 "🇨🇦CA | 🔴 | vless | @prrofile_purple | 104",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 106",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 107",
-                "🇨🇦CA | 🔴 | vless | @prrofile_purple | 108",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 108",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 109",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 111",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
@@ -653,7 +654,8 @@
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 16",
                 "🚩CF | 🔴 | vless | @vmessorg | 17",
                 "🇩🇪DE | 🔴 | vless | @vmessorg | 18",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 0",
+                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 7",
@@ -2245,7 +2247,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 2",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -4676,7 +4678,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @prrofile_purple | 108",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 108",
             "type": "vless",
             "server": "199.232.214.172",
             "server_port": 80,
@@ -5050,7 +5052,21 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
+            "type": "vless",
+            "server": "91.99.199.137",
+            "server_port": 443,
+            "uuid": "7b6eca4c-44ae-40c6-973a-4e3b29d30803",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,

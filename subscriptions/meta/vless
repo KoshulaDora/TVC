@@ -159,15 +159,15 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @V2pedia | 5","type":"vless","server":"germany.fast.hosting-ip.com","port":80,"udp":false,"uuid":"7349bbae-4b76-4c60-aece-053b1b3fbf04","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 0","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"560c46be-d15d-4083-8fb5-c7ad5f4f24fd","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 4","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"c9541d44-150b-4c71-9e88-0071f6316e4d","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇨🇦CA | 🔴 | vless | @Lockey_vpn | 8","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"5781b499-6c56-452d-9e9f-fa43383f3b08","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 8","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"5781b499-6c56-452d-9e9f-fa43383f3b08","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 10","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"8a20ecfe-6a72-4e88-aa2c-65a9e43a8512","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇨🇦CA | 🔴 | vless | @Lockey_vpn | 11","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"4b75a44d-3c91-461e-b5a0-6060ac8aff68","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 11","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"4b75a44d-3c91-461e-b5a0-6060ac8aff68","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 13","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"f13e82ba-618f-4b5e-badf-c87d79217639","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @Lockey_vpn | 17","type":"vless","server":"alfred.dnss-mobile.ir","port":443,"udp":false,"uuid":"c2a1fe98-5a25-4173-be3e-9fe9c7591484","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"alfred.dnss-mobile.ir","ws-opts":{"path":"/alfred?ed=2048","headers":{"host":"alfred.dnss-mobile.ir"}}}
   - {"name":"🚩CF | 🔴 | vless | @Lockey_vpn | 18","type":"vless","server":"104.17.148.22","port":8880,"udp":false,"uuid":"2e56a2e4-d8ac-4990-843c-d813e889fcbd","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | vless | @Lockey_vpn | 19","type":"vless","server":"104.17.148.22","port":8880,"udp":false,"uuid":"a85962e7-4c37-477a-a16a-892bbeea60ac","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 0","type":"vless","server":"185.215.228.90","port":20118,"udp":false,"uuid":"142dd8b5-0b9e-4018-a961-2370d50cc435","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 1","type":"vless","server":"pishgam.sdcards.ir","port":2082,"udp":false,"uuid":"f9a66045-768f-4807-a43a-642cf9ead90d","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER?ed=2087","headers":{"host":"soltan.amirarshia.shop"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 1","type":"vless","server":"pishgam.sdcards.ir","port":2082,"udp":false,"uuid":"f9a66045-768f-4807-a43a-642cf9ead90d","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER-Telegram-@CUSTOMVPNSERVER?ed=2087","headers":{"host":"soltan.amirarshia.shop"}}}
   - {"name":"❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 3","type":"vless","server":"ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM","port":80,"udp":false,"uuid":"620e7ed5-111a-49fe-baec-f7938bb74ef3","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER","headers":{"host":"V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.CUSTOMVPNSERVER.OnlInEdowNloadERfile.com."}}}
   - {"name":"❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 6","type":"vless","server":"ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM","port":80,"udp":false,"uuid":"28585055-e1e3-4edd-be4d-92c779981139","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER","headers":{"host":"V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.CUSTOMVPNSERVER.OnlInEdowNloadERfile.com."}}}
   - {"name":"❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 8","type":"vless","server":"ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM","port":80,"udp":false,"uuid":"68c421f0-278b-4fa4-9115-d86ee41d8798","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER","headers":{"host":"V2ray-_-_-_-_-_-CUSTOMVPNSERVER.oNlineDoWnloaderFIle.com"}}}
@@ -430,15 +430,15 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @V2pedia | 5'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 0'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 4'
-      - '🇨🇦CA | 🔴 | vless | @Lockey_vpn | 8'
+      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 8'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 10'
-      - '🇨🇦CA | 🔴 | vless | @Lockey_vpn | 11'
+      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 11'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 13'
       - '🇩🇪DE | 🔴 | vless | @Lockey_vpn | 17'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 18'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 19'
       - '🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 0'
-      - '🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 1'
+      - '🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 1'
       - '❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 3'
       - '❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 6'
       - '❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 8'
@@ -701,15 +701,15 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @V2pedia | 5'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 0'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 4'
-      - '🇨🇦CA | 🔴 | vless | @Lockey_vpn | 8'
+      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 8'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 10'
-      - '🇨🇦CA | 🔴 | vless | @Lockey_vpn | 11'
+      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 11'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 13'
       - '🇩🇪DE | 🔴 | vless | @Lockey_vpn | 17'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 18'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 19'
       - '🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 0'
-      - '🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 1'
+      - '🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 1'
       - '❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 3'
       - '❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 6'
       - '❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 8'
@@ -971,15 +971,15 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @V2pedia | 5'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 0'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 4'
-      - '🇨🇦CA | 🔴 | vless | @Lockey_vpn | 8'
+      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 8'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 10'
-      - '🇨🇦CA | 🔴 | vless | @Lockey_vpn | 11'
+      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 11'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 13'
       - '🇩🇪DE | 🔴 | vless | @Lockey_vpn | 17'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 18'
       - '🚩CF | 🔴 | vless | @Lockey_vpn | 19'
       - '🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 0'
-      - '🇨🇦CA | 🔴 | vless | @CUSTOMVPNSERVER | 1'
+      - '🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 1'
       - '❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 3'
       - '❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 6'
       - '❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 8'

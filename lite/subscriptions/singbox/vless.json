@@ -137,8 +137,8 @@
                 "🇮🇹IT | 🔴 | vless | @V2rayNGn | 16",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 17",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 10",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 114",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 115",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 119",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 120",
                 "🇫🇮FI | 🔴 | vless | @vmessorg | 6",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 7",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 4",
@@ -203,8 +203,8 @@
                 "🇮🇹IT | 🔴 | vless | @V2rayNGn | 16",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 17",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 10",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 114",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 115",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 119",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 120",
                 "🇫🇮FI | 🔴 | vless | @vmessorg | 6",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 7",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 4",
@@ -932,11 +932,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 114",
+            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 119",
             "type": "vless",
-            "server": "193.151.137.17",
-            "server_port": 4411,
-            "uuid": "dbc9b263-f858-44c1-af4f-4e4ee1723490",
+            "server": "91.99.202.155",
+            "server_port": 443,
+            "uuid": "2eaef053-5fd6-4def-b234-d760690355ff",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -946,34 +946,17 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 115",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 120",
             "type": "vless",
-            "server": "104.18.26.90",
-            "server_port": 443,
-            "uuid": "42795c1c-acab-46f5-8c10-a86de801411b",
+            "server": "217.114.40.12",
+            "server_port": 80,
+            "uuid": "a9f40576-6321-491f-bb4a-7d8a762eea27",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "s3.mAIN-2.WorKeRs.Dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/iTCBmrOFrKpdwUWZ?ed",
-                "headers": {
-                    "Host": "s3.mAIN-2.WorKeRs.Dev"
-                }
             }
         },
         {

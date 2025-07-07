@@ -403,7 +403,6 @@
                 "🚩CF | 🔴 | vless | @mehrosaboran | 0",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 1",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 3",
-                "🚩CF | 🔴 | vless | @mehrosaboran | 4",
                 "🚩CF | 🔴 | vless | @nofiltering2 | 1",
                 "🚩CF | 🔴 | vless | @nofiltering2 | 2",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 4",
@@ -739,7 +738,6 @@
                 "🚩CF | 🔴 | vless | @mehrosaboran | 0",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 1",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 3",
-                "🚩CF | 🔴 | vless | @mehrosaboran | 4",
                 "🚩CF | 🔴 | vless | @nofiltering2 | 1",
                 "🚩CF | 🔴 | vless | @nofiltering2 | 2",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 4",
@@ -7631,27 +7629,6 @@
             "transport": {
                 "type": "ws",
                 "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80",
-                "headers": {
-                    "Host": "104.18.26.90"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @mehrosaboran | 4",
-            "type": "vless",
-            "server": "104.18.26.90",
-            "server_port": 80,
-            "uuid": "6f690965-3be3-43bb-9331-3ead6efb20aa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560\/?JOKERRVPNBIA_CHANEL@JOKERRVPN",
                 "headers": {
                     "Host": "104.18.26.90"
                 }

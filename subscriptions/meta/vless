@@ -344,7 +344,6 @@ proxies:
   - {"name":"🇮🇷IR | 🔴 | vless | @flyv2ray | 5","type":"vless","server":"s4.sariii.site","port":10242,"udp":false,"uuid":"ec184209-a546-4375-b77d-c6a567485d0b","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | vless | @mehrosaboran | 0","type":"vless","server":"104.18.26.90","port":80,"udp":false,"uuid":"6f690965-3be3-43bb-9331-3ead6efb20aa","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2560/?BIA_TELEGRAM@MARAMBASHI_MARAMB%4SHI_M%4RAMBASHI","headers":{"host":"sib.sibzamini.dpdns.org"}}}
   - {"name":"🚩CF | 🔴 | vless | @mehrosaboran | 1","type":"vless","server":"104.18.26.90","port":80,"udp":false,"uuid":"148709e4-402b-48dd-8892-ed39b55ea45c","tls":false,"network":"ws","client-fingerprint":"chrome","servername":"barayeiranmahsang.loseyourself.dpdns.org","ws-opts":{"path":"/?ed=2560","headers":{"host":"barayeiranmahsang.loseyourself.dpdns.org"}}}
-  - {"name":"🚩CF | 🔴 | vless | @mehrosaboran | 4","type":"vless","server":"104.18.26.90","port":80,"udp":false,"uuid":"6f690965-3be3-43bb-9331-3ead6efb20aa","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN","headers":{"host":"sib.sibzamini.dpdns.org"}}}
   - {"name":"🚩CF | 🔴 | vless | @nofiltering2 | 1","type":"vless","server":"104.18.26.90","port":80,"udp":false,"uuid":"148709e4-402b-48dd-8892-ed39b55ea45c","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2560","headers":{"host":"barayeiranmahsang.loseyourself.dpdns.org"}}}
   - {"name":"🚩CF | 🔴 | vless | @nofiltering2 | 2","type":"vless","server":"104.18.26.90","port":80,"udp":false,"uuid":"92f481b6-ad92-43e4-a683-2bb0aeaa9846","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2590","headers":{"host":"dw.alibichareh.dpdns.org"}}}
   - {"name":"🇩🇪DE | 🔴 | vless | @nofiltering2 | 4","type":"vless","server":"91.99.194.113","port":10195,"udp":false,"uuid":"913a8cd8-11ab-4d16-a6f7-c7b88d7a592e","tls":false,"network":"tcp","client-fingerprint":"chrome"}
@@ -600,7 +599,6 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 5'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 0'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 1'
-      - '🚩CF | 🔴 | vless | @mehrosaboran | 4'
       - '🚩CF | 🔴 | vless | @nofiltering2 | 1'
       - '🚩CF | 🔴 | vless | @nofiltering2 | 2'
       - '🇩🇪DE | 🔴 | vless | @nofiltering2 | 4'
@@ -856,7 +854,6 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 5'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 0'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 1'
-      - '🚩CF | 🔴 | vless | @mehrosaboran | 4'
       - '🚩CF | 🔴 | vless | @nofiltering2 | 1'
       - '🚩CF | 🔴 | vless | @nofiltering2 | 2'
       - '🇩🇪DE | 🔴 | vless | @nofiltering2 | 4'
@@ -1111,7 +1108,6 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 5'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 0'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 1'
-      - '🚩CF | 🔴 | vless | @mehrosaboran | 4'
       - '🚩CF | 🔴 | vless | @nofiltering2 | 1'
       - '🚩CF | 🔴 | vless | @nofiltering2 | 2'
       - '🇩🇪DE | 🔴 | vless | @nofiltering2 | 4'

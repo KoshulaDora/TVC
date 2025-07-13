@@ -203,7 +203,7 @@
                 "🚩CF | 🔴 | vless | @V2pedia | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 16",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 0",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 1",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 1",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 7",
@@ -284,9 +284,10 @@
                 "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 0",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 1",
                 "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 2",
-                "🚩CF | 🔴 | vless | @proxy_kafee | 0",
+                "🇩🇪DE | 🔴 | vless | @proxy_kafee | 0",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 1",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 2",
+                "🚩CF | 🔴 | vless | @proxy_kafee | 3",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
@@ -581,7 +582,6 @@
                 "❔XX | 🔴 | vless | @iP_CF | 68",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 70",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 71",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 1",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
@@ -733,7 +733,7 @@
                 "🚩CF | 🔴 | vless | @V2pedia | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 16",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 0",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 1",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 1",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 7",
@@ -814,9 +814,10 @@
                 "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 0",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 1",
                 "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 2",
-                "🚩CF | 🔴 | vless | @proxy_kafee | 0",
+                "🇩🇪DE | 🔴 | vless | @proxy_kafee | 0",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 1",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 2",
+                "🚩CF | 🔴 | vless | @proxy_kafee | 3",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
@@ -1111,7 +1112,6 @@
                 "❔XX | 🔴 | vless | @iP_CF | 68",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 70",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 71",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 1",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
@@ -3427,7 +3427,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 1",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -4953,7 +4953,38 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "193.46.81.83",
+            "server_port": 443,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "a.speedtest2028.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "headers": {
+                    "Host": "a.speedtest2028.com"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "141.101.121.243",
             "server_port": 8080,
@@ -4974,7 +5005,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "104.18.26.84",
             "server_port": 443,
@@ -5005,7 +5036,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 2",
+            "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 3",
             "type": "vless",
             "server": "104.22.22.237",
             "server_port": 443,
@@ -11622,37 +11653,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 1",
-            "type": "vless",
-            "server": "193.46.81.83",
-            "server_port": 443,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "a.speedtest2028.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "headers": {
-                    "Host": "a.speedtest2028.com"
-                }
             }
         },
         {

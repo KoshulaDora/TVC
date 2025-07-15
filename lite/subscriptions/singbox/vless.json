@@ -106,10 +106,10 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 6",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 7",
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 38",
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 39",
+                "🇺🇸US | 🔴 | vless | @EliV2ray | 6",
+                "🇺🇸US | 🔴 | vless | @EliV2ray | 7",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 38",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 39",
                 "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 7",
                 "🇱🇰LK | 🔴 | vless | @NIM_VPN_ir | 8",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
@@ -200,10 +200,10 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 6",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 7",
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 38",
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 39",
+                "🇺🇸US | 🔴 | vless | @EliV2ray | 6",
+                "🇺🇸US | 🔴 | vless | @EliV2ray | 7",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 38",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 39",
                 "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 7",
                 "🇱🇰LK | 🔴 | vless | @NIM_VPN_ir | 8",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
@@ -310,7 +310,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 6",
             "type": "vless",
             "server": "172.67.181.173",
             "server_port": 80,
@@ -331,7 +331,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 7",
             "type": "vless",
             "server": "104.21.72.109",
             "server_port": 443,
@@ -362,7 +362,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 38",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 38",
             "type": "vless",
             "server": "172.66.168.210",
             "server_port": 8080,
@@ -383,7 +383,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 39",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 39",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 8080,

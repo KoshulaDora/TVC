@@ -152,8 +152,8 @@
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 18",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 11",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 12",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 18",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 19",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 20",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇭🇰HK | 🟢 | vless | @ShadowProxy66 | 2",
@@ -179,7 +179,8 @@
                 "🇷🇺RU | 🔴 | vless | @free1_vpn | 2",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 7",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 15",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
                 "🇺🇸US | 🔴 | vless | @Capoit | 18",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 14",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
@@ -249,8 +250,8 @@
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 18",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 11",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 12",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 18",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 19",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 20",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇭🇰HK | 🟢 | vless | @ShadowProxy66 | 2",
@@ -276,7 +277,8 @@
                 "🇷🇺RU | 🔴 | vless | @free1_vpn | 2",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 7",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 15",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
                 "🇺🇸US | 🔴 | vless | @Capoit | 18",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 14",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
@@ -1364,7 +1366,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 18",
             "type": "vless",
             "server": "104.16.243.59",
             "server_port": 443,
@@ -1395,11 +1397,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 20",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 19",
             "type": "vless",
-            "server": "sn.lunarmc.ir",
-            "server_port": 8082,
-            "uuid": "c5faf134-bade-4e16-96de-a33a24c51cce",
+            "server": "104.16.69.162",
+            "server_port": 8880,
+            "uuid": "e9979910-79d1-4621-a93c-b2a579c44ba7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1408,11 +1410,11 @@
                 "max_streams": 32
             },
             "transport": {
-                "type": "grpc",
-                "service_name": "sn.lunarmc.ir",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
+                "type": "ws",
+                "path": "\/fgvtHUpS6R8Rv8s5?ed=2560",
+                "headers": {
+                    "Host": "104.16.69.162"
+                }
             }
         },
         {
@@ -1940,7 +1942,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
             "type": "vless",
             "server": "web.xhamster.biz.id",
             "server_port": 443,
@@ -1967,6 +1969,27 @@
                 "path": "\/Free-CF-Proxy-AT4",
                 "headers": {
                     "Host": "web.xhamster.biz.id"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
+            "type": "vless",
+            "server": "sweet-combination.seotoolsforyou.co.uk",
+            "server_port": 80,
+            "uuid": "05020a61-3c0c-4ead-b256-7851ff905a75",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "sweet-combination.seotoolsforyou.co.uk"
                 }
             }
         },

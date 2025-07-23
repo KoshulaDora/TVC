@@ -169,7 +169,7 @@ proxies:
   - {"name":"🇹🇷TR | 🔴 | vless | @ShadowProxy66 | 4","type":"vless","server":"62.3.12.185","port":443,"udp":false,"uuid":"75fde681-ec64-4654-86fa-30732e8e179c","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"NGINX-Z.pages.DEV","ws-opts":{"path":"/","headers":{"host":"nginx-z.pages.dev"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @v2ray_swhil | 43","type":"vless","server":"www.speedtest.net","port":8443,"udp":false,"uuid":"a4682305-d2dc-4d1b-b753-30565a511ded","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com","ws-opts":{"path":"/Telegram,VPNCUSTOMIZE?ed=2480","headers":{"host":"Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com"}}}
   - {"name":"🇷🇺RU | 🔴 | vless | @v2ray1_ng | 4","type":"vless","server":"213.183.41.63","port":443,"udp":true,"uuid":"3c631fef-c28c-4dfe-aacc-9e67ace7d5b3","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"skyroom.online","grpc-opts":{"grpc-service-name":"free"},"reality-opts":{"public-key":"9tNnOU3bIHtyZfWaPv1J1ns78jDfzCdh6dRLjhQGlX8","short-id":"1f"}}
-  - {"name":"🇨🇦CA | 🔴 | vless | @vless_vmess | 14","type":"vless","server":"172.67.187.170","port":443,"udp":false,"uuid":"7781631b-b5d1-4643-9ba4-f58b759fb874","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"kachiina.thelastronin.cloudns.org","ws-opts":{"path":"/","headers":{"host":"kachiina.thelastronin.cloudns.org"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @vless_vmess | 14","type":"vless","server":"172.67.187.170","port":443,"udp":false,"uuid":"7781631b-b5d1-4643-9ba4-f58b759fb874","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"kachiina.thelastronin.cloudns.org","ws-opts":{"path":"/","headers":{"host":"kachiina.thelastronin.cloudns.org"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @vless_vmess | 15","type":"vless","server":"104.17.214.22","port":443,"udp":false,"uuid":"01842c9c-d03c-4765-a950-5da4b096ee74","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"SAEEd-9j2.pAGEs.dEV","ws-opts":{"path":"/Telegram-@proxy_mtm-Telegram-@proxy_mtm-Telegram-@proxy_mtm?ed=2560","headers":{"host":"SaEED-9j2.paGes.deV"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 17","type":"vless","server":"172.67.208.49","port":80,"udp":false,"uuid":"6f690965-3be3-43bb-9331-3ead6efb20aa","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2560","headers":{"host":"sib.sibzamini.dpdns.org"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18","type":"vless","server":"104.16.103.250","port":80,"udp":false,"uuid":"1f431db3-1918-4e7b-a855-c93485e11694","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2560","headers":{"host":"pari.parinazz.dpdns.org"}}}
@@ -254,7 +254,7 @@ proxy-groups:
       - '🇹🇷TR | 🔴 | vless | @ShadowProxy66 | 4'
       - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 43'
       - '🇷🇺RU | 🔴 | vless | @v2ray1_ng | 4'
-      - '🇨🇦CA | 🔴 | vless | @vless_vmess | 14'
+      - '🇺🇸US | 🔴 | vless | @vless_vmess | 14'
       - '🇺🇸US | 🔴 | vless | @vless_vmess | 15'
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 17'
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18'
@@ -339,7 +339,7 @@ proxy-groups:
       - '🇹🇷TR | 🔴 | vless | @ShadowProxy66 | 4'
       - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 43'
       - '🇷🇺RU | 🔴 | vless | @v2ray1_ng | 4'
-      - '🇨🇦CA | 🔴 | vless | @vless_vmess | 14'
+      - '🇺🇸US | 🔴 | vless | @vless_vmess | 14'
       - '🇺🇸US | 🔴 | vless | @vless_vmess | 15'
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 17'
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18'
@@ -423,7 +423,7 @@ proxy-groups:
       - '🇹🇷TR | 🔴 | vless | @ShadowProxy66 | 4'
       - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 43'
       - '🇷🇺RU | 🔴 | vless | @v2ray1_ng | 4'
-      - '🇨🇦CA | 🔴 | vless | @vless_vmess | 14'
+      - '🇺🇸US | 🔴 | vless | @vless_vmess | 14'
       - '🇺🇸US | 🔴 | vless | @vless_vmess | 15'
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 17'
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18'

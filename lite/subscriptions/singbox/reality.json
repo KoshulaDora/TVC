@@ -110,7 +110,7 @@
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 17",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 18",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 9",
-                "🇷🇺RU | 🟢 | vless | @v2rayngvpn | 17",
+                "🇦🇪AE | 🔴 | vless | @v2rayngvpn | 19",
                 "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 2",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇷🇺RU | 🔴 | vless | @free1_vpn | 3",
@@ -131,7 +131,7 @@
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 17",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 18",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 9",
-                "🇷🇺RU | 🟢 | vless | @v2rayngvpn | 17",
+                "🇦🇪AE | 🔴 | vless | @v2rayngvpn | 19",
                 "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 2",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇷🇺RU | 🔴 | vless | @free1_vpn | 3",
@@ -294,11 +294,11 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | @v2rayngvpn | 17",
+            "tag": "🇦🇪AE | 🔴 | vless | @v2rayngvpn | 19",
             "type": "vless",
-            "server": "a.ru.maviks.ru",
-            "server_port": 443,
-            "uuid": "04bd2301-8fea-462f-b74b-e244c514135d",
+            "server": "91.98.21.58",
+            "server_port": 18606,
+            "uuid": "3e74ce19-6d73-4194-f542-f17072850e7e",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -308,7 +308,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "maviks.ru",
+                "server_name": "www.cdn77.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -317,9 +317,16 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ",
-                    "short_id": "0f917152a871e9c0"
+                    "public_key": "9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew",
+                    "short_id": ""
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {

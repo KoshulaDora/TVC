@@ -107,19 +107,19 @@
             "outbounds": [
                 "URL-TEST",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 21",
+                "🇨🇦CA | 🔴 | vless | @Parsashonam | 21",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 22",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🟢 | vless | @v2_team | 1",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 8",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 9",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 8",
+                "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 9",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 28",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 29",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 8",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 17",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 18",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 9",
@@ -209,19 +209,19 @@
             "type": "urltest",
             "outbounds": [
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 21",
+                "🇨🇦CA | 🔴 | vless | @Parsashonam | 21",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 22",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🟢 | vless | @v2_team | 1",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 8",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 9",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 8",
+                "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 9",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 28",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 29",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 8",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 17",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 18",
                 "🇳🇱NL | 🔴 | vless | @shh_proxy | 9",
@@ -347,7 +347,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 21",
+            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 21",
             "type": "vless",
             "server": "172.66.168.210",
             "server_port": 8080,
@@ -432,7 +432,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 8",
             "type": "vless",
             "server": "104.21.32.1",
             "server_port": 2096,
@@ -463,7 +463,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 9",
+            "tag": "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 9",
             "type": "vless",
             "server": "141.101.121.243",
             "server_port": 8080,
@@ -633,7 +633,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,

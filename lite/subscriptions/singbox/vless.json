@@ -111,8 +111,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 17",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 18",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 0",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 9",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 10",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 9",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 10",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
@@ -173,6 +173,7 @@
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 5",
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 15",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 27",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 28",
                 "🇳🇱NL | 🔴 | vless | @flyv2ray | 8",
@@ -201,8 +202,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 17",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 18",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 0",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 9",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 10",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 9",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 10",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
@@ -263,6 +264,7 @@
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 5",
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 15",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 27",
                 "🇨🇿CZ | 🔴 | vless | @Capoit | 28",
                 "🇳🇱NL | 🔴 | vless | @flyv2ray | 8",
@@ -408,7 +410,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 9",
             "type": "vless",
             "server": "dns-serverall-planfree.kipa2.ir",
             "server_port": 2052,
@@ -422,7 +424,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 10",
+            "tag": "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 10",
             "type": "vless",
             "server": "104.21.32.1",
             "server_port": 2096,
@@ -1758,6 +1760,27 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
+            "type": "vless",
+            "server": "crazy-identity.oneeat.co",
+            "server_port": 80,
+            "uuid": "64d6d0d4-3706-4837-b154-cda2816adcc5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "crazy-identity.oneeat.co"
+                }
             }
         },
         {

@@ -162,7 +162,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 1",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 2",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 3",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 4",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 4",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 7",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 8",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 9",
@@ -492,7 +492,7 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
-                "🇨🇦CA | 🔴 | vless | @proxystore11 | 4",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
@@ -510,7 +510,6 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇸🇬SG | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 13",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
                 "🇬🇧GB | 🔴 | vless | @Capoit | 0",
                 "🇺🇸US | 🔴 | vless | @Capoit | 1",
                 "🇺🇸US | 🔴 | vless | @Capoit | 2",
@@ -675,7 +674,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 1",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 2",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 3",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 4",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 4",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 7",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 8",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 9",
@@ -1005,7 +1004,7 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 2",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 3",
-                "🇨🇦CA | 🔴 | vless | @proxystore11 | 4",
+                "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
@@ -1023,7 +1022,6 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇸🇬SG | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 13",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
                 "🇬🇧GB | 🔴 | vless | @Capoit | 0",
                 "🇺🇸US | 🔴 | vless | @Capoit | 1",
                 "🇺🇸US | 🔴 | vless | @Capoit | 2",
@@ -2495,7 +2493,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -10184,7 +10182,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxystore11 | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 2087,
@@ -10645,37 +10643,6 @@
                 "path": "\/@rayan_config",
                 "headers": {
                     "Host": "rAyAn-12.LeIlA.DpDnS.OrG"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 14",
-            "type": "vless",
-            "server": "freevpn.xhamster.biz.id",
-            "server_port": 443,
-            "uuid": "aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "freevpn.xhamster.biz.id",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Free-CF-Proxy-AU11",
-                "headers": {
-                    "Host": "freevpn.xhamster.biz.id"
                 }
             }
         },

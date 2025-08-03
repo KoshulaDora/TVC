@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | 🔴 | vless | @v2_team | 3",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 4",
+                "🇩🇪DE | 🔴 | vless | @v2_team | 5",
                 "❔XX | 🔴 | vless | @customv2ray | 36",
                 "🇫🇷FR | 🟢 | vless | @ServerNett | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 14",
@@ -125,8 +125,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | 🔴 | vless | @v2_team | 3",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 4",
+                "🇩🇪DE | 🔴 | vless | @v2_team | 5",
                 "❔XX | 🔴 | vless | @customv2ray | 36",
                 "🇫🇷FR | 🟢 | vless | @ServerNett | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 14",
@@ -160,7 +160,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2_team | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | @v2_team | 4",
             "type": "vless",
             "server": "gr.globalunlimitedinternet.xyz",
             "server_port": 1911,
@@ -196,7 +196,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2_team | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @v2_team | 5",
             "type": "vless",
             "server": "gr.globalunlimitedinternet.xyz",
             "server_port": 1911,

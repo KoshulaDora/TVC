@@ -122,6 +122,8 @@
                 "🇩🇪DE | 🟢 | vmess | @prrofile_purple | 135",
                 "🇩🇪DE | 🟢 | vmess | @prrofile_purple | 149",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 0",
+                "🇭🇰HK | 🟢 | vmess | @ConfigsHUB | 8",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -156,6 +158,8 @@
                 "🇩🇪DE | 🟢 | vmess | @prrofile_purple | 135",
                 "🇩🇪DE | 🟢 | vmess | @prrofile_purple | 149",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 0",
+                "🇭🇰HK | 🟢 | vmess | @ConfigsHUB | 8",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -464,6 +468,47 @@
             "server": "customers.tele-shop-too.studio",
             "server_port": 33203,
             "uuid": "eaae52d7-bc1a-4979-bd66-b6b428107173",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇭🇰HK | 🟢 | vmess | @ConfigsHUB | 8",
+            "type": "vmess",
+            "server": "176.98.181.37",
+            "server_port": 58013,
+            "uuid": "b1277f11-71b0-4a44-9f52-07c6c3266939",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15",
+            "type": "vmess",
+            "server": "live.theworldwidewolf.com",
+            "server_port": 80,
+            "uuid": "64718ae6-1877-4268-8614-64ef66a7a351",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,

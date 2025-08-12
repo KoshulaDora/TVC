@@ -108,6 +108,7 @@
                 "URL-TEST",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 0",
+                "🇬🇧GB | 🟢 | vmess | @ConfigsHUB | 14",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇵🇱PL | 🟢 | vmess | @Hope_Net | 8",
@@ -120,6 +121,7 @@
             "outbounds": [
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 0",
+                "🇬🇧GB | 🟢 | vmess | @ConfigsHUB | 14",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇵🇱PL | 🟢 | vmess | @Hope_Net | 8",
@@ -168,6 +170,23 @@
             "server": "customers.tele-shop-too.studio",
             "server_port": 33203,
             "uuid": "eaae52d7-bc1a-4979-bd66-b6b428107173",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇬🇧GB | 🟢 | vmess | @ConfigsHUB | 14",
+            "type": "vmess",
+            "server": "51.38.64.209",
+            "server_port": 44023,
+            "uuid": "7da457da-ed0f-437d-c81d-6c35885bbea3",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,

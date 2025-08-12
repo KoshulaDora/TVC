@@ -170,7 +170,6 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "\/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=edgb.esslh.filegear-sg.me&type=ws&sni=edgb.esslh.filegear-sg.me#🇭🇰HK | 🔴 | vless | @ConfigsHUB | 15",
                 "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -264,7 +263,6 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "\/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=edgb.esslh.filegear-sg.me&type=ws&sni=edgb.esslh.filegear-sg.me#🇭🇰HK | 🔴 | vless | @ConfigsHUB | 15",
                 "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 16",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -1794,20 +1792,6 @@
                 "headers": {
                     "Host": "104.21.112.1"
                 }
-            }
-        },
-        {
-            "tag": "\/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=edgb.esslh.filegear-sg.me&type=ws&sni=edgb.esslh.filegear-sg.me#🇭🇰HK | 🔴 | vless | @ConfigsHUB | 15",
-            "type": "vless",
-            "server": "27.50.48.239",
-            "server_port": 8443,
-            "uuid": "ee6774c0-9b19-4ff1-8b30-2da4b71977e2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {

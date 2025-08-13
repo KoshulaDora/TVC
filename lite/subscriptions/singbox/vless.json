@@ -174,7 +174,8 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 4",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 16",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -269,7 +270,8 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 4",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 16",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -1839,12 +1841,26 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 16",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8443,
-            "uuid": "ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4",
+            "server": "vp1.biseda.net",
+            "server_port": 9090,
+            "uuid": "bdda4f31-3c11-4d3b-9bbe-90ff817154fb",
             "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "ru-0017.vpnvezdehod.net",
+            "server_port": 443,
+            "uuid": "fc20545c-2271-4ac1-a663-1305a9553d94",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -1853,19 +1869,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "pq-2.access.name.ng",
+                "server_name": "hls-svod.itunes.apple.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "pq-2.access.name.ng"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
+                    "short_id": "e499f276e7bd6420"
                 }
             }
         },

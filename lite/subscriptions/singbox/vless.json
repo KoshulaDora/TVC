@@ -174,8 +174,8 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 4",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 16",
-                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 17",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -270,8 +270,8 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 4",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 16",
-                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 17",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -1841,46 +1841,38 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "vp1.biseda.net",
-            "server_port": 9090,
-            "uuid": "bdda4f31-3c11-4d3b-9bbe-90ff817154fb",
+            "server": "holanx.blacklike.ir",
+            "server_port": 9008,
+            "uuid": "9b6619f7-269d-4ac7-bd9a-3a3e42aface3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "holanx.blacklike.ir"
+                }
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "ru-0017.vpnvezdehod.net",
-            "server_port": 443,
-            "uuid": "fc20545c-2271-4ac1-a663-1305a9553d94",
-            "flow": "xtls-rprx-vision",
+            "server": "104.16.157.108",
+            "server_port": 8080,
+            "uuid": "c54ba325-c1be-4845-a2e7-922b5cd211c3",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "hls-svod.itunes.apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-                    "short_id": "e499f276e7bd6420"
-                }
             }
         },
         {

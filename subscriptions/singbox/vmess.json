@@ -121,7 +121,7 @@
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 126",
                 "🇫🇮FI | 🟢 | vmess | @v2ray1_ng | 1",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 1",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 14",
+                "🚩CF | 🟢 | vmess | @ConfigsHUB | 2",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -155,7 +155,7 @@
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 126",
                 "🇫🇮FI | 🟢 | vmess | @v2ray1_ng | 1",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 1",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 14",
+                "🚩CF | 🟢 | vmess | @ConfigsHUB | 2",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -452,11 +452,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 14",
+            "tag": "🚩CF | 🟢 | vmess | @ConfigsHUB | 2",
             "type": "vmess",
-            "server": "chat.deepseek.com",
-            "server_port": 8443,
-            "uuid": "35342035-3420-4130-b120-353620313032",
+            "server": "104.21.112.1",
+            "server_port": 443,
+            "uuid": "df06fd5c-0cef-4a78-812b-f469e2bee9f9",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -469,19 +469,12 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "nl-2.stunnel.cc",
+                "server_name": "sauron2.melkore.ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ws",
-                "headers": {
-                    "Host": "nl-2.stunnel.cc"
                 }
             }
         },

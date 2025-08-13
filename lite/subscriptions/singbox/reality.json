@@ -110,10 +110,11 @@
                 "🇩🇪DE | 🔴 | vless | @v2_team | 7",
                 "🇫🇮FI | 🟢 | vless | @prrofile_purple | 141",
                 "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 4",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
                 "🇮🇹IT | 🟢 | vless | @Capoit | 24",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 25",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 8",
+                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 5",
@@ -129,10 +130,11 @@
                 "🇩🇪DE | 🔴 | vless | @v2_team | 7",
                 "🇫🇮FI | 🟢 | vless | @prrofile_purple | 141",
                 "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 4",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
                 "🇮🇹IT | 🟢 | vless | @Capoit | 24",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 25",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 8",
+                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 5",
@@ -290,11 +292,11 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "92.112.126.22",
-            "server_port": 8442,
-            "uuid": "31303020-3531-4035-b120-343920343920",
+            "server": "amazon-4.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -304,17 +306,46 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "creativecommons.org",
+                "server_name": "store.steampowered.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "safari"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA",
-                    "short_id": "59b75803"
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "109.61.16.89",
+            "server_port": 30938,
+            "uuid": "1068814a-6d43-40d9-a127-0f6b6b77ccfc",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "indeed.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE",
+                    "short_id": "9f2b1f07"
                 }
             }
         },
@@ -384,7 +415,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 8",
+            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
             "type": "vless",
             "server": "91.99.236.124",
             "server_port": 51479,

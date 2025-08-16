@@ -156,10 +156,8 @@
                 "❔XX | 🟢 | vless | @v2rayNG_Matsuri | 4",
                 "🇫🇮FI | 🔴 | vless | @v2rayNG_Matsuri | 7",
                 "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 7",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 9",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 16",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 13",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 1",
@@ -252,10 +250,8 @@
                 "❔XX | 🟢 | vless | @v2rayNG_Matsuri | 4",
                 "🇫🇮FI | 🔴 | vless | @v2rayNG_Matsuri | 7",
                 "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 7",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 9",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 16",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 13",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 1",
@@ -1869,7 +1865,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 7",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 13",
             "type": "vless",
             "server": "147.45.196.103",
             "server_port": 34045,
@@ -1898,7 +1894,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 9",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 16",
             "type": "vless",
             "server": "cp.dayhostpro.com",
             "server_port": 45655,
@@ -1924,71 +1920,6 @@
                     "public_key": "jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw",
                     "short_id": "4f"
                 }
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 14",
-            "type": "vless",
-            "server": "64.188.96.208",
-            "server_port": 34045,
-            "uuid": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
-                    "short_id": "e8ab71d0"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 16",
-            "type": "vless",
-            "server": "91.99.81.146",
-            "server_port": 8443,
-            "uuid": "5e7e9259-4633-4643-d22e-c41d72ff4bfb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cloudflare.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "X1ZcgEvOoRWwMQHDd4VOVUsVc0clHdcRKwVgjV9VvWs",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android\/Telegram,@Archive_Android",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {

@@ -111,6 +111,7 @@
                 "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 8",
                 "🇫🇮FI | 🟢 | vless | @prrofile_purple | 149",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -128,6 +129,7 @@
                 "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 8",
                 "🇫🇮FI | 🟢 | vless | @prrofile_purple | 149",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -311,6 +313,35 @@
                     "enabled": true,
                     "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
                     "short_id": "e54b5ad736ae4c38"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "cp.dayhostpro.com",
+            "server_port": 45655,
+            "uuid": "aaa3d1db-44b0-4303-9c43-ca083acbcf61",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.tradingview.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw",
+                    "short_id": "4f"
                 }
             }
         },

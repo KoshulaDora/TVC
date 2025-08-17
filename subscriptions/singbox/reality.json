@@ -110,7 +110,6 @@
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 8",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 16",
-                "🇬🇧GB | 🟢 | vless | @v2_team | 0",
                 "❔XX | 🔴 | vless | @v2_team | 2",
                 "❔XX | 🔴 | vless | @v2_team | 3",
                 "🇺🇸US | 🔴 | vless | @v2_team | 4",
@@ -154,11 +153,10 @@
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 20",
                 "❔XX | 🟢 | vless | @v2rayNG_Matsuri | 4",
                 "🇫🇮FI | 🔴 | vless | @v2rayNG_Matsuri | 7",
-                "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 0",
-                "🇰🇷KR | 🟢 | vless | @v2rayngvpn | 5",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 6",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 2",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 1",
+                "🇺🇸US | 🟢 | vless | @v2rayngvpn | 6",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 7",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 10",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 3",
@@ -208,7 +206,6 @@
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 8",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 16",
-                "🇬🇧GB | 🟢 | vless | @v2_team | 0",
                 "❔XX | 🔴 | vless | @v2_team | 2",
                 "❔XX | 🔴 | vless | @v2_team | 3",
                 "🇺🇸US | 🔴 | vless | @v2_team | 4",
@@ -252,11 +249,10 @@
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 20",
                 "❔XX | 🟢 | vless | @v2rayNG_Matsuri | 4",
                 "🇫🇮FI | 🔴 | vless | @v2rayNG_Matsuri | 7",
-                "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 0",
-                "🇰🇷KR | 🟢 | vless | @v2rayngvpn | 5",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 6",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 2",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 1",
+                "🇺🇸US | 🟢 | vless | @v2rayngvpn | 6",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 7",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 10",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 3",
@@ -430,35 +426,6 @@
                     "enabled": true,
                     "public_key": "sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8",
                     "short_id": "61e683d41fdb"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧GB | 🟢 | vless | @v2_team | 0",
-            "type": "vless",
-            "server": "51.75.162.3",
-            "server_port": 443,
-            "uuid": "32495f08-7ff1-476c-93db-5748a0fc6df1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens",
-                    "short_id": "370dd394052f2386"
                 }
             }
         },
@@ -1801,7 +1768,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 0",
+            "tag": "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 1",
             "type": "vless",
             "server": "de.vipdatacloud.com",
             "server_port": 47193,
@@ -1830,7 +1797,7 @@
             }
         },
         {
-            "tag": "🇰🇷KR | 🟢 | vless | @v2rayngvpn | 5",
+            "tag": "🇺🇸US | 🟢 | vless | @v2rayngvpn | 6",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -1859,7 +1826,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 7",
             "type": "vless",
             "server": "162.243.29.50",
             "server_port": 443,
@@ -1888,7 +1855,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 2",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 10",
             "type": "vless",
             "server": "91.107.241.250",
             "server_port": 6000,
@@ -1914,42 +1881,6 @@
                     "public_key": "aNK-4Lg53CF9JKVv7LFTAGP9Bmha0HxY6ms1emd57nQ",
                     "short_id": "243e"
                 }
-            }
-        },
-        {
-            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "65.109.204.158",
-            "server_port": 27079,
-            "uuid": "1776ba9e-8289-47bd-8b5c-080eaef9ab25",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "cYefwf19yRtaF2wcWWGx1lpQV2vszXfA47QenAazYCw",
-                    "short_id": "42"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {

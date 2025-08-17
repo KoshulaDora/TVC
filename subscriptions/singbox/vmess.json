@@ -119,14 +119,10 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 0",
+                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 0",
-                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 8",
-                "🇭🇰HK | 🟢 | vmess | @ConfigsHUB | 10",
-                "🇭🇰HK | 🟢 | vmess | @ConfigsHUB | 11",
-                "🇮🇩ID | 🟢 | vmess | @ConfigsHUB | 16",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 18",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 1",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 2",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -154,7 +150,7 @@
                 "🚩CF | 🟢 | vmess | @Hope_Net | 18",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 19",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1",
-                "🇫🇷FR | 🟢 | vmess | @FreakConfig | 7"
+                "🇫🇷FR | 🟢 | vmess | @FreakConfig | 8"
             ]
         },
         {
@@ -174,14 +170,10 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 0",
+                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 0",
-                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 8",
-                "🇭🇰HK | 🟢 | vmess | @ConfigsHUB | 10",
-                "🇭🇰HK | 🟢 | vmess | @ConfigsHUB | 11",
-                "🇮🇩ID | 🟢 | vmess | @ConfigsHUB | 16",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 18",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 1",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 2",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -209,7 +201,7 @@
                 "🚩CF | 🟢 | vmess | @Hope_Net | 18",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 19",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1",
-                "🇫🇷FR | 🟢 | vmess | @FreakConfig | 7"
+                "🇫🇷FR | 🟢 | vmess | @FreakConfig | 8"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -453,7 +445,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 0",
+            "tag": "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 1",
             "type": "vmess",
             "server": "15.204.234.200",
             "server_port": 41100,
@@ -487,79 +479,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 0",
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 1",
             "type": "vmess",
-            "server": null,
-            "server_port": 0,
-            "uuid": null,
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 8",
-            "type": "vmess",
-            "server": "s3.ipyar.org",
-            "server_port": 32020,
-            "uuid": "78b4fb57-39d7-4e9d-dd38-c9a38322bcb2",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇭🇰HK | 🟢 | vmess | @ConfigsHUB | 10",
-            "type": "vmess",
-            "server": "31.57.93.42",
-            "server_port": 478,
-            "uuid": "09142f5c-916b-4caf-9a26-c8a8a923b21f",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇭🇰HK | 🟢 | vmess | @ConfigsHUB | 11",
-            "type": "vmess",
-            "server": "31.57.93.42",
-            "server_port": 475,
-            "uuid": "09142f5c-916b-4caf-9a26-c8a8a923b21f",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇩ID | 🟢 | vmess | @ConfigsHUB | 16",
-            "type": "vmess",
-            "server": "119.235.249.154",
-            "server_port": 20086,
-            "uuid": "a067283b-3d00-4b0a-9ffb-3c184c83c089",
+            "server": "npmjs.com",
+            "server_port": 8080,
+            "uuid": "pmxnbcrrfd",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -572,18 +496,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN",
+                "path": "\/download\/cdn",
                 "headers": {
                     "Host": ""
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 18",
+            "tag": "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 2",
             "type": "vmess",
-            "server": "154.29.149.222",
+            "server": "91.99.185.216",
             "server_port": 20086,
-            "uuid": "718d0445-ef14-499b-b645-acb6cc721dcf",
+            "uuid": "7bd6a1ea-a220-4f1c-afed-6cfb8ab96ad9",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -596,7 +520,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN",
+                "path": "\/",
                 "headers": {
                     "Host": ""
                 }
@@ -1270,7 +1194,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vmess | @FreakConfig | 7",
+            "tag": "🇫🇷FR | 🟢 | vmess | @FreakConfig | 8",
             "type": "vmess",
             "server": "51.254.21.193",
             "server_port": 20086,

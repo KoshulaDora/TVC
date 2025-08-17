@@ -110,8 +110,8 @@
                 "🇺🇸US | 🔴 | vless | @v2_team | 7",
                 "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 8",
-                "🇫🇮FI | 🟢 | vless | @prrofile_purple | 149",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+                "🇬🇧GB | 🟢 | vless | @prrofile_purple | 142",
+                "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -128,8 +128,8 @@
                 "🇺🇸US | 🔴 | vless | @v2_team | 7",
                 "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 8",
-                "🇫🇮FI | 🟢 | vless | @prrofile_purple | 149",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+                "🇬🇧GB | 🟢 | vless | @prrofile_purple | 142",
+                "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -288,11 +288,40 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | @prrofile_purple | 149",
+            "tag": "🇬🇧GB | 🟢 | vless | @prrofile_purple | 142",
             "type": "vless",
-            "server": "direct2.yasharteam.com",
+            "server": "primarypin.kimjo.ir",
+            "server_port": 2083,
+            "uuid": "83cb4057-4791-407d-86ba-cf98e1e03094",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cloudflare.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "B8FswH2bq-Te2rihKSyjn5eda9Z2MLVK6pi5WCF6ZTM",
+                    "short_id": "86dfebd4b5406d7a"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "direct.yasharteam.com",
             "server_port": 443,
-            "uuid": "f4c9e871-3f00-4dd6-9a1a-d785d6c6283b",
+            "uuid": "07e1ba82-abca-49d5-a586-8881533b77a4",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -313,35 +342,6 @@
                     "enabled": true,
                     "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
                     "short_id": "e54b5ad736ae4c38"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "cp.dayhostpro.com",
-            "server_port": 45655,
-            "uuid": "aaa3d1db-44b0-4303-9c43-ca083acbcf61",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.tradingview.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw",
-                    "short_id": "4f"
                 }
             }
         },

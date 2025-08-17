@@ -111,7 +111,6 @@
                 "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 8",
                 "🇬🇧GB | 🟢 | vless | @prrofile_purple | 142",
-                "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -129,7 +128,6 @@
                 "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 8",
                 "🇬🇧GB | 🟢 | vless | @prrofile_purple | 142",
-                "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -313,35 +311,6 @@
                     "enabled": true,
                     "public_key": "B8FswH2bq-Te2rihKSyjn5eda9Z2MLVK6pi5WCF6ZTM",
                     "short_id": "86dfebd4b5406d7a"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "direct.yasharteam.com",
-            "server_port": 443,
-            "uuid": "07e1ba82-abca-49d5-a586-8881533b77a4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
-                    "short_id": "e54b5ad736ae4c38"
                 }
             }
         },

@@ -120,17 +120,15 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 114",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 11",
-                "🇮🇩ID | 🟢 | vmess | @ConfigsHUB | 12",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 0",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🇫🇮FI | 🟢 | vmess | @free1_vpn | 5",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 0",
-                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 1",
+                "🚩CF | 🟢 | vmess | @Hope_Net | 1",
+                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 2",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1",
                 "🇺🇸US | 🟢 | vmess | @FreakConfig | 4",
                 "🇫🇷FR | 🟢 | vmess | @FreakConfig | 13"
@@ -154,17 +152,15 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 114",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3",
-                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 11",
-                "🇮🇩ID | 🟢 | vmess | @ConfigsHUB | 12",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 0",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🇫🇮FI | 🟢 | vmess | @free1_vpn | 5",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 0",
-                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 1",
+                "🚩CF | 🟢 | vmess | @Hope_Net | 1",
+                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 2",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1",
                 "🇺🇸US | 🟢 | vmess | @FreakConfig | 4",
                 "🇫🇷FR | 🟢 | vmess | @FreakConfig | 13"
@@ -428,54 +424,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 11",
-            "type": "vmess",
-            "server": "45.8.146.129",
-            "server_port": 80,
-            "uuid": "0704016f-5435-4655-be6a-771a5aba52c3",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/vmess\/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇮🇩ID | 🟢 | vmess | @ConfigsHUB | 12",
-            "type": "vmess",
-            "server": "119.235.249.154",
-            "server_port": 20086,
-            "uuid": "a067283b-3d00-4b0a-9ffb-3c184c83c089",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
             "tag": "🇫🇮FI | 🟢 | vmess | @proxystore11 | 0",
             "type": "vmess",
             "server": "65.109.190.91.suupermeat.ir",
@@ -643,11 +591,11 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vmess | @free1_vpn | 5",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 0",
             "type": "vmess",
-            "server": "65.109.188.195",
-            "server_port": 32017,
-            "uuid": "c0ccdeb9-784c-4d67-b904-20dcaac9902a",
+            "server": "104.21.238.73",
+            "server_port": 2082,
+            "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -657,10 +605,17 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/github.com\/Alvin9999",
+                "headers": {
+                    "Host": "104.21.238.73"
+                }
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 0",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 1",
             "type": "vmess",
             "server": "104.26.0.114",
             "server_port": 2095,
@@ -684,7 +639,7 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vmess | @Hope_Net | 1",
+            "tag": "🇷🇺RU | 🟢 | vmess | @Hope_Net | 2",
             "type": "vmess",
             "server": "176.32.33.158",
             "server_port": 3071,

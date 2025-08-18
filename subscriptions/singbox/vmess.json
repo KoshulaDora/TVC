@@ -120,6 +120,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 107",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 9",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 0",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
@@ -154,6 +155,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 107",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 3",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 9",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 0",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
@@ -425,6 +427,33 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 9",
+            "type": "vmess",
+            "server": "raimoooooon.igram.sbs",
+            "server_port": 49597,
+            "uuid": "d500e784-4c49-43af-d8c1-9e88aef40294",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             }
         },
         {

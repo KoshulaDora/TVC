@@ -112,8 +112,6 @@
                 "🇳🇱NL | 🟢 | vless | @rxv2ray | 14",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 11",
                 "🇬🇧GB | 🟢 | vless | @prrofile_purple | 150",
-                "🇭🇷HR | 🟢 | vless | @ConfigsHUB | 19",
-                "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 9",
                 "🇷🇺RU | 🟢 | vless | @FreakConfig | 19",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 10",
@@ -133,8 +131,6 @@
                 "🇳🇱NL | 🟢 | vless | @rxv2ray | 14",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 11",
                 "🇬🇧GB | 🟢 | vless | @prrofile_purple | 150",
-                "🇭🇷HR | 🟢 | vless | @ConfigsHUB | 19",
-                "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 9",
                 "🇷🇺RU | 🟢 | vless | @FreakConfig | 19",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 10",
@@ -348,64 +344,6 @@
                     "enabled": true,
                     "public_key": "B8FswH2bq-Te2rihKSyjn5eda9Z2MLVK6pi5WCF6ZTM",
                     "short_id": "86dfebd4b5406d7a"
-                }
-            }
-        },
-        {
-            "tag": "🇭🇷HR | 🟢 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "deu246.bypassall.org",
-            "server_port": 443,
-            "uuid": "b4b8aa1f-77d2-4851-a5a4-f78886f3e997",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.bing.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
-            "type": "vless",
-            "server": "vip1.proxystore11.news",
-            "server_port": 10358,
-            "uuid": "a5816688-3c6b-465b-b4f6-54c1cdcebbce",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk",
-                    "short_id": "b373044d"
                 }
             }
         },

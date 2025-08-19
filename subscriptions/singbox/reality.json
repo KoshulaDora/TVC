@@ -136,7 +136,7 @@
                 "🇭🇺HU | 🟢 | vless | @proxy_kafee | 4",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
-                "🇭🇷HR | 🟢 | vless | @Outline_Vpn | 1",
+                "🇭🇺HU | 🟢 | vless | @Outline_Vpn | 1",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 4",
                 "🇫🇮FI | 🟢 | vless | @Outline_Vpn | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 8",
@@ -159,7 +159,6 @@
                 "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 5",
                 "🇰🇿KZ | 🟢 | vless | @v2rayngvpn | 10",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 2",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 13",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 10",
                 "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 3",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 4",
@@ -168,7 +167,7 @@
                 "🇩🇪DE | 🟢 | vless | @Capoit | 11",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 13",
                 "🇹🇷TR | 🟢 | vless | @FreakConfig | 0",
-                "🇸🇬SG | 🟢 | vless | @FreakConfig | 1",
+                "🇰🇷KR | 🟢 | vless | @FreakConfig | 1",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 6",
                 "🇳🇱NL | 🟢 | vless | @FreakConfig | 7",
                 "🇳🇱NL | 🟢 | vless | @FreakConfig | 11",
@@ -234,7 +233,7 @@
                 "🇭🇺HU | 🟢 | vless | @proxy_kafee | 4",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
-                "🇭🇷HR | 🟢 | vless | @Outline_Vpn | 1",
+                "🇭🇺HU | 🟢 | vless | @Outline_Vpn | 1",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 4",
                 "🇫🇮FI | 🟢 | vless | @Outline_Vpn | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 8",
@@ -257,7 +256,6 @@
                 "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 5",
                 "🇰🇿KZ | 🟢 | vless | @v2rayngvpn | 10",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 2",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 13",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 10",
                 "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 3",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 4",
@@ -266,7 +264,7 @@
                 "🇩🇪DE | 🟢 | vless | @Capoit | 11",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 13",
                 "🇹🇷TR | 🟢 | vless | @FreakConfig | 0",
-                "🇸🇬SG | 🟢 | vless | @FreakConfig | 1",
+                "🇰🇷KR | 🟢 | vless | @FreakConfig | 1",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 6",
                 "🇳🇱NL | 🟢 | vless | @FreakConfig | 7",
                 "🇳🇱NL | 🟢 | vless | @FreakConfig | 11",
@@ -1272,7 +1270,7 @@
             }
         },
         {
-            "tag": "🇭🇷HR | 🟢 | vless | @Outline_Vpn | 1",
+            "tag": "🇭🇺HU | 🟢 | vless | @Outline_Vpn | 1",
             "type": "vless",
             "server": "deu246.bypassall.org",
             "server_port": 443,
@@ -1953,35 +1951,6 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 13",
-            "type": "vless",
-            "server": "91.99.166.65",
-            "server_port": 80,
-            "uuid": "d449ba28-d545-474d-ad97-6e8a9fbc336b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "aider.chat",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "nuNgT0HxAJ7YZPfM5uYM_-8aDKvCmr9jQpxBUMRjJRE",
-                    "short_id": "39f0afc3"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪DE | 🔴 | vless | @proxystore11 | 10",
             "type": "vless",
             "server": "vip1.proxystore11.news",
@@ -2214,7 +2183,7 @@
             }
         },
         {
-            "tag": "🇸🇬SG | 🟢 | vless | @FreakConfig | 1",
+            "tag": "🇰🇷KR | 🟢 | vless | @FreakConfig | 1",
             "type": "vless",
             "server": "amazon-17.cristiano.name.ng",
             "server_port": 443,

@@ -113,9 +113,9 @@
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 11",
                 "🇭🇺HU | 🟢 | vless | @proxy_kafee | 11",
                 "🇷🇺RU | 🟢 | vless | @prrofile_purple | 140",
-                "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 13",
+                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
-                "🇩🇪DE | 🔴 | vless | @Capoit | 13",
+                "🇩🇪DE | 🔴 | vless | @Capoit | 12",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 17",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 13",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -135,9 +135,9 @@
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 11",
                 "🇭🇺HU | 🟢 | vless | @proxy_kafee | 11",
                 "🇷🇺RU | 🟢 | vless | @prrofile_purple | 140",
-                "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 13",
+                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
-                "🇩🇪DE | 🔴 | vless | @Capoit | 13",
+                "🇩🇪DE | 🔴 | vless | @Capoit | 12",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 17",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 13",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -383,11 +383,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 13",
+            "tag": "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "45.133.251.77",
-            "server_port": 34045,
-            "uuid": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
+            "server": "45.88.76.236",
+            "server_port": 17919,
+            "uuid": "97d3345e-107d-4712-8204-f169b7098e4d",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -397,17 +397,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me",
+                "server_name": "google.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": null
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
-                    "short_id": "e8ab71d0"
+                    "public_key": "dQVIhLg71fK2sKDXYj2jkCRcTh_tWw83bqV-5VEeyQI",
+                    "short_id": "3e88c2"
                 }
             }
         },
@@ -441,11 +441,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Capoit | 13",
+            "tag": "🇩🇪DE | 🔴 | vless | @Capoit | 12",
             "type": "vless",
             "server": "91.107.158.231",
             "server_port": 80,
-            "uuid": "c69af2a6-adbc-49e6-bb54-281b1ea18812",
+            "uuid": "087dd1f9-644a-4a4e-9659-0523c74b8c70",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {

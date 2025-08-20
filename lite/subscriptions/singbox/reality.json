@@ -109,9 +109,8 @@
                 "🇺🇸US | 🔴 | vless | @v2_team | 6",
                 "🇺🇸US | 🔴 | vless | @v2_team | 7",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 11",
-                "🇭🇺HU | 🟢 | vless | @proxy_kafee | 13",
                 "🇹🇷TR | 🟢 | vless | @Outline_Vpn | 17",
-                "🇷🇺RU | 🟢 | vless | @prrofile_purple | 148",
+                "❔XX | 🟢 | vless | @prrofile_purple | 141",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 34",
                 "❔XX | 🟢 | vless | @v2rayNG_Matsuri | 10",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
@@ -132,9 +131,8 @@
                 "🇺🇸US | 🔴 | vless | @v2_team | 6",
                 "🇺🇸US | 🔴 | vless | @v2_team | 7",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 11",
-                "🇭🇺HU | 🟢 | vless | @proxy_kafee | 13",
                 "🇹🇷TR | 🟢 | vless | @Outline_Vpn | 17",
-                "🇷🇺RU | 🟢 | vless | @prrofile_purple | 148",
+                "❔XX | 🟢 | vless | @prrofile_purple | 141",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 34",
                 "❔XX | 🟢 | vless | @v2rayNG_Matsuri | 10",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
@@ -269,35 +267,6 @@
             }
         },
         {
-            "tag": "🇭🇺HU | 🟢 | vless | @proxy_kafee | 13",
-            "type": "vless",
-            "server": "5.182.38.91",
-            "server_port": 17267,
-            "uuid": "1c7fcc38-e6be-43c5-875f-b8de2516b9f2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk",
-                    "short_id": "4ae260"
-                }
-            }
-        },
-        {
             "tag": "🇹🇷TR | 🟢 | vless | @Outline_Vpn | 17",
             "type": "vless",
             "server": "185.33.24.229",
@@ -327,11 +296,11 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | @prrofile_purple | 148",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 141",
             "type": "vless",
-            "server": "158.160.131.112",
-            "server_port": 14872,
-            "uuid": "8b79f4a9-468f-46cf-9823-ba6cfe529f75",
+            "server": "mnxexflix2348.blacklike.ir",
+            "server_port": 2065,
+            "uuid": "f8f1cf84-6abf-4c3b-bddc-f9b313ac419a",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -341,7 +310,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "yahoo.com",
+                "server_name": "www.cloudflare.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -350,8 +319,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "6b1pXPB9Wc45eeBQxz1cYefETxE_jx1jlaeFaWS1pTc",
-                    "short_id": "738a824c0bdf"
+                    "public_key": "IqSKHvETwm15L1CW3JfEA052UrEaUakJEhyUKb_9kz4",
+                    "short_id": "87606ed6cdfaa532"
                 }
             }
         },

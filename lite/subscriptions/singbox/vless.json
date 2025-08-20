@@ -116,8 +116,8 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 2",
-                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 3",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 54",
+                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 3",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 54",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 55",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -173,8 +173,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 4",
@@ -215,8 +215,8 @@
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 2",
-                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 3",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 54",
+                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 3",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 54",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 55",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
@@ -272,8 +272,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 4",
@@ -586,7 +586,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -607,7 +607,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 54",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 54",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -1863,7 +1863,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
             "server": "104.19.122.202",
             "server_port": 8880,
@@ -1877,11 +1877,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "jquery.com",
-            "server_port": 443,
-            "uuid": "5da52d2d-1ab8-48d0-8421-8354fd6ce7d3",
+            "server": "104.16.53.11",
+            "server_port": 2053,
+            "uuid": "97fc44dd-c88c-4470-8d66-1752089c0183",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1891,7 +1891,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "rAyAn-cOnFiG-05.rAyAn-iI.DnS-DyNaMiC.NeT",
+                "server_name": "frAgeU2.cpI2HIdd.eu.ORG",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1901,9 +1901,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@Rayan_Config",
+                "path": "\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
                 "headers": {
-                    "Host": "rAyAn-cOnFiG-05.rAyAn-iI.DnS-DyNaMiC.NeT"
+                    "Host": "frAgeU2.cpI2HIdd.eu.ORG"
                 }
             }
         },

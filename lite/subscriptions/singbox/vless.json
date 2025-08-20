@@ -174,7 +174,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "❔XX | 🟢 | vless | @ConfigsHUB | 19",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 4",
@@ -273,7 +273,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "❔XX | 🟢 | vless | @ConfigsHUB | 19",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 4",
@@ -672,7 +672,7 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
-            "server": "104.21.43.168",
+            "server": "172.66.40.99",
             "server_port": 443,
             "uuid": "telegram-id-Arfilter",
             "flow": "",
@@ -703,7 +703,7 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
-            "server": "172.66.40.99",
+            "server": "104.21.43.168",
             "server_port": 443,
             "uuid": "telegram-id-Arfilter",
             "flow": "",
@@ -1884,11 +1884,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @ConfigsHUB | 19",
+            "tag": "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 16",
             "type": "vless",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "babcaac-aacb-caba-cadb-bbcbaaaacbcc",
+            "server": "94.131.9.159",
+            "server_port": 8443,
+            "uuid": "a5e0c391-accd-45a7-8bb9-99ffb9b09b16",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1898,12 +1898,19 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "127.0.0.1",
+                "server_name": "94.131.9.159",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "94.131.9.159"
                 }
             }
         },

@@ -153,13 +153,12 @@
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 34",
                 "❔XX | 🟢 | vless | @v2rayNG_Matsuri | 11",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 0",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 0",
                 "🇫🇮FI | 🟢 | vless | @Capoit | 8",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 4",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 6",
                 "🇹🇷TR | 🟢 | vless | @FreakConfig | 8",
-                "🇸🇪SE | 🟢 | vless | @FreakConfig | 9",
+                "🇺🇸US | 🟢 | vless | @FreakConfig | 9",
                 "🇳🇱NL | 🟢 | vless | @FreakConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 0",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 2",
@@ -236,13 +235,12 @@
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 34",
                 "❔XX | 🟢 | vless | @v2rayNG_Matsuri | 11",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 0",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 0",
                 "🇫🇮FI | 🟢 | vless | @Capoit | 8",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 4",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 6",
                 "🇹🇷TR | 🟢 | vless | @FreakConfig | 8",
-                "🇸🇪SE | 🟢 | vless | @FreakConfig | 9",
+                "🇺🇸US | 🟢 | vless | @FreakConfig | 9",
                 "🇳🇱NL | 🟢 | vless | @FreakConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 0",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 2",
@@ -1742,35 +1740,6 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "fr.marzban-locations.com",
-            "server_port": 3032,
-            "uuid": "3d1622e6-7ac5-4715-b635-7bd542e0a70b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
-                    "short_id": ""
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 0",
             "type": "vless",
             "server": "89.116.193.40",
@@ -1923,7 +1892,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | vless | @FreakConfig | 9",
+            "tag": "🇺🇸US | 🟢 | vless | @FreakConfig | 9",
             "type": "vless",
             "server": "amazon-17.cristiano.name.ng",
             "server_port": 443,

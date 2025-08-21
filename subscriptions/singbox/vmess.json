@@ -121,9 +121,10 @@
                 "❔XX | 🟢 | vmess | @prrofile_purple | 138",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 5",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 3",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 5",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
-                "🇯🇵JP | 🟢 | vmess | @yaney_01 | 2",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
@@ -152,9 +153,10 @@
                 "❔XX | 🟢 | vmess | @prrofile_purple | 138",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 5",
+                "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 3",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 5",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
-                "🇯🇵JP | 🟢 | vmess | @yaney_01 | 2",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
@@ -473,6 +475,40 @@
             }
         },
         {
+            "tag": "🇩🇪DE | 🟢 | vmess | @ConfigsHUB | 3",
+            "type": "vmess",
+            "server": "57.129.28.65",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "kapelleng.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkvws",
+                "headers": {
+                    "Host": "kapelleng.com"
+                }
+            }
+        },
+        {
             "tag": "🇫🇮FI | 🟢 | vmess | @proxystore11 | 5",
             "type": "vmess",
             "server": "65.109.190.91.suupermeat.ir",
@@ -524,7 +560,7 @@
             }
         },
         {
-            "tag": "🇯🇵JP | 🟢 | vmess | @yaney_01 | 2",
+            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
             "type": "vmess",
             "server": "107.149.119.43",
             "server_port": 37000,

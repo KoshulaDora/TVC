@@ -109,7 +109,6 @@
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 3",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 7",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 12",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 16",
                 "❔XX | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 2",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
@@ -147,17 +146,17 @@
                 "🇱🇻LV | 🟢 | vless | @customv2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 0",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 2",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
-                "🇸🇪SE | 🟢 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 3",
+                "🇰🇷KR | 🟢 | vless | @ConfigsHUB | 7",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 12",
                 "🇵🇱PL | 🟢 | vless | @Outlinev2rayNG | 5",
                 "🇦🇱AL | 🟢 | vless | @FreakConfig | 2",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 3",
                 "🇳🇱NL | 🟢 | vless | @FreakConfig | 4",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 7",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 14",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 4",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 6",
+                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 5",
+                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -186,7 +185,6 @@
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 3",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 7",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 12",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 16",
                 "❔XX | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 2",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
@@ -224,17 +222,17 @@
                 "🇱🇻LV | 🟢 | vless | @customv2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 0",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 2",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
-                "🇸🇪SE | 🟢 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 3",
+                "🇰🇷KR | 🟢 | vless | @ConfigsHUB | 7",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 12",
                 "🇵🇱PL | 🟢 | vless | @Outlinev2rayNG | 5",
                 "🇦🇱AL | 🟢 | vless | @FreakConfig | 2",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 3",
                 "🇳🇱NL | 🟢 | vless | @FreakConfig | 4",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 7",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 14",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 4",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 6",
+                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 5",
+                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -339,35 +337,6 @@
             "server": "91.99.16.244",
             "server_port": 443,
             "uuid": "Parsashonam-299",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8",
-                    "short_id": "61e683d41fdb"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 16",
-            "type": "vless",
-            "server": "91.99.16.244",
-            "server_port": 443,
-            "uuid": "Parsashonam-298",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1542,11 +1511,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 2",
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 3",
             "type": "vless",
-            "server": "www.zooboming.com",
+            "server": "amazon-13.cristiano.name.ng",
             "server_port": 443,
-            "uuid": "ItsLegendaryking",
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1556,7 +1525,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "store.steampowered.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1565,49 +1534,13 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "ujY5a2CJ6npWgogJ-vv1XrVvm2cymbWiCkYriyNBxzo",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "t.me\/entryNET",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 6",
-            "type": "vless",
-            "server": "prteam.darkping.net",
-            "server_port": 2423,
-            "uuid": "ef2b928b-a126-4bda-d133-30babb9959c8",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "hvvTFfsg9_5LBWXItwxD_F2C7FYytTisWOgqncU_BTs",
-                    "short_id": ""
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
                 }
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | vless | @ConfigsHUB | 15",
+            "tag": "🇰🇷KR | 🟢 | vless | @ConfigsHUB | 7",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -1632,6 +1565,35 @@
                     "enabled": true,
                     "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
                     "short_id": "f5"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 12",
+            "type": "vless",
+            "server": "91.98.76.73",
+            "server_port": 2052,
+            "uuid": "797d8132-6c08-4d5f-accc-eba1d6fdc9c5",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cp7.cloudflare.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "B4bL5jZotLi91qBuoZjrl5wI4txIa5GmgS2ifinc7VA",
+                    "short_id": "6a"
                 }
             }
         },
@@ -1824,7 +1786,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 5",
             "type": "vless",
             "server": "91.99.70.212",
             "server_port": 443,
@@ -1860,7 +1822,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 6",
+            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 7",
             "type": "vless",
             "server": "91.99.231.221",
             "server_port": 2020,

@@ -147,7 +147,7 @@
                 "🇱🇻LV | 🟢 | vless | @customv2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 1",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 14",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
                 "🇵🇱PL | 🟢 | vless | @Outlinev2rayNG | 6",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
                 "🇦🇱AL | 🟢 | vless | @FreakConfig | 3",
@@ -223,7 +223,7 @@
                 "🇱🇻LV | 🟢 | vless | @customv2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 1",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 14",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
                 "🇵🇱PL | 🟢 | vless | @Outlinev2rayNG | 6",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
                 "🇦🇱AL | 🟢 | vless | @FreakConfig | 3",
@@ -1540,11 +1540,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 14",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
             "type": "vless",
-            "server": "order.dissertationhelpspecialist.com",
+            "server": "full.vvir.ir",
             "server_port": 443,
-            "uuid": "480a54d1-47d6-4fc9-87a5-6dc2639f5335",
+            "uuid": "tm-HqV2rayNG",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1554,25 +1554,18 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "google.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "xI1IUDhIUaKY3qPE9CSOcNaiJ4sRc69ppRamFOMwgiI",
-                    "short_id": "3da49e0b43"
+                    "public_key": "tmdA-JLXg99x-LdvzAZnIV2J7QlHAe7F7xSRLh4ljHM",
+                    "short_id": "e1"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {

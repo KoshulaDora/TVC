@@ -146,18 +146,22 @@
                 "🇺🇸US | 🟢 | vless | @customv2ray | 14",
                 "🇱🇻LV | 🟢 | vless | @customv2ray | 21",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 3",
-                "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 2",
+                "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 3",
+                "🇮🇷IR | 🟢 | vless | @ConfigsHUB | 0",
+                "🇦🇹AT | 🟢 | vless | @ConfigsHUB | 1",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 2",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
                 "🇨🇿CZ | 🟢 | vless | @Outlinev2rayNG | 0",
                 "🇪🇸ES | 🟢 | vless | @Outlinev2rayNG | 1",
                 "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 2",
                 "🇵🇱PL | 🟢 | vless | @Outlinev2rayNG | 10",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 0",
-                "🇳🇱NL | 🟢 | vless | @FreakConfig | 3",
-                "🇩🇪DE | 🟢 | vless | @FreakConfig | 4",
-                "🇦🇱AL | 🟢 | vless | @FreakConfig | 7",
-                "🇩🇪DE | 🔴 | vless | @FreakConfig | 8",
-                "🇳🇱NL | 🟢 | vless | @FreakConfig | 9",
-                "🇺🇸US | 🟢 | vless | @FreakConfig | 12",
+                "🇺🇸US | 🔴 | vless | @FreakConfig | 1",
+                "🇳🇱NL | 🟢 | vless | @FreakConfig | 4",
+                "🇩🇪DE | 🟢 | vless | @FreakConfig | 5",
+                "🇦🇱AL | 🟢 | vless | @FreakConfig | 8",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
+                "🇳🇱NL | 🟢 | vless | @FreakConfig | 10",
+                "🇺🇸US | 🟢 | vless | @FreakConfig | 13",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 1",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 7",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
@@ -225,18 +229,22 @@
                 "🇺🇸US | 🟢 | vless | @customv2ray | 14",
                 "🇱🇻LV | 🟢 | vless | @customv2ray | 21",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 3",
-                "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 2",
+                "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 3",
+                "🇮🇷IR | 🟢 | vless | @ConfigsHUB | 0",
+                "🇦🇹AT | 🟢 | vless | @ConfigsHUB | 1",
+                "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 2",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
                 "🇨🇿CZ | 🟢 | vless | @Outlinev2rayNG | 0",
                 "🇪🇸ES | 🟢 | vless | @Outlinev2rayNG | 1",
                 "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 2",
                 "🇵🇱PL | 🟢 | vless | @Outlinev2rayNG | 10",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 0",
-                "🇳🇱NL | 🟢 | vless | @FreakConfig | 3",
-                "🇩🇪DE | 🟢 | vless | @FreakConfig | 4",
-                "🇦🇱AL | 🟢 | vless | @FreakConfig | 7",
-                "🇩🇪DE | 🔴 | vless | @FreakConfig | 8",
-                "🇳🇱NL | 🟢 | vless | @FreakConfig | 9",
-                "🇺🇸US | 🟢 | vless | @FreakConfig | 12",
+                "🇺🇸US | 🔴 | vless | @FreakConfig | 1",
+                "🇳🇱NL | 🟢 | vless | @FreakConfig | 4",
+                "🇩🇪DE | 🟢 | vless | @FreakConfig | 5",
+                "🇦🇱AL | 🟢 | vless | @FreakConfig | 8",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
+                "🇳🇱NL | 🟢 | vless | @FreakConfig | 10",
+                "🇺🇸US | 🟢 | vless | @FreakConfig | 13",
                 "🇩🇪DE | 🟢 | vless | @mehrosaboran | 1",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 7",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 9",
@@ -1517,7 +1525,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 2",
+            "tag": "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 3",
             "type": "vless",
             "server": "51.38.98.69",
             "server_port": 443,
@@ -1542,6 +1550,122 @@
                     "enabled": true,
                     "public_key": "-3sZE2OPDhkNtxufF2YqPmoa5hqVna5zalfJfrUiMm0",
                     "short_id": "ecd6615548c2bddb"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🟢 | vless | @ConfigsHUB | 0",
+            "type": "vless",
+            "server": "hybrid.arvancloud.online",
+            "server_port": 44443,
+            "uuid": "53fff6cc-b4ec-43e8-ade5-e0c42972fc33",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.speedtest.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇦🇹AT | 🟢 | vless | @ConfigsHUB | 1",
+            "type": "vless",
+            "server": "5.181.21.152",
+            "server_port": 24170,
+            "uuid": "6a8ee307-a1fb-4801-92e2-86253ecdd88d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw",
+                    "short_id": "200f99e321"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺RU | 🟢 | vless | @ConfigsHUB | 2",
+            "type": "vless",
+            "server": "185.40.4.142",
+            "server_port": 443,
+            "uuid": "id6061308608",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.vk.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8",
+                    "short_id": "a8fd0db853b135"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 5",
+            "type": "vless",
+            "server": "188.68.53.100",
+            "server_port": 6666,
+            "uuid": "0abf9050-c7be-464d-80af-24094c2b97de",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "Tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "S_2bepGaT7EHeH5DdyEgio421RTgrAvvOOQiaq8zV0g",
+                    "short_id": "b525ecd2fc"
                 }
             }
         },
@@ -1662,7 +1786,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @FreakConfig | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @FreakConfig | 1",
             "type": "vless",
             "server": "159.203.141.231",
             "server_port": 2053,
@@ -1691,7 +1815,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @FreakConfig | 3",
+            "tag": "🇳🇱NL | 🟢 | vless | @FreakConfig | 4",
             "type": "vless",
             "server": "5.129.208.19",
             "server_port": 34045,
@@ -1720,7 +1844,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @FreakConfig | 4",
+            "tag": "🇩🇪DE | 🟢 | vless | @FreakConfig | 5",
             "type": "vless",
             "server": "77.110.99.62",
             "server_port": 443,
@@ -1749,7 +1873,7 @@
             }
         },
         {
-            "tag": "🇦🇱AL | 🟢 | vless | @FreakConfig | 7",
+            "tag": "🇦🇱AL | 🟢 | vless | @FreakConfig | 8",
             "type": "vless",
             "server": "al.spirako.com",
             "server_port": 443,
@@ -1778,7 +1902,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @FreakConfig | 8",
+            "tag": "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
             "type": "vless",
             "server": "91.98.69.20",
             "server_port": 443,
@@ -1814,7 +1938,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @FreakConfig | 9",
+            "tag": "🇳🇱NL | 🟢 | vless | @FreakConfig | 10",
             "type": "vless",
             "server": "77.239.109.216",
             "server_port": 34045,
@@ -1843,7 +1967,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @FreakConfig | 12",
+            "tag": "🇺🇸US | 🟢 | vless | @FreakConfig | 13",
             "type": "vless",
             "server": "185.236.232.136",
             "server_port": 1001,

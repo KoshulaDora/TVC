@@ -149,7 +149,6 @@
                 "🇴🇲OM | 🔴 | vless | @prrofile_purple | 149",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 25",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 26",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 14",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 15",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 17",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 18",
@@ -157,7 +156,8 @@
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
-                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 1",
@@ -173,6 +173,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 13",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
@@ -245,7 +247,6 @@
                 "🇴🇲OM | 🔴 | vless | @prrofile_purple | 149",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 25",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 26",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 14",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 15",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 17",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 18",
@@ -253,7 +254,8 @@
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
-                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 1",
@@ -269,6 +271,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 13",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
@@ -1308,32 +1312,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 14",
-            "type": "vless",
-            "server": "cumhuriyet.com.tr",
-            "server_port": 8080,
-            "uuid": "f169440e-b49b-400d-8908-3b5e5741e946",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480",
-                "headers": {
-                    "Host": "cumhuriyet.com.tr"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 15",
             "type": "vless",
             "server": "cumhuriyet.com.tr",
             "server_port": 8080,
-            "uuid": "f0e825fb-6aa7-4825-e4ef-9a8e170b3a61",
+            "uuid": "f169440e-b49b-400d-8908-3b5e5741e946",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1462,7 +1445,28 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2052,
+            "uuid": "f0498f6d-b7d1-470e-80cc-e3f21bb79b45",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 4",
             "type": "vless",
             "server": "87.120.205.207",
             "server_port": 2025,
@@ -1805,6 +1809,68 @@
                 "path": "\/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80",
                 "headers": {
                     "Host": "172.66.40.99"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
+            "type": "vless",
+            "server": "104.26.8.156",
+            "server_port": 443,
+            "uuid": "c4587bda-09fc-4b3b-8221-4450fccc33d1",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "yx.yushan.dpdns.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/JOIN---PLANB_PROXY",
+                "headers": {
+                    "Host": "yx.yushan.dpdns.org"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
+            "type": "vless",
+            "server": "172.67.74.133",
+            "server_port": 443,
+            "uuid": "6780a3c0-a98c-4622-b894-8e34167f7b31",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "blog.ruangguru.com.servpn.my.id",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/id5\/bia-planB_proxy",
+                "headers": {
+                    "Host": "blog.ruangguru.com.servpn.my.id"
                 }
             }
         },

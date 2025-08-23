@@ -110,8 +110,8 @@
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7",
+                "🇩🇪DE | 🟢 | vmess | @Hope_Net | 5",
+                "🇧🇪BE | 🟢 | vmess | @Hope_Net | 6",
                 "🇷🇺RU | 🟢 | vmess | @FreakConfig | 13"
             ]
         },
@@ -123,8 +123,8 @@
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7",
+                "🇩🇪DE | 🟢 | vmess | @Hope_Net | 5",
+                "🇧🇪BE | 🟢 | vmess | @Hope_Net | 6",
                 "🇷🇺RU | 🟢 | vmess | @FreakConfig | 13"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -257,9 +257,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "🇩🇪DE | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
-            "server": "92.53.191.232",
+            "server": "154.197.75.0",
             "server_port": 443,
             "uuid": "9b38d152-6b12-4de0-a20d-87a8c9034cc4",
             "security": "auto",
@@ -274,7 +274,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "92.53.191.232",
+                "server_name": "154.197.75.0",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -286,16 +286,16 @@
                 "type": "ws",
                 "path": "\/@RaFaV2Bot",
                 "headers": {
-                    "Host": "92.53.191.232"
+                    "Host": "154.197.75.0"
                 }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 7",
+            "tag": "🇧🇪BE | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 8080,
-            "uuid": "bcaabac-acab-abca-dcab-abacaacbccbb",
+            "server": "185.193.29.58",
+            "server_port": 443,
+            "uuid": "9b38d152-6b12-4de0-a20d-87a8c9034cc4",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -305,6 +305,23 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "185.193.29.58",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@RaFaV2Bot",
+                "headers": {
+                    "Host": "185.193.29.58"
+                }
             }
         },
         {

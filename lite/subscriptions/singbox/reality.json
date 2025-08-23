@@ -111,7 +111,6 @@
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 3",
                 "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 2",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 12",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -128,7 +127,6 @@
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 3",
                 "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 2",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 12",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -311,35 +309,6 @@
                     "enabled": true,
                     "public_key": "-3sZE2OPDhkNtxufF2YqPmoa5hqVna5zalfJfrUiMm0",
                     "short_id": "ecd6615548c2bddb"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "94.131.101.178",
-            "server_port": 443,
-            "uuid": "fa-7736035993-1755891114560183",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "steampowered.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE",
-                    "short_id": "d1d42381ba35"
                 }
             }
         },

@@ -110,8 +110,9 @@
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 3",
-                "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 2",
-                "🇺🇸US | 🟢 | vless | @FreakConfig | 12",
+                "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 3",
+                "🇮🇷IR | 🟢 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🟢 | vless | @FreakConfig | 13",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -126,8 +127,9 @@
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 3",
-                "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 2",
-                "🇺🇸US | 🟢 | vless | @FreakConfig | 12",
+                "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 3",
+                "🇮🇷IR | 🟢 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🟢 | vless | @FreakConfig | 13",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -284,7 +286,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 2",
+            "tag": "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 3",
             "type": "vless",
             "server": "51.38.98.69",
             "server_port": 443,
@@ -313,7 +315,36 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @FreakConfig | 12",
+            "tag": "🇮🇷IR | 🟢 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "hybrid.arvancloud.online",
+            "server_port": 44443,
+            "uuid": "53fff6cc-b4ec-43e8-ade5-e0c42972fc33",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.speedtest.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @FreakConfig | 13",
             "type": "vless",
             "server": "185.236.232.136",
             "server_port": 1001,

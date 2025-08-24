@@ -112,8 +112,9 @@
                 "🇫🇮FI | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 18",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 141",
-                "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
-                "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 9",
+                "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 15",
+                "🇩🇪DE | 🔴 | vless | @free1_vpn | 7",
+                "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇦🇱AL | 🟢 | vless | @FreakConfig | 13",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -132,8 +133,9 @@
                 "🇫🇮FI | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 18",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 141",
-                "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
-                "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 9",
+                "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 15",
+                "🇩🇪DE | 🔴 | vless | @free1_vpn | 7",
+                "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇦🇱AL | 🟢 | vless | @FreakConfig | 13",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -350,7 +352,36 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
+            "tag": "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "57.129.129.41",
+            "server_port": 54974,
+            "uuid": "42ead82d-d6d7-4a94-9365-5be73f5d1bcc",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0",
+                    "short_id": "2075"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @free1_vpn | 7",
             "type": "vless",
             "server": "87.120.205.207",
             "server_port": 2025,
@@ -386,7 +417,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 9",
+            "tag": "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 10",
             "type": "vless",
             "server": "77.239.109.216",
             "server_port": 34045,

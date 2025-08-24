@@ -267,8 +267,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 5",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
-                "🇬🇧GB | 🔴 | vless | @proxy_kafee | 1",
+                "🇬🇧GB | 🔴 | vless | @proxy_kafee | 0",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 4",
@@ -497,10 +497,10 @@
                 "🚩CF | 🔴 | vless | @lrnbymaa | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🚩CF | 🔴 | vless | @lrnbymaa | 3",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 2",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 3",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 1",
                 "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 9",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 10",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
@@ -776,8 +776,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 5",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
-                "🇬🇧GB | 🔴 | vless | @proxy_kafee | 1",
+                "🇬🇧GB | 🔴 | vless | @proxy_kafee | 0",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 4",
@@ -1006,10 +1006,10 @@
                 "🚩CF | 🔴 | vless | @lrnbymaa | 1",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🚩CF | 🔴 | vless | @lrnbymaa | 3",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 2",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 3",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 1",
                 "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
-                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 9",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 10",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
@@ -4773,7 +4773,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
+            "tag": "🇬🇧GB | 🔴 | vless | @proxy_kafee | 0",
             "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 8443,
@@ -4804,7 +4804,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 2096,
@@ -10367,25 +10367,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 2",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 1",
             "type": "vless",
-            "server": "sss13712.tas-bazi.com",
+            "server": "sss71534.tas-bazi.com",
             "server_port": 443,
-            "uuid": "7606bb75-416a-4f99-ba20-019cb25543cf",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 3",
-            "type": "vless",
-            "server": "91.107.129.233",
-            "server_port": 28911,
-            "uuid": "40d26f1c-1c53-4308-b1d6-fa1e132f98f3",
+            "uuid": "aa077dd1-0a53-4313-8800-c9ac79a97003",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -10409,11 +10395,11 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 9",
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 10",
             "type": "vless",
-            "server": "fast.dissertationhelpspecialist.com",
-            "server_port": 443,
-            "uuid": "25877dd5-4de8-48e0-9cb6-86515be901b8",
+            "server": "104.16.69.162",
+            "server_port": 8880,
+            "uuid": "e9979910-79d1-4621-a93c-b2a579c44ba7",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -10421,27 +10407,26 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Q1PDMwa1fT6RUZ2CpNMGns-QFUhmk8vrf2fIS6PaoFU",
-                    "short_id": "44a3ef0168e834"
-                }
-            },
             "transport": {
-                "type": "grpc",
-                "service_name": "t.me\/entryNET",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
+                "type": "ws",
+                "path": "\/fgvtHUpS6R8Rv8s5?ed=2560",
+                "headers": {
+                    "Host": "104.16.69.162"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 11",
+            "type": "vless",
+            "server": "104.21.112.1",
+            "server_port": 2082,
+            "uuid": "c5ef3997-da1c-4ed3-91e3-f3253c1aeb48",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {

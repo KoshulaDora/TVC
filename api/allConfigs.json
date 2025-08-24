@@ -1464,7 +1464,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=Nw5Q3gZlVv.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=Nw5Q3gZlVv.LiRa9Xc7.InFo#🇺🇸US%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%200"
+        "config": "vless:\/\/e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=Nw5Q3gZlVv.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=Nw5Q3gZlVv.LiRa9Xc7.InFo#🇬🇧GB%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%200"
     },
     {
         "channel": {
@@ -1473,7 +1473,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=0FpNnDhS71.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=0FpNnDhS71.lIrA0xC8.iNfO#🇬🇧GB%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%201"
+        "config": "vless:\/\/e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=0FpNnDhS71.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=0FpNnDhS71.lIrA0xC8.iNfO#🇺🇸US%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%201"
     },
     {
         "channel": {
@@ -4204,39 +4204,21 @@
     },
     {
         "channel": {
-            "username": " vmess ",
-            "title": null,
-            "logo": null
-        },
-        "type": "vmess",
-        "config": "vmess:\/\/eyJwcyI6Ilx1Mjc1NFhYIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAQ29uZmlnc0hVQiB8IDAifQ=="
-    },
-    {
-        "channel": {
-            "username": " vmess ",
-            "title": null,
-            "logo": null
-        },
-        "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiJ2Yy5mbHkuZGV2IiwiYWlkIjozMiwiaG9zdCI6InZjLmZseS5kZXYiLCJpZCI6IjM1Mzc5MjE5LTY1MzUtNGYyZS1hNGZlLTNlNDRmNjFlMGVlZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvdmMiLCJwb3J0Ijo0NDMsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InZjLmZseS5kZXYiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAQ29uZmlnc0hVQiB8IDEifQ=="
-    },
-    {
-        "channel": {
             "username": "vless",
             "title": null,
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/7606bb75-416a-4f99-ba20-019cb25543cf@sss13712.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#🇩🇪DE%20|%20🔴%20|%20vless%20|%20@ConfigsHUB%20|%202"
+        "config": "vless:\/\/aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?mode=stream-one&path=%2Fsef&security=none&encryption=none&type=xhttp#🇩🇪DE%20|%20🔴%20|%20vless%20|%20@ConfigsHUB%20|%201"
     },
     {
         "channel": {
-            "username": "vless",
+            "username": " vmess ",
             "title": null,
             "logo": null
         },
-        "type": "vless",
-        "config": "vless:\/\/40d26f1c-1c53-4308-b1d6-fa1e132f98f3@91.107.129.233:28911?type=tcp&path=%2F%40theNFTbaz&host=bmw.com&headerType=http&security=none#🇩🇪DE%20|%20🔴%20|%20vless%20|%20@ConfigsHUB%20|%203"
+        "type": "vmess",
+        "config": "vmess:\/\/eyJwcyI6Ilx1Mjc1NFhYIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAQ29uZmlnc0hVQiB8IDMifQ=="
     },
     {
         "channel": {
@@ -4249,12 +4231,12 @@
     },
     {
         "channel": {
-            "username": " vmess ",
+            "username": "trojan",
             "title": null,
             "logo": null
         },
-        "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxMTIuMTMyLjIxNS4zNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDA3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NOIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAQ29uZmlnc0hVQiB8IDYifQ=="
+        "type": "trojan",
+        "config": "trojan:\/\/bpb-trojan@172.66.47.128:443?sni=bpbpanel.ac.cn.eu.org#🚩CF%20|%20🔴%20|%20trojan%20|%20@ConfigsHUB%20|%205"
     },
     {
         "channel": {
@@ -4263,7 +4245,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/tunnel-astrovpn_official_ae@ae-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=ae-1.stunnel.cc#🇦🇪AE%20|%20🟢%20|%20trojan%20|%20@ConfigsHUB%20|%207"
+        "config": "trojan:\/\/bpb-trojan@visa.cn:443?sni=bpbpanel.ac.cn.eu.org#🇨🇳CN%20|%20🔴%20|%20trojan%20|%20@ConfigsHUB%20|%206"
     },
     {
         "channel": {
@@ -4272,7 +4254,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/ouo@152.70.101.24:16800?sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=%2F%3Fed%3D2560#🇯🇵JP%20|%20🔴%20|%20trojan%20|%20@ConfigsHUB%20|%208"
+        "config": "trojan:\/\/ababcca-caab-bcaa-dabc-cacbcababacb@127.0.0.1:8080?security=tls&type=tcp#❔XX%20|%20🟢%20|%20trojan%20|%20@ConfigsHUB%20|%207"
     },
     {
         "channel": {
@@ -4280,26 +4262,17 @@
             "title": null,
             "logo": null
         },
-        "type": "reality",
-        "config": "vless:\/\/25877dd5-4de8-48e0-9cb6-86515be901b8@fast.dissertationhelpspecialist.com:443?type=grpc&serviceName=t.me%2FentryNET&authority=&security=reality&pbk=Q1PDMwa1fT6RUZ2CpNMGns-QFUhmk8vrf2fIS6PaoFU&fp=firefox&sni=tgju.org&sid=44a3ef0168e834&spx=%2Fprofile%2Fgold_17_transfer#🇳🇱NL%20|%20🔴%20|%20vless%20|%20@ConfigsHUB%20|%209"
+        "type": "vless",
+        "config": "vless:\/\/e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&encryption=none&flow=&host=vngsupply.ip-ddns.com&path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560#🚩CF%20|%20🔴%20|%20vless%20|%20@ConfigsHUB%20|%2010"
     },
     {
         "channel": {
-            "username": "trojan",
+            "username": "vless",
             "title": null,
             "logo": null
         },
-        "type": "trojan",
-        "config": "trojan:\/\/auto@104.20.19.3:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&host=b96ef9ae.trojanfree-76s.pages.dev#🚩CF%20|%20🟢%20|%20trojan%20|%20@ConfigsHUB%20|%2010"
-    },
-    {
-        "channel": {
-            "username": "trojan",
-            "title": null,
-            "logo": null
-        },
-        "type": "trojan",
-        "config": "trojan:\/\/bpb-trojan@172.66.44.128:443?sni=bpbpanel.ac.cn.eu.org#🚩CF%20|%20🔴%20|%20trojan%20|%20@ConfigsHUB%20|%2011"
+        "type": "vless",
+        "config": "vless:\/\/c5ef3997-da1c-4ed3-91e3-f3253c1aeb48@104.21.112.1:2082?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082Telegram#🚩CF%20|%20🔴%20|%20vless%20|%20@ConfigsHUB%20|%2011"
     },
     {
         "channel": {
@@ -4434,7 +4407,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjQ3LjExNi4xNzMuNzYiLCJwb3J0IjoiNTAwMDIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTgiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NOIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCAwIn0="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjExMC40Mi4zNi4xNSIsInBvcnQiOjQ1ODUxLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiNDE0Yzc5ZjctMTc0Mi00MmYxLWE3YzYtMWNjZGJkZDhlMzc5IiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjNDTiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQEhvcGVfTmV0IHwgMCJ9"
     },
     {
         "channel": {
@@ -4443,7 +4416,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6InlkMi5haW5pdnAuY29tIiwicG9ydCI6IjMzNDE2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjkyMDRhZmNkLTAyM2UtNzgxZi0xYWJjLWMxMmVmY2NkMTM0NCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsImhvc3QiOiJ5ZDIuYWluaXZwLmNvbSIsInRscyI6InRscyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ04gfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDEifQ=="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE5OC4yLjIxOC4xMDIiLCJwb3J0IjoiNDE0MDAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVUyB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQEhvcGVfTmV0IHwgMSJ9"
     },
     {
         "channel": {
@@ -4452,7 +4425,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjEyNy4xLjEuMTI3IiwicG9ydCI6IjgwIiwiaWQiOiI2MDI3MzZlNC1hMmU4LTRlYjMtOWZjOS03YzcwODI5MjUzNjUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJwcyI6Ilx1Mjc1NFhYIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCAyIn0="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjM4Ljk5LjgyLjEyOCIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMyIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVUyB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQEhvcGVfTmV0IHwgMiJ9"
     },
     {
         "channel": {
@@ -4461,7 +4434,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWFjYmJjYS1jYmFhLWFhYmMtZGNiYS1hYmFjYmJjY2FiY2EiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNzU0WFggfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDMifQ=="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjQ3LjExNi4xNzMuNzYiLCJwb3J0IjoiNTAwMDIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTgiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NOIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCAzIn0="
     },
     {
         "channel": {
@@ -4470,7 +4443,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6InNpbmdhcG9yZS5jb20iLCJwb3J0IjoiMjA5NSIsInR5cGUiOiJub25lIiwiaWQiOiIxOGQ5NjE5MC1jMTBmLTQ0OGYtYTgyYS0yZDM2ZGY1YzNjZGUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9naXRodWIuY29tXC9BbHZpbjk5OTkiLCJob3N0IjoiaXAxMS42MDE2NzI1Lnh5eiIsInRscyI6IiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDQifQ=="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6InlkMi5haW5pdnAuY29tIiwicG9ydCI6IjMzNDE2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjkyMDRhZmNkLTAyM2UtNzgxZi0xYWJjLWMxMmVmY2NkMTM0NCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsImhvc3QiOiJ5ZDIuYWluaXZwLmNvbSIsInRscyI6InRscyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ04gfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDQifQ=="
     },
     {
         "channel": {
@@ -4479,7 +4452,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjUuMTgyLjg1LjE1IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI5YjM4ZDE1Mi02YjEyLTRkZTAtYTIwZC04N2E4YzkwMzRjYzQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiQFJhRmFWMkJvdCIsImhvc3QiOiJ6TE1pWEJZTkF3c1pxa3Btc2RyYmd0UFJoVFF1SWN2LnJveGlmYS5pciIsInRscyI6InRscyIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhUlUgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDUifQ=="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjEyNy4xLjEuMTI3IiwicG9ydCI6IjgwIiwiaWQiOiI2MDI3MzZlNC1hMmU4LTRlYjMtOWZjOS03YzcwODI5MjUzNjUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJwcyI6Ilx1Mjc1NFhYIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA1In0="
     },
     {
         "channel": {
@@ -4488,7 +4461,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjE0Ni41Ni4xMTIuMTEwIiwicG9ydCI6Ijg4ODgiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTdjMzAyZjMtOTBkNi00MmRkLTlkN2QtOTRhMzY4M2EzNzA3IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmN0tSIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCA2In0="
+        "config": "vmess:\/\/eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWFjYmJjYS1jYmFhLWFhYmMtZGNiYS1hYmFjYmJjY2FiY2EiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNzU0WFggfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDYifQ=="
     },
     {
         "channel": {

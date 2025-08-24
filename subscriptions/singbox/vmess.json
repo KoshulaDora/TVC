@@ -118,18 +118,16 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 9",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 6",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 0",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 1",
+                "❔XX | 🟢 | vmess | @Hope_Net | 0",
+                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 1",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 2",
-                "❔XX | 🟢 | vmess | @Hope_Net | 3",
-                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 4",
+                "🚩CF | 🟢 | vmess | @Hope_Net | 3",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1"
             ]
         },
@@ -149,18 +147,16 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 9",
                 "🇫🇮FI | 🟢 | vmess | @proxystore11 | 6",
                 "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 0",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 1",
+                "❔XX | 🟢 | vmess | @Hope_Net | 0",
+                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 1",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 2",
-                "❔XX | 🟢 | vmess | @Hope_Net | 3",
-                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 4",
+                "🚩CF | 🟢 | vmess | @Hope_Net | 3",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -388,23 +384,6 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 9",
-            "type": "vmess",
-            "server": null,
-            "server_port": 0,
-            "uuid": null,
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "🇫🇮FI | 🟢 | vmess | @proxystore11 | 6",
             "type": "vmess",
             "server": "65.109.190.91.suupermeat.ir",
@@ -572,7 +551,24 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vmess | @Hope_Net | 0",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 0",
+            "type": "vmess",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "uuid": "aacbcba-baca-abca-cbda-babbcaacbacc",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇳🇱NL | 🟢 | vmess | @Hope_Net | 1",
             "type": "vmess",
             "server": "141.144.198.113",
             "server_port": 2053,
@@ -606,7 +602,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 1",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 2",
             "type": "vmess",
             "server": "172.64.155.187",
             "server_port": 2082,
@@ -630,7 +626,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 2",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
             "server": "104.17.221.248",
             "server_port": 80,
@@ -650,57 +646,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "104.17.221.248"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 3",
-            "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 8080,
-            "uuid": "cacbaab-acba-baca-cdba-ccbaabacbacb",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇰🇷KR | 🟢 | vmess | @Hope_Net | 4",
-            "type": "vmess",
-            "server": "27.113.95.223",
-            "server_port": 30012,
-            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "3ca919ae-4e52-48cb-9f79-f920f0c234bd.b6071df2-af24-4fe5-a53c-5482f4bf5bce.kozow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/obdii.cfd:443\/linkws",
-                "headers": {
-                    "Host": "3ca919ae-4e52-48cb-9f79-f920f0c234bd.b6071df2-af24-4fe5-a53c-5482f4bf5bce.kozow.com"
                 }
             }
         },

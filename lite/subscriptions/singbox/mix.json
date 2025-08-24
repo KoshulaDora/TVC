@@ -178,15 +178,15 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🟢 | trojan | @ConfigsHUB | 13",
-                "🇹🇷TR | 🟢 | vmess | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 13",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 3",
                 "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 11",
@@ -194,7 +194,7 @@
                 "🇺🇸US | 🔴 | vless | @Capoit | 9",
                 "🇺🇸US | 🔴 | vless | @Capoit | 10",
                 "🇮🇹IT | 🔴 | vless | @FreakConfig | 12",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 13",
+                "🇬🇧GB | 🔴 | vless | @FreakConfig | 13",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
                 "🇳🇱NL | 🟢 | ss | @iP_CF | 24",
@@ -286,15 +286,15 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🟢 | trojan | @ConfigsHUB | 13",
-                "🇹🇷TR | 🟢 | vmess | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 13",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 3",
                 "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 11",
@@ -302,7 +302,7 @@
                 "🇺🇸US | 🔴 | vless | @Capoit | 9",
                 "🇺🇸US | 🔴 | vless | @Capoit | 10",
                 "🇮🇹IT | 🔴 | vless | @FreakConfig | 12",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 13",
+                "🇬🇧GB | 🔴 | vless | @FreakConfig | 13",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
                 "🇳🇱NL | 🟢 | ss | @iP_CF | 24",
@@ -1938,40 +1938,25 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | trojan | @ConfigsHUB | 13",
-            "type": "trojan",
-            "server": "104.20.19.52",
-            "server_port": 443,
-            "password": "auto",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+            "type": "vless",
+            "server": "104.16.157.108",
+            "server_port": 8080,
+            "uuid": "cc085cde-f9e7-4d9c-83cb-a6df17392f5a",
+            "flow": "",
+            "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "b96ef9ae.trojanfree-76s.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/b96ef9ae.trojanfree-76s.pages.dev\/",
-                "headers": {
-                    "Host": "b96ef9ae.trojanfree-76s.pages.dev"
-                }
             }
         },
         {
-            "tag": "🇹🇷TR | 🟢 | vmess | @ConfigsHUB | 14",
+            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 15",
             "type": "vmess",
-            "server": "tr.snapppro.nikastoring.ir",
-            "server_port": 1616,
-            "uuid": "e86bcd55-d45e-4388-b19c-d61b648462b8",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -2103,6 +2088,23 @@
         {
             "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
+            "server": "47.116.173.76",
+            "server_port": 50002,
+            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
+            "type": "vmess",
             "server": "yd2.ainivp.com",
             "server_port": 33416,
             "uuid": "9204afcd-023e-781f-1abc-c12efccd1344",
@@ -2132,23 +2134,6 @@
                 "headers": {
                     "Host": "yd2.ainivp.com"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
-            "type": "vmess",
-            "server": "127.1.1.127",
-            "server_port": 80,
-            "uuid": "602736e4-a2e8-4eb3-9fc9-7c7082925365",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -2286,7 +2271,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @FreakConfig | 13",
+            "tag": "🇬🇧GB | 🔴 | vless | @FreakConfig | 13",
             "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 443,

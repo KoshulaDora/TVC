@@ -158,8 +158,8 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 28",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 17",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 18",
-                "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
+                "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 11",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
@@ -179,8 +179,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 5",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
-                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -266,8 +266,8 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 28",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 17",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 18",
-                "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
+                "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 11",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
@@ -287,8 +287,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 5",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
-                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -1578,7 +1578,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -1599,7 +1599,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 11",
             "type": "vless",
             "server": "mci.dl101movis.ir",
             "server_port": 80,
@@ -2023,25 +2023,40 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "sss86065.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5",
-            "flow": "",
+            "server": "r.optiping.ir",
+            "server_port": 33450,
+            "uuid": "df2f8de3-e855-47a6-8a87-6c72fdad4ddb",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "p.optiping.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Y3h3cOAkz3j_CbseRzm3EAkVq9HMkqv-gnwcXI2TI0Q",
+                    "short_id": ""
+                }
             }
         },
         {
-            "tag": "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "193.111.76.108",
-            "server_port": 8443,
-            "uuid": "5d167c53-11ad-4c7c-a7ed-f8325c5d4a79",
+            "server": "104.16.157.108",
+            "server_port": 8080,
+            "uuid": "cc085cde-f9e7-4d9c-83cb-a6df17392f5a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {

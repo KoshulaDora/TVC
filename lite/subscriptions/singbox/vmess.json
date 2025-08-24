@@ -109,8 +109,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 5",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6"
+                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 5",
+                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 6"
             ]
         },
         {
@@ -120,8 +120,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 5",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6"
+                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 5",
+                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 6"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -219,11 +219,11 @@
             }
         },
         {
-            "tag": "🇰🇷KR | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "🇷🇺RU | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
-            "server": "146.56.112.110",
-            "server_port": 8888,
-            "uuid": "e7c302f3-90d6-42dd-9d7d-94a3683a3707",
+            "server": "5.182.85.15",
+            "server_port": 443,
+            "uuid": "9b38d152-6b12-4de0-a20d-87a8c9034cc4",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -233,14 +233,31 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "5.182.85.15",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@RaFaV2Bot",
+                "headers": {
+                    "Host": "5.182.85.15"
+                }
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "🇰🇷KR | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
-            "server": "110.42.38.185",
-            "server_port": 44342,
-            "uuid": "f57c973d-9475-4d25-87a3-be0a4482f0b3",
+            "server": "146.56.112.110",
+            "server_port": 8888,
+            "uuid": "e7c302f3-90d6-42dd-9d7d-94a3683a3707",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,

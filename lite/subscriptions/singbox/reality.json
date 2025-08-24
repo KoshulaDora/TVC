@@ -110,8 +110,8 @@
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 18",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 141",
                 "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 4",
-                "🇨🇦CA | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇦🇱AL | 🟢 | vless | @FreakConfig | 13",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 14",
@@ -131,8 +131,8 @@
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 18",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 141",
                 "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 4",
-                "🇨🇦CA | 🟢 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇦🇱AL | 🟢 | vless | @FreakConfig | 13",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 14",
@@ -287,6 +287,42 @@
             }
         },
         {
+            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 141",
+            "type": "vless",
+            "server": "91.107.243.238",
+            "server_port": 2025,
+            "uuid": "3f042483-c71c-40cc-a4b7-d79f80db4253",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cloudflare.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw",
+                    "short_id": "8d9c20be72b4"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram : @PouRia_Cheat",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
             "tag": "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 4",
             "type": "vless",
             "server": "51.38.98.69",
@@ -312,35 +348,6 @@
                     "enabled": true,
                     "public_key": "-3sZE2OPDhkNtxufF2YqPmoa5hqVna5zalfJfrUiMm0",
                     "short_id": "ecd6615548c2bddb"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🟢 | vless | @ConfigsHUB | 16",
-            "type": "vless",
-            "server": "amazon-20.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
                 }
             }
         },

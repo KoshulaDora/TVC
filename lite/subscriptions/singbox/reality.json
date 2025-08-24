@@ -112,6 +112,7 @@
                 "🇫🇮FI | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 18",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 149",
+                "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 10",
@@ -131,6 +132,7 @@
                 "🇫🇮FI | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 18",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 149",
+                "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 5",
                 "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 10",
@@ -345,6 +347,35 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇫🇮FI | 🟢 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "5.181.20.219",
+            "server_port": 17422,
+            "uuid": "fe837fd0-840d-4cee-9334-0dc6c2b15c1c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA",
+                    "short_id": "33"
+                }
             }
         },
         {

@@ -181,7 +181,7 @@ proxies:
   - {"name":"🇵🇱PL | 🟢 | vless | @Outlinev2rayNG | 12","type":"vless","server":"2.58.95.16","port":34045,"udp":true,"uuid":"d8dd94fd-540e-461d-b5d4-acebef02c22a","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me","reality-opts":{"public-key":"cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA","short-id":"e8ab71d0"}}
   - {"name":"🇺🇸US | 🔴 | vless | @Capoit | 9","type":"vless","server":"172.66.40.99","port":80,"udp":false,"uuid":"607a63e6-19c0-4985-ba6e-cba7ab8b7e7a","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON","headers":{"host":"d.jOin.zEdMoDeOn.oNl."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @Capoit | 10","type":"vless","server":"172.66.40.99","port":80,"udp":false,"uuid":"03d25213-a034-4021-8310-b56ab9ef4c8b","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON","headers":{"host":"c.jOin.zEdMoDeOn.oNl."}}}
-  - {"name":"🇬🇧GB | 🔴 | vless | @FreakConfig | 13","type":"vless","server":"ipw.gfdv54cvghhgfhgj-njhgj64.info","port":443,"udp":false,"uuid":"e999db7a-1b17-4da6-bc37-c9fa24af2e93","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"VpN1h6Lg7R.fRoZiA.iNfO","ws-opts":{"path":"/","headers":{"host":"VpN1h6Lg7R.fRoZiA.iNfO"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @FreakConfig | 13","type":"vless","server":"ipw.gfdv54cvghhgfhgj-njhgj64.info","port":443,"udp":false,"uuid":"e999db7a-1b17-4da6-bc37-c9fa24af2e93","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"VpN1h6Lg7R.fRoZiA.iNfO","ws-opts":{"path":"/","headers":{"host":"VpN1h6Lg7R.fRoZiA.iNfO"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 11","type":"vless","server":"chat.openai.com","port":8080,"udp":false,"uuid":"cac92bc3-e77f-4bbe-ac11-c68162727b6d","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/olem/ws?ed=1024","headers":{"host":"shad.ir.fin.test.digicyber.click."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @mehrosaboran | 11","type":"vless","server":"privasi.turah.my.id","port":443,"udp":false,"uuid":"0fbf4f81-2598-4b6a-a623-0ead4cb9efa8","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"privasi.turah.my.id","ws-opts":{"path":"/Free-CF-Proxy-AD192.3.113.4-19318","headers":{"host":"privasi.turah.my.id"}}}
   - {"name":"❔XX | 🔴 | vless | @vpn_go67 | 21","type":"vless","server":"public.alpanel.top","port":1403,"udp":true,"uuid":"4c6451ba-6594-4d67-a8ae-4df79815a4e3","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"tuyacn.com","grpc-opts":{"grpc-service-name":"@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam"},"reality-opts":{"public-key":"rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA","short-id":"99"}}
@@ -255,7 +255,7 @@ proxy-groups:
       - '🇵🇱PL | 🟢 | vless | @Outlinev2rayNG | 12'
       - '🇺🇸US | 🔴 | vless | @Capoit | 9'
       - '🇺🇸US | 🔴 | vless | @Capoit | 10'
-      - '🇬🇧GB | 🔴 | vless | @FreakConfig | 13'
+      - '🇺🇸US | 🔴 | vless | @FreakConfig | 13'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 11'
       - '🇺🇸US | 🔴 | vless | @mehrosaboran | 11'
       - '❔XX | 🔴 | vless | @vpn_go67 | 21'
@@ -329,7 +329,7 @@ proxy-groups:
       - '🇵🇱PL | 🟢 | vless | @Outlinev2rayNG | 12'
       - '🇺🇸US | 🔴 | vless | @Capoit | 9'
       - '🇺🇸US | 🔴 | vless | @Capoit | 10'
-      - '🇬🇧GB | 🔴 | vless | @FreakConfig | 13'
+      - '🇺🇸US | 🔴 | vless | @FreakConfig | 13'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 11'
       - '🇺🇸US | 🔴 | vless | @mehrosaboran | 11'
       - '❔XX | 🔴 | vless | @vpn_go67 | 21'
@@ -402,7 +402,7 @@ proxy-groups:
       - '🇵🇱PL | 🟢 | vless | @Outlinev2rayNG | 12'
       - '🇺🇸US | 🔴 | vless | @Capoit | 9'
       - '🇺🇸US | 🔴 | vless | @Capoit | 10'
-      - '🇬🇧GB | 🔴 | vless | @FreakConfig | 13'
+      - '🇺🇸US | 🔴 | vless | @FreakConfig | 13'
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 11'
       - '🇺🇸US | 🔴 | vless | @mehrosaboran | 11'
       - '❔XX | 🔴 | vless | @vpn_go67 | 21'

@@ -107,9 +107,9 @@
             "outbounds": [
                 "URL-TEST",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇨🇦CA | 🟢 | vmess | @ConfigsHUB | 18",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
                 "🇳🇱NL | 🟢 | vmess | @Hope_Net | 2",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1"
@@ -120,9 +120,9 @@
             "type": "urltest",
             "outbounds": [
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇨🇦CA | 🟢 | vmess | @ConfigsHUB | 18",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
                 "🇳🇱NL | 🟢 | vmess | @Hope_Net | 2",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1"
@@ -165,7 +165,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 17",
             "type": "vmess",
             "server": "npmjs.com",
             "server_port": 8080,
@@ -213,7 +213,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,

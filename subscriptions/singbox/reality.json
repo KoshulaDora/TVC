@@ -135,7 +135,6 @@
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 15",
                 "🇫🇮FI | 🟢 | vless | @Outline_Vpn | 18",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 19",
-                "🇫🇮FI | 🟢 | vless | @prrofile_purple | 105",
                 "🇳🇱NL | 🟢 | vless | @prrofile_purple | 111",
                 "🇫🇮FI | 🔴 | vless | @prrofile_purple | 113",
                 "🇨🇦CA | 🟢 | vless | @prrofile_purple | 114",
@@ -146,11 +145,12 @@
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 127",
                 "❔XX | 🔴 | vless | @prrofile_purple | 130",
                 "❔XX | 🟢 | vless | @prrofile_purple | 139",
+                "🇫🇮FI | 🟢 | vless | @prrofile_purple | 143",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 148",
                 "🇺🇸US | 🟢 | vless | @customv2ray | 22",
-                "🇨🇦CA | 🟢 | vless | @ConfigsHUB | 8",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 19",
+                "🇰🇷KR | 🟢 | vless | @ConfigsHUB | 8",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 13",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 5",
-                "🇩🇪DE | 🔴 | vless | @free1_vpn | 6",
                 "🇵🇱PL | 🟢 | vless | @Outlinev2rayNG | 3",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 4",
                 "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 5",
@@ -212,7 +212,6 @@
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 15",
                 "🇫🇮FI | 🟢 | vless | @Outline_Vpn | 18",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 19",
-                "🇫🇮FI | 🟢 | vless | @prrofile_purple | 105",
                 "🇳🇱NL | 🟢 | vless | @prrofile_purple | 111",
                 "🇫🇮FI | 🔴 | vless | @prrofile_purple | 113",
                 "🇨🇦CA | 🟢 | vless | @prrofile_purple | 114",
@@ -223,11 +222,12 @@
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 127",
                 "❔XX | 🔴 | vless | @prrofile_purple | 130",
                 "❔XX | 🟢 | vless | @prrofile_purple | 139",
+                "🇫🇮FI | 🟢 | vless | @prrofile_purple | 143",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 148",
                 "🇺🇸US | 🟢 | vless | @customv2ray | 22",
-                "🇨🇦CA | 🟢 | vless | @ConfigsHUB | 8",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 19",
+                "🇰🇷KR | 🟢 | vless | @ConfigsHUB | 8",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 13",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 5",
-                "🇩🇪DE | 🔴 | vless | @free1_vpn | 6",
                 "🇵🇱PL | 🟢 | vless | @Outlinev2rayNG | 3",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 4",
                 "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 5",
@@ -1173,35 +1173,6 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | @prrofile_purple | 105",
-            "type": "vless",
-            "server": "zZz.ZzZ.zZz.yasharteam.com",
-            "server_port": 443,
-            "uuid": "e355298a-de7d-411f-85d7-eaef3f864380",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
-                    "short_id": "e54b5ad736ae4c38"
-                }
-            }
-        },
-        {
             "tag": "🇳🇱NL | 🟢 | vless | @prrofile_purple | 111",
             "type": "vless",
             "server": "92.112.126.22",
@@ -1499,6 +1470,71 @@
             }
         },
         {
+            "tag": "🇫🇮FI | 🟢 | vless | @prrofile_purple | 143",
+            "type": "vless",
+            "server": "direct.yasharteam.com",
+            "server_port": 443,
+            "uuid": "59db3b45-830a-4b6c-8b7d-9bd6d7189c7d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
+                    "short_id": "e54b5ad736ae4c38"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 148",
+            "type": "vless",
+            "server": "91.107.243.238",
+            "server_port": 2025,
+            "uuid": "3f042483-c71c-40cc-a4b7-d79f80db4253",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cloudflare.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw",
+                    "short_id": "8d9c20be72b4"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram : @PouRia_Cheat",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
             "tag": "🇺🇸US | 🟢 | vless | @customv2ray | 22",
             "type": "vless",
             "server": "5.181.171.2",
@@ -1528,7 +1564,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vless | @ConfigsHUB | 8",
+            "tag": "🇰🇷KR | 🟢 | vless | @ConfigsHUB | 8",
             "type": "vless",
             "server": "amazon-20.cristiano.name.ng",
             "server_port": 443,
@@ -1557,11 +1593,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 13",
             "type": "vless",
-            "server": "order.dissertationhelpspecialist.com",
-            "server_port": 443,
-            "uuid": "3dbe7503-4537-48ad-9a63-79eb3805243d",
+            "server": "146.190.17.238",
+            "server_port": 59365,
+            "uuid": "dc1985a0-76ce-486f-b571-4b210aadbc8c",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1571,22 +1607,22 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "cloudflare.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "xI1IUDhIUaKY3qPE9CSOcNaiJ4sRc69ppRamFOMwgiI",
-                    "short_id": "3da49e0b43"
+                    "public_key": "AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik",
+                    "short_id": "1e"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice",
+                "service_name": "t.me\/entryNET",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
@@ -1619,42 +1655,6 @@
                     "public_key": "-3sZE2OPDhkNtxufF2YqPmoa5hqVna5zalfJfrUiMm0",
                     "short_id": "ecd6615548c2bddb"
                 }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @free1_vpn | 6",
-            "type": "vless",
-            "server": "87.120.205.207",
-            "server_port": 2025,
-            "uuid": "ebac2049-8367-4eab-a1a5-8b742b2fd3b6",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk",
-                    "short_id": "a76e2f1d45"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "das12327gsgsyu",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {

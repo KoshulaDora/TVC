@@ -107,11 +107,11 @@
             "outbounds": [
                 "URL-TEST",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 15",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 12",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 13",
+                "❔XX | 🟢 | vmess | @Hope_Net | 14",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 15",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1"
             ]
         },
@@ -120,11 +120,11 @@
             "type": "urltest",
             "outbounds": [
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @ConfigsHUB | 15",
+                "❔XX | 🟢 | vmess | @ConfigsHUB | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 12",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 13",
+                "❔XX | 🟢 | vmess | @Hope_Net | 14",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 15",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -165,7 +165,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 15",
+            "tag": "❔XX | 🟢 | vmess | @ConfigsHUB | 17",
             "type": "vmess",
             "server": null,
             "server_port": 0,
@@ -240,7 +240,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 12",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 14",
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 8080,
@@ -257,7 +257,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 13",
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 15",
             "type": "vmess",
             "server": "yd2.ainivp.com",
             "server_port": 33416,

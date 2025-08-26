@@ -108,9 +108,9 @@
                 "URL-TEST",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1"
             ]
         },
@@ -120,9 +120,9 @@
             "outbounds": [
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
-                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -187,7 +187,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -221,7 +221,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
             "server": "yd2.ainivp.com",
             "server_port": 33416,
@@ -255,7 +255,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
             "server": "104.17.148.22",
             "server_port": 8880,

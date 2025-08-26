@@ -110,10 +110,10 @@
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇫🇮FI | 🟢 | vless | @Outline_Vpn | 19",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 15",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 148",
+                "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 8",
-                "🇹🇷TR | 🟢 | vless | @FreakConfig | 11",
-                "🇳🇱NL | 🟢 | vless | @FreakConfig | 12",
+                "🇹🇷TR | 🟢 | vless | @FreakConfig | 12",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -128,10 +128,10 @@
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17",
                 "🇫🇮FI | 🟢 | vless | @Outline_Vpn | 19",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 15",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 148",
+                "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 8",
-                "🇹🇷TR | 🟢 | vless | @FreakConfig | 11",
-                "🇳🇱NL | 🟢 | vless | @FreakConfig | 12",
+                "🇹🇷TR | 🟢 | vless | @FreakConfig | 12",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -281,11 +281,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 15",
+            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 148",
             "type": "vless",
-            "server": "91.99.115.173",
-            "server_port": 443,
-            "uuid": "87757fc4-ef91-48d6-badb-8548def33b84",
+            "server": "91.107.243.238",
+            "server_port": 2025,
+            "uuid": "3f042483-c71c-40cc-a4b7-d79f80db4253",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -295,7 +295,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "snapp.ir",
+                "server_name": "www.cloudflare.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -304,16 +304,45 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "mEzwGx3LUXPR-sw8RFmlGM_ctzTwPlgq-mxku4wtBnc",
-                    "short_id": "c1"
+                    "public_key": "AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw",
+                    "short_id": "8d9c20be72b4"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "Ki5km8BGk5eqaB0Q1qI",
+                "service_name": "Telegram : @PouRia_Cheat",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "51.75.162.3",
+            "server_port": 443,
+            "uuid": "f7d30f9b-e77f-4162-b553-1ca6f816b870",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens",
+                    "short_id": "370dd394052f2386"
+                }
             }
         },
         {
@@ -346,7 +375,7 @@
             }
         },
         {
-            "tag": "🇹🇷TR | 🟢 | vless | @FreakConfig | 11",
+            "tag": "🇹🇷TR | 🟢 | vless | @FreakConfig | 12",
             "type": "vless",
             "server": "45.12.143.191",
             "server_port": 20329,
@@ -371,35 +400,6 @@
                     "enabled": true,
                     "public_key": "Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo",
                     "short_id": "4602ee9f9f36"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🟢 | vless | @FreakConfig | 12",
-            "type": "vless",
-            "server": "31.169.124.240",
-            "server_port": 34045,
-            "uuid": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
-                    "short_id": "e8ab71d0"
                 }
             }
         },
